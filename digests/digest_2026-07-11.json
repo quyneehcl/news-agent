@@ -1,62 +1,54 @@
 {
   "date": "2026-07-11",
-  "headline_summary": "Thị trường công nghệ tuần này chứng kiến những biến động pháp lý và nhân sự sâu sắc với việc Apple khởi kiện OpenAI vì cáo buộc đánh cắp bí mật thương mại, cùng sự ra đi của Giám dốc An toàn tại OpenAI. Bên cạnh đó, làn sóng nguồn mở tiếp tục khẳng định vị thế khi các doanh nghiệp chuyển dịch từ thuê ngoài sang tự chủ công nghệ AI, song hành cùng những thảo luận nóng hổi về bảo mật và ứng dụng AI trong nghiên cứu não bộ.",
+  "headline_summary": "Thị trường công nghệ tuần này chứng kiến những biến động lớn từ các tranh chấp pháp lý và nhân sự cấp cao, nổi bật là vụ kiện của Apple đối với OpenAI và sự ra đi của Trưởng bộ phận An toàn tại OpenAI. Bên cạnh đó, xu hướng dịch chuyển từ thuê sang tự sở hữu mô hình mã nguồn mở đang ngày càng rõ rệt, song song với những nỗ lực thắt chặt quản lý toàn cầu tại Thượng đỉnh AI của Liên Hợp Quốc.",
   "articles": [
     {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "title_vi": "Apple khởi kiện OpenAI vì cáo buộc đánh cắp bí mật thương mại",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "summary_vi": "Apple đã chính thức đệ đơn kiện OpenAI với cáo buộc hãng này lôi kéo nhân sự và khuyến khích họ đánh cắp các bí mật thương mại quan trọng. Các thông tin bị rò rỉ được cho là bao gồm tài liệu trình chiếu bảo mật, nguyên mẫu phần cứng bí mật và thông tin nhà cung cấp của Apple. Vụ việc đang làm dấy lên những tranh chấp pháp lý căng thẳng giữa hai ông lớn công nghệ hàng đầu thế giới.",
-      "why_it_matters": "Hiểu về các tranh chấp sở hữu trí tuệ và bảo mật phần cứng giúp sinh viên nhận thức được tầm quan trọng của đạo đức nghề nghiệp và tính bảo mật thông tin trong môi trường nghiên cứu AI."
+      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+      "title_vi": "Apple kiện OpenAI vì cáo buộc đánh cắp bí mật phần cứng",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+      "summary_vi": "Apple đã đệ đơn kiện OpenAI với cáo buộc lôi kéo nhân viên cũ để thu thập trái phép các tài liệu thuyết trình mật, nguyên mẫu thử nghiệm và thông tin nhà cung cấp phần cứng. Vụ kiện cho thấy sự cạnh tranh khốc liệt trong việc phát triển cơ sở hạ tầng phần cứng tối ưu cho trí tuệ nhân tạo giữa các ông lớn công nghệ.",
+      "why_it_matters": "Giúp sinh viên nhận thức được tầm quan trọng của sở hữu trí tuệ và sự giao thoa mật thiết giữa tối ưu hóa phần cứng và phần mềm trong các hệ thống AI hiện đại."
     },
     {
       "title": "Hugging Face’s CEO on why companies are done renting their AI",
-      "title_vi": "CEO Hugging Face lý giải vì sao các doanh nghiệp không còn muốn thuê AI",
-      "source": "TechCrunch AI",
+      "title_vi": "CEO của Hugging Face giải thích lý do các doanh nghiệp ngừng thuê AI",
+      "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "summary_vi": "CEO của Hugging Face, Clem Delangue, nhận định rằng xu hướng nguồn mở đang phát triển mạnh mẽ hơn bao giờ hết khi các doanh nghiệp dần từ bỏ việc thuê ngoài các mô hình AI độc quyền. Thay vào đó, họ chuyển sang tải và tinh chỉnh các mô hình cũng như tập dữ liệu mở để tự xây dựng giải pháp riêng nhằm tối ưu hóa chi phí và bảo mật dữ liệu. Hiện có khoảng một nửa số doanh nghiệp trong danh sách Fortune 500 đang sử dụng nền tảng này.",
-      "why_it_matters": "Xuuyên hướng này mở ra cơ hội nghề nghiệp lớn cho sinh viên thành thạo kỹ năng tinh chỉnh và triển khai các mô hình AI nguồn mở trên hạ tầng tự chủ của doanh nghiệp."
+      "summary_vi": "Giám đốc điều hành Hugging Face, Clem Delangue, cho biết các doanh nghiệp đang dịch chuyển mạnh mẽ từ việc thuê API AI độc quyền sang tự xây dựng và tinh chỉnh các mô hình mã nguồn mở. Việc sở hữu trực tiếp mô hình giúp doanh nghiệp kiểm soát tốt hơn dữ liệu, chi phí vận hành và khả năng tùy biến sâu.",
+      "why_it_matters": "Xu hướng này mở ra cơ hội việc làm lớn cho các kỹ sư AI có kỹ năng tinh chỉnh (fine-tuning) và triển khai mô hình mã nguồn mở tại doanh nghiệp."
     },
     {
-      "title": "AI-generated videos to maximally drive a target brain region",
-      "title_vi": "Video do AI tạo ra giúp kích hoạt tối đa một vùng não mục tiêu",
-      "source": "Hacker News (Top AI mentions)",
-      "url": "https://nevo-project.epfl.ch/",
-      "summary_vi": "Dự án NEVO từ Thụy Sĩ đã phát triển một phương pháp sử dụng AI để tạo ra các video kích thích thị giác nhằm kích hoạt có chọn lọc và tối đa các vùng não cụ thể ở động vật. Nghiên cứu này kết hợp giữa mô hình mạng thần kinh nhân tạo và ghi nhận hoạt động thần kinh thực tế để tối ưu hóa nội dung video. Đây là một bước tiến quan trọng trong việc hiểu cách não bộ xử lý thông tin thị giác động.",
-      "why_it_matters": "Đây là ví dụ xuất sắc về giao thoa giữa Khoa học thần kinh tính toán và AI, gợi ý những hướng đi mới trong việc thiết kế giao diện não-máy tính."
-    },
-    {
-      "title": "A font that humans can read but AI cannot",
-      "title_vi": "Loại phông chữ con người có thể đọc nhưng AI thì chịu thua",
-      "source": "Hacker News (Top AI mentions)",
-      "url": "https://www.mixfont.com/ghost-font",
-      "summary_vi": "Ghost Font là một phông chữ đặc biệt được thiết kế để bảo vệ quyền riêng tư bằng cách hiển thị rõ ràng đối với mắt người nhưng lại khiến các thuật toán nhận dạng ký tự quang học của AI không thể đọc được. Dự án này tận dụng các điểm mù trong cách AI xử lý hình ảnh và nhận diện mẫu ký tự. Đây là một giải pháp sáng tạo để hạn chế việc thu thập dữ liệu tự động từ các mô hình AI.",
-      "why_it_matters": "Giúp sinh viên hiểu sâu hơn về bảo mật AI và các kỹ thuật tấn công hoặc phòng thủ đối kháng trong lĩnh vực thị giác máy tính."
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "title_vi": "Meta gỡ bỏ tính năng AI gây tranh cãi trên Instagram sau làn sóng phản đối",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "summary_vi": "Meta đã phải dừng một tính năng AI sáng tạo trên Instagram vốn tự động sử dụng nội dung công khai của người dùng để làm dữ liệu huấn luyện. Quyết định được đưa ra sau khi cộng đồng người dùng phản ứng dữ dội về vấn đề quyền riêng tư và quyền kiểm soát dữ liệu cá nhân.",
+      "why_it_matters": "Nhắc nhở sinh viên rằng việc xây dựng các ứng dụng AI phải luôn đi đôi với đạo đức dữ liệu và sự đồng thuận của người dùng."
     },
     {
       "title": "OpenAI’s Head of Safety Is Leaving the Company",
       "title_vi": "Trưởng bộ phận An toàn của OpenAI rời công ty",
-      "source": "Wired AI",
+      "source": "Wired",
       "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-      "summary_vi": "Johannes Heidecke, Trưởng bộ phận An toàn tại OpenAI, đã quyết định rời công ty trong bối cảnh tổ chức này đang nỗ lực sáp nhập sâu hơn các nhóm nghiên cứu và an toàn lại với nhau. Sự ra đi này nối tiếp chuỗi biến động nhân sự cấp cao tại OpenAI liên quan đến những bất đồng về định hướng an toàn công nghệ. Điều này đặt ra nhiều câu hỏi về cam kết bảo vệ người dùng của công ty trước áp lực thương mại hóa nhanh chóng.",
-      "why_it_matters": "Nhắc nhở sinh viên về tầm quan trọng của việc nghiên cứu AI an toàn và tính chính trực khi đối mặt với các áp lực kinh doanh trong thực tế."
+      "summary_vi": "Johannes Heidecke, Trưởng bộ phận An toàn của OpenAI, vừa thông báo từ chức trong bối cảnh công ty đang nỗ lực sáp nhập sâu hơn nhóm nghiên cứu và nhóm an toàn làm một. Sự ra đi này nối tiếp chuỗi biến động nhân sự cấp cao tại OpenAI liên quan đến những tranh cãi về mức độ ưu tiên cho an toàn AI.",
+      "why_it_matters": "Cho thấy sự căng thẳng và thách thức thực tế trong việc cân bằng giữa tốc độ thương mại hóa và các rào cản an toàn trong nghiên cứu AI."
     },
     {
-      "title": "Meta pulls new AI image feature after days of backlash",
-      "title_vi": "Meta gỡ bỏ tính năng tạo ảnh bằng AI sau nhiều ngày bị phản đối dữ dội",
-      "source": "Hacker News (Top AI mentions)",
-      "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
-      "summary_vi": "Meta đã phải gỡ bỏ một tính năng tạo ảnh bằng AI mới trên Instagram chỉ sau vài ngày ra mắt do vấp phải làn sóng chỉ trích mạnh mẽ từ người dùng. Tính năng này tự động tham chiếu dữ liệu từ các bài đăng công khai của người dùng để tạo nội dung mới, khiến nhiều người lo ngại về quyền riêng tư và bản quyền. Meta thừa nhận công cụ sáng tạo này đã không đạt được kỳ vọng và cam kết lắng nghe phản hồi từ cộng đồng.",
-      "why_it_matters": "Minh họa rõ nét bài học về quản trị dữ liệu người dùng và thiết kế sản phẩm AI có trách nhiệm nhằm tránh các rủi ro pháp lý và phản ứng từ công chúng."
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "title_vi": "SK Hynix huy động 26,5 tỷ USD trong thương vụ IPO nước ngoài lớn nhất lịch sử Mỹ",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "summary_vi": "Cơn sốt chip AI đã đẩy SK Hynix đạt kỷ lục gọi vốn mới trên sàn chứng khoán Mỹ nhằm mở rộng năng lực sản xuất bộ nhớ băng thông cao (HBM) dùng cho các siêu máy tính AI. Đồng thời, chính phủ Mỹ cũng đang thúc giục công ty xây dựng thêm các nhà máy sản xuất chip trực tiếp tại quốc gia này.",
+      "why_it_matters": "Giúp sinh viên hiểu được tầm quan trọng của chuỗi cung ứng phần cứng và công nghệ bộ nhớ bán dẫn đối với giới hạn hiệu năng của mô hình AI."
     },
     {
-      "title": "How the terrorist group Boko Haram uses frontier AI",
-      "title_vi": "Cách tổ chức khủng bố Boko Haram sử dụng các công nghệ AI tiên tiến",
-      "source": "Hacker News (Top AI mentions)",
-      "url": "https://casp.ac/reports/ai-enabled-terrorism",
-      "summary_vi": "Một báo cáo mới đã làm rõ cách thức tổ chức khủng bố Boko Haram khai thác các mô hình AI tiên tiến để tối ưu hóa hoạt động tuyên truyền, tuyển dụng và lên kế hoạch chiến thuật. Nghiên cứu này cảnh báo về việc các công cụ AI nguồn mở và thương mại đang bị lạm dụng ngoài tầm kiểm soát của các nhà phát triển. Đây là hồi chuông cảnh tỉnh yêu cầu các cơ quan quản lý và công ty công nghệ phải thắt chặt kiểm soát an ninh đối với các mô hình ngôn ngữ lớn.",
-      "why_it_matters": "Giúp sinh viên nhận thức được mặt tối của công nghệ và tầm quan trọng của các nghiên cứu về đánh giá rủi ro cũng như kiểm thử an toàn cho mô hình."
+      "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
+      "title_vi": "Chó robot, Tesla và trực thăng cứu hộ: Thượng đỉnh AI của Liên Hợp Quốc đầy sôi động",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
+      "summary_vi": "Hội nghị thượng đỉnh 'AI vì lợi ích cộng đồng' của Liên Hợp Quốc đã trình diễn hàng loạt công nghệ thực tế từ cứu hộ đến tự động hóa, đồng thời đặt ra câu hỏi cấp bách về quản trị toàn cầu. Các nhà lãnh đạo đang nỗ lực tìm kiếm cơ chế kiểm soát chung trước khi tốc độ phát triển của AI vượt quá tầm kiểm soát của luật pháp.",
+      "why_it_matters": "Mở rộng tầm nhìn của sinh viên về các ứng dụng thực tế của AI trong giải quyết các vấn đề xã hội lớn và tầm quan trọng của chính sách quản trị công nghệ."
     }
   ]
 }
