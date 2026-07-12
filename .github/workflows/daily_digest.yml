@@ -1,11 +1,8 @@
 name: Daily AI/DS News Digest
 
 on:
-  schedule:
-    # Chạy 9:00 sáng giờ Việt Nam (UTC+7) = 2:00 UTC (dự phòng, có thể bị GitHub trễ/bỏ qua)
-    - cron: "0 2 * * *"
   repository_dispatch:
-    types: [daily-trigger] # để dịch vụ ngoài (cron-job.org) ép chạy đúng giờ
+    types: [daily-trigger] # cron-job.org gọi vào đúng giờ mỗi ngày
   workflow_dispatch: {} # cho phép bấm chạy tay để test
 
 permissions:
@@ -38,4 +35,5 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add digests/
           git diff --staged --quiet || git commit -m "Bản tin ngày $(date +%Y-%m-%d)"
+          git pull --rebase origin main
           git push
