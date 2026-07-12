@@ -1,62 +1,30 @@
 {
   "date": "2026-07-12",
-  "headline_summary": "Xu hướng AI nổi bật hôm nay tập trung vào những thách thức lớn về mặt vận hành và đạo đức, bao gồm sự gia tăng lượng khí thải từ các trung tâm dữ liệu của Microsoft và làn sóng phản đối quyền riêng tư khiến Meta phải rút lại tính năng ảnh AI. Đồng thời, những bước tiến mới trong tính toán phân tán qua Mesh LLM và các biến động nhân sự cấp cao tại bộ phận an toàn của OpenAI đang định hình lại tương lai phát triển công nghệ này.",
+  "headline_summary": "Xu hướng công nghệ hôm nay tập trung vào những bước chuyển mình quan trọng của các ông lớn AI trong việc cá nhân hóa ứng dụng và đối mặt với các thách thức vận hành. Trong khi OpenAI đang nỗ lực mở rộng ChatGPT tới phân khúc hộ gia đình nhưng lại tiếp tục biến động nhân sự cấp cao ở mảng an toàn, thì Meta buộc phải gỡ bỏ một tính năng AI trên Instagram trước áp lực bảo vệ quyền riêng tư từ người dùng.",
   "articles": [
     {
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "title_vi": "Mesh LLM: Tính toán AI phân tán trên nền tảng iroh",
-      "source": "Hacker News",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "summary_vi": "Bài viết giới thiệu Mesh LLM, một giải pháp cho phép chạy các mô hình ngôn ngữ lớn (LLM) thông qua mạng lưới tính toán phân tán sử dụng giao thức iroh. Phương pháp này giúp tận dụng tài nguyên phần cứng từ nhiều thiết bị cá nhân khác nhau thay vì phụ thuộc hoàn toàn vào các cụm máy chủ đám mây khổng lồ và đắt đỏ.",
-      "why_it_matters": "Giúp sinh viên hiểu cách tối ưu hóa và triển khai các mô hình AI lớn trên mạng lưới thiết bị phân tán trong bối cảnh khan hiếm tài nguyên phần cứng tập trung."
-    },
-    {
-      "title": "AI 2040 and the cult of intelligence",
-      "title_vi": "AI năm 2040 và sự sùng bái trí tuệ thông minh",
-      "source": "Hacker News",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-      "summary_vi": "George Hotz chia sẻ góc nhìn cá nhân sâu sắc về tương lai của AI vào năm 2040, đồng thời phản biện sự sùng bái trí tuệ hiện nay trong cộng đồng công nghệ. Tác giả đặt câu hỏi về định nghĩa thực sự của sự thông minh và liệu việc theo đuổi trí tuệ nhân tạo tổng hợp (AGI) có đang bị thổi phồng quá mức so với thực tế.",
-      "why_it_matters": "Khơi gợi tư duy phản biện cho sinh viên về giới hạn thực tế của AI và tầm quan trọng của việc định hình tương lai công nghệ một cách nhân văn."
-    },
-    {
-      "title": "Ghost Font: A font that humans can read but AI cannot",
-      "title_vi": "Ghost Font: Phông chữ con người có thể đọc được nhưng AI thì không",
-      "source": "Hacker News",
-      "url": "https://www.mixfont.com/ghost-font",
-      "summary_vi": "Dự án giới thiệu một loại phông chữ đặc biệt mang tên Ghost Font, được thiết kế để bảo vệ nội dung văn bản khỏi các công cụ thu thập dữ liệu tự động của AI. Nhờ việc biến đổi cấu trúc hiển thị một cách khéo léo, mắt người vẫn có thể đọc văn bản dễ dàng trong khi các mô hình nhận diện ký tự (OCR) lại hoàn toàn bị vô hiệu hóa.",
-      "why_it_matters": "Giúp sinh viên tiếp cận các phương pháp bảo mật thông tin sáng tạo và kỹ thuật chống thu thập dữ liệu trái phép trong kỷ nguyên AI."
-    },
-    {
-      "title": "Microsoft latest report shows 25% emissions raised due to AI data centers",
-      "title_vi": "Báo cáo mới nhất của Microsoft cho thấy lượng khí thải tăng 25% do các trung tâm dữ liệu AI",
-      "source": "Hacker News",
-      "url": "https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump",
-      "summary_vi": "Báo cáo môi trường mới nhất của Microsoft tiết lộ lượng khí thải carbon của hãng đã tăng vọt 25%. Nguyên nhân chính được xác định là do việc ồ ạt mở rộng quy mô các trung tâm dữ liệu khổng lồ nhằm phục vụ cho cuộc đua huấn luyện và vận hành các mô hình AI.",
-      "why_it_matters": "Nhắc nhở sinh viên về thách thức năng lượng và môi trường, thúc đẩy nghiên cứu các giải pháp tối ưu hóa thuật toán và xây dựng hệ thống AI xanh."
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "title_vi": "OpenAI đặt cược vào nhóm khách hàng gia đình khi đưa ChatGPT tiếp cận sâu hơn vào các hộ gia đình",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "summary_vi": "OpenAI đang có kế hoạch tuyển dụng một quản lý sản phẩm chuyên biệt nhằm xây dựng các trải nghiệm dành riêng cho gia đình, người chăm sóc và người cao tuổi. Động thái này cho thấy nỗ lực của công ty trong việc mở rộng đối tượng người dùng của ChatGPT ra ngoài giới công nghệ và văn phòng. Việc tùy biến giao diện và tính năng cho nhóm người dùng này hứa hẹn mở ra một phân khúc thị trường AI tiêu dùng hoàn toàn mới.",
+      "why_it_matters": "Giúp sinh viên nhận thức được tầm quan trọng của việc thiết kế sản phẩm AI hướng tới người dùng cuối và cách cá nhân hóa công nghệ cho các nhóm đối tượng không chuyên."
     },
     {
       "title": "Meta removes controversial AI feature on Instagram after backlash",
       "title_vi": "Meta gỡ bỏ tính năng AI gây tranh cãi trên Instagram sau làn sóng phản đối",
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "summary_vi": "Meta đã buộc phải thu hồi một tính năng tạo ảnh bằng AI mới ra mắt trên Instagram sau khi vấp phải phản ứng dữ dội từ người dùng. Tính năng này tự động sử dụng hình ảnh công khai của người dùng để huấn luyện và tham chiếu hình ảnh mới, gây ra những lo ngại sâu sắc về việc xâm phạm dữ liệu cá nhân.",
-      "why_it_matters": "Giúp sinh viên nhận thức rõ tầm quan trọng của đạo đức AI và ranh giới bảo vệ quyền riêng tư của người dùng khi thiết kế sản phẩm."
-    },
-    {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "title_vi": "OpenAI đặt cược vào phân khúc gia đình khi đưa ChatGPT thâm nhập sâu hơn vào đời sống thường nhật",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "summary_vi": "OpenAI đang lên kế hoạch tuyển dụng một giám đốc sản phẩm chuyên biệt nhằm xây dựng các trải nghiệm ChatGPT dành riêng cho đối tượng gia đình, người chăm sóc và người cao tuổi. Bước đi này thể hiện tham vọng đưa ChatGPT từ một công cụ làm việc cá nhân trở thành trợ lý đa dụng, thân thiện trong mọi hộ gia đình.",
-      "why_it_matters": "Minh họa xu hướng thương mại hóa và thiết kế trải nghiệm người dùng (UX) để cá nhân hóa các mô hình AI cho nhiều đối tượng khách hàng đại chúng."
+      "summary_vi": "Meta đã chính thức gỡ bỏ một tính năng AI gây tranh cãi trên Instagram sau khi nhận được nhiều phản hồi tiêu cực từ cộng đồng. Tính năng này ban đầu được thiết kế để cung cấp công cụ sáng tạo và cho phép người dùng kiểm soát việc nội dung công khai của họ có bị AI tham chiếu hay không. Tuy nhiên, trước sự phản đối mạnh mẽ về quyền riêng tư và bản quyền, Meta đã phải quyết định dừng tính năng này để điều chỉnh.",
+      "why_it_matters": "Đây là bài học thực tế sâu sắc cho sinh viên về đạo đức AI, tầm quan trọng của quyền riêng tư dữ liệu và cách phản ứng của người dùng khi triển khai sản phẩm thực tế."
     },
     {
       "title": "OpenAI’s Head of Safety Is Leaving the Company",
-      "title_vi": "Trưởng bộ phận An toàn của OpenAI rời công ty",
+      "title_vi": "Trưởng bộ phận an toàn của OpenAI rời công ty",
       "source": "Wired AI",
       "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-      "summary_vi": "Johannes Heidecke, Trưởng bộ phận An toàn tại OpenAI, đã quyết định rời bỏ công ty trong bối cảnh hãng đang nỗ lực sáp nhập sâu hơn các đội ngũ nghiên cứu và đội ngũ an toàn lại với nhau. Sự ra đi này nối tiếp chuỗi biến động nhân sự cấp cao tại OpenAI liên quan đến những bất đồng trong định hướng phát triển AI an toàn.",
-      "why_it_matters": "Giúp sinh viên nắm bắt được thực tế xung đột trong ngành công nghiệp AI giữa mục tiêu phát triển sản phẩm nhanh chóng và quy trình kiểm soát an toàn nghiêm ngặt."
+      "summary_vi": "Johannes Heidecke, trưởng bộ phận an toàn của OpenAI, đã quyết định rời công ty trong bối cảnh hãng này đang nỗ lực hợp nhất sâu hơn giữa các đội ngũ nghiên cứu và đội ngũ an toàn. Sự ra đi này tiếp tục làm dấy lên những cuộc thảo luận về cách cân bằng giữa tốc độ thương mại hóa sản phẩm và các tiêu chuẩn an toàn AI. Đây là một phần của làn sóng thay đổi nhân sự cấp cao liên tục diễn ra tại các startup AI lớn thời gian gần đây.",
+      "why_it_matters": "Giúp sinh viên hiểu rõ tầm quan trọng của việc quản trị và bảo mật AI trong doanh nghiệp, cũng như sự xung đột thường trực giữa phát triển công nghệ nhanh và đảm bảo an toàn."
     }
   ]
 }
