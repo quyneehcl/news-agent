@@ -2,8 +2,10 @@ name: Daily AI/DS News Digest
 
 on:
   schedule:
-    # Chạy 9:00 sáng giờ Việt Nam (UTC+7) = 2:00 UTC
+    # Chạy 9:00 sáng giờ Việt Nam (UTC+7) = 2:00 UTC (dự phòng, có thể bị GitHub trễ/bỏ qua)
     - cron: "0 2 * * *"
+  repository_dispatch:
+    types: [daily-trigger] # để dịch vụ ngoài (cron-job.org) ép chạy đúng giờ
   workflow_dispatch: {} # cho phép bấm chạy tay để test
 
 permissions:
@@ -20,7 +22,7 @@ jobs:
           python-version: "3.12"
 
       - name: Cài thư viện
-        run: pip install feedparser google-genai python-dotenv
+        run: pip install feedparser google-genai python-dotenv certifi
 
       - name: Chạy news agent
         env:
