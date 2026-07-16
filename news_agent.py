@@ -7,6 +7,7 @@ Chạy: python3 news_agent.py
 import os
 import json
 import smtplib
+import time
 from datetime import datetime, timedelta, timezone
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
@@ -16,6 +17,7 @@ import ssl
 import certifi
 import urllib.request
 from google import genai
+from google.genai import errors as genai_errors
 from google.genai import types
 from dotenv import load_dotenv
 
@@ -100,6 +102,33 @@ def fetch_recent_entries(hours: int = 24) -> list:
     return entries
 
 
+# Mã lỗi HTTP tạm thời, đáng để thử lại (server quá tải, rate limit, timeout)
+RETRIABLE_STATUS_CODES = {429, 500, 502, 503, 504}
+
+
+def _call_gemini_with_retry(prompt: str, max_retries: int = 5, base_delay: float = 5.0):
+    """Gọi Gemini với retry + exponential backoff cho lỗi tạm thời (vd. 503 UNAVAILABLE)."""
+    last_error = None
+    for attempt in range(1, max_retries + 1):
+        try:
+            return client.models.generate_content(
+                model="gemini-3.5-flash",
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                    response_schema=DIGEST_SCHEMA,
+                ),
+            )
+        except genai_errors.APIError as e:
+            last_error = e
+            if e.code not in RETRIABLE_STATUS_CODES or attempt == max_retries:
+                raise
+            delay = base_delay * (2 ** (attempt - 1))
+            print(f"  ⚠ Gemini lỗi {e.code} {e.status} (lần {attempt}/{max_retries}), thử lại sau {delay:.0f}s...")
+            time.sleep(delay)
+    raise last_error
+
+
 def curate_digest(entries: list) -> dict:
     """Dùng Gemini lọc ra các tin đáng chú ý nhất và tóm tắt tiếng Việt."""
     entries_text = "\n\n".join(
@@ -121,14 +150,7 @@ def curate_digest(entries: list) -> dict:
         "Việt tóm tắt xu hướng nổi bật nhất trong toàn bộ tin hôm nay (headline_summary)."
     )
 
-    response = client.models.generate_content(
-        model="gemini-3.5-flash",
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            response_mime_type="application/json",
-            response_schema=DIGEST_SCHEMA,
-        ),
-    )
+    response = _call_gemini_with_retry(prompt)
     return json.loads(response.text)
 
 
@@ -182,8 +204,20 @@ if __name__ == "__main__":
     if not entries:
         print("Không có tin mới, dừng.")
     else:
+        # Lưu tạm các bài đã fetch trước khi gọi Gemini, để không mất dữ liệu
+        # nếu Gemini lỗi (vd. 503 UNAVAILABLE) sau khi đã hết lượt retry.
+        os.makedirs("digests", exist_ok=True)
+        raw_entries_path = "digests/raw_entries_latest.json"
+        with open(raw_entries_path, "w", encoding="utf-8") as f:
+            json.dump(entries, f, ensure_ascii=False, indent=2)
+
         print("Đang lọc và tóm tắt bằng Gemini...")
-        digest = curate_digest(entries)
+        try:
+            digest = curate_digest(entries)
+        except genai_errors.APIError as e:
+            print(f"  ✗ Gemini lỗi {e.code} {e.status} sau khi đã thử lại nhiều lần.")
+            print(f"  Danh sách {len(entries)} bài viết đã fetch được lưu tại {raw_entries_path}, không bị mất.")
+            raise
         digest["date"] = datetime.now().strftime("%Y-%m-%d")
 
         os.makedirs("digests", exist_ok=True)

@@ -2,3 +2,4 @@
 __pycache__/
 *.pyc
 .venv/
+digests/raw_entries_latest.json
