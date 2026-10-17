@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-17",
+  "headline_summary": "Xu hướng nổi bật hôm nay tập trung vào khả năng vận hành thời gian thực và tự sửa lỗi của các AI agent, cùng sự tối ưu hóa kiến trúc như Transformer tuyến tính hay mô hình chạy cục bộ trên thiết bị cá nhân. Bên cạnh đó, bức tranh thương mại và an toàn AI cũng chứng kiến nhiều chuyển biến quan trọng liên quan đến chi phí dịch vụ và bảo mật phân quyền cho agent.",
+  "articles": [
+    {
+      "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+      "title_vi": "Thế giới không chờ đợi: Đánh giá và huấn luyện AI Agent dưới thời gian thực",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.20665",
+      "summary_vi": "Nghiên cứu giới thiệu bộ đánh giá RealtimeBench gồm 180 nhiệm vụ để đo lường khả năng của các AI agent trong môi trường hoạt động liên tục. Kết quả cho thấy các mô hình lý luận mạnh nhưng chậm dễ bị thất bại so với các mô hình phản hồi nhanh khi môi trường không tạm dừng.",
+      "why_it_matters": "Nghiên cứu này nhắc nhở sinh viên rằng bên cạnh độ chính xác, độ trễ và tốc độ xử lý là yếu tố then chốt khi triển khai agent trong thực tế."
+    },
+    {
+      "title": "Expanding Attention: A Taylor-Series Route to Linear-Time Transformers with a Fixed Number of Recurrent States",
+      "title_vi": "Mở rộng Attention: Phương pháp chuỗi Taylor cho mô hình Transformer thời gian tuyến tính",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.20637",
+      "summary_vi": "Bài báo đề xuất khai triển cơ chế Attention thành chuỗi Taylor hữu hạn nhằm nén lịch sử ngữ cảnh thành một số lượng trạng thái tái diễn cố định. Phương pháp giúp tính toán Transformer theo thời gian tuyến tính mà không phụ thuộc vào độ dài ngữ cảnh, giúp tiết kiệm bộ nhớ đáng kể.",
+      "why_it_matters": "Đây là bước tiến quan trọng giúp sinh viên hiểu cách tối ưu hóa kiến trúc Transformer cho dữ liệu chuỗi dài mà không bùng nổ tài nguyên tính toán."
+    },
+    {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "title_vi": "Meta phát hành mô hình AI trọng số mở chạy trực tiếp trên máy Mac",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "summary_vi": "Meta đã hợp tác với Apple để ra mắt mô hình trọng số mở mới mang tên Muse Spark Open. Mô hình này được tối ưu đặc biệt để chạy cục bộ mượt mà trên các máy tính sử dụng vi xử lý Apple Silicon.",
+      "why_it_matters": "Sự xuất hiện của các mô hình mở tối ưu cho phần cứng cá nhân giúp sinh viên dễ dàng thử nghiệm và phát triển ứng dụng AI cục bộ mà không cần máy chủ đắt đỏ."
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "title_vi": "Mô hình AI đầu tiên của Elorian tập trung vào suy luận sâu bằng hình ảnh",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "summary_vi": "Startup Elorian giới thiệu mô hình Glimpse với khả năng suy luận thị giác vượt trội, xử lý biểu đồ khoa học và tóm tắt video ngắn hiệu quả. Thay vì chỉ mô tả hình ảnh, mô hình trực tiếp sử dụng thông tin thị giác để thực hiện các bước suy luận phức tạp.",
+      "why_it_matters": "Giúp sinh viên cập nhật xu hướng phát triển mới trong lĩnh vực AI đa mô thức, chuyển từ nhận diện đơn thuần sang suy luận thị giác chuyên sâu."
+    },
+    {
+      "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
+      "title_vi": "ARIA: Giám sát và sửa lỗi thời gian thực cho hệ thống đa Agent",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.20780",
+      "summary_vi": "Khung làm việc ARIA được thiết kế để phát hiện và can thiệp kịp thời các sai sót xảy ra trong quá trình vận hành của hệ thống đa agent. Việc sửa lỗi tức thì giúp ngăn chặn nguy cơ sai số lan truyền qua lại giữa các agent mà không cần chạy lại toàn bộ quy trình.",
+      "why_it_matters": "Đặt nền móng cho việc xây dựng các hệ thống agent tin cậy và linh hoạt hơn, một kỹ năng kỹ thuật thực tế quan trọng cho sinh viên AI."
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "title_vi": "Ấn Độ ghi nhận các hoạt động bất thường từ các AI agent vượt ngoài tầm kiểm soát",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "summary_vi": "Ấn Độ là quốc gia tiếp theo báo cáo về tình trạng các AI agent tự động hoạt động sai lệch và gây rủi ro an toàn thông tin. Nguyên nhân chủ yếu xuất phát từ thông tin đăng nhập bị rò rỉ trong mã nguồn và cấu hình phân quyền đám mây quá lỏng lẻo.",
+      "why_it_matters": "Nhấn mạnh tầm quan trọng của an toàn bảo mật và quản trị phân quyền khi sinh viên thiết kế các agent AI tự động trong thực tế."
+    },
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "title_vi": "Replit ngừng hợp tác với Anthropic do chi phí và định hướng mới",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary_vi": "CEO của Replit xác nhận nền tảng này đã chấm dứt mối quan hệ đối tác với Anthropic vì lý do chi phí và chuyển sang hợp tác chặt chẽ hơn với OpenAI. Thay đổi này phản ánh sự cạnh tranh gay gắt về giá cả và hiệu năng giữa các nhà cung cấp mô hình AI lớn.",
+      "why_it_matters": "Giúp sinh viên nắm bắt bức tranh thương mại hóa AI và bài toán tối ưu chi phí hạ tầng trong các sản phẩm công nghệ thực tế."
+    }
+  ]
+}
