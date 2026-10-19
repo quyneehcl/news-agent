@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-19",
+  "headline_summary": "Tin tức AI hôm nay nổi bật với các rào cản mới trong việc thu thập dữ liệu web và những tranh luận về chính sách an toàn AI. Bên cạnh đó, xu hướng tập trung nhân tài AI vào các tập đoàn giải trí lớn cùng việc ra đời các công cụ kiểm soát chất lượng mã nguồn AI cho thấy sự trưởng thành hơn của thị trường.",
+  "articles": [
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "title_vi": "Các trang web đang đóng cửa ngăn chặn các tác nhân AI",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "summary_vi": "Nhiều trang web đang gia tăng việc triển khai các biện pháp kỹ thuật nhằm chặn các tác nhân AI tự động truy cập và thu thập dữ liệu. Xu hướng này xuất phát từ lo ngại về việc cạn kiệt tài nguyên máy chủ và mất kiểm soát đối với dữ liệu bản quyền. Điều này tạo ra rào cản lớn cho các mô hình AI hoạt động dựa trên việc duyệt web thời gian thực.",
+      "why_it_matters": "Sinh viên cần hiểu rõ thách thức về thu thập dữ liệu thực tế và các rào cản kỹ thuật khi phát triển các tác nhân AI tự động (AI Agents)."
+    },
+    {
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "title_vi": "Sphinx: Công cụ kiểm tra kiến thức lập trình viên về mã nguồn do AI tạo ra trước khi triển khai",
+      "source": "Hacker News",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "summary_vi": "Sphinx là một công cụ mã nguồn mở tích hợp vào quy trình làm việc với tác nhân lập trình AI. Mỗi khi lập trình viên đưa mã nguồn lên môi trường thực tế, công cụ sẽ đưa ra bộ câu hỏi để đảm bảo họ thực sự hiểu cách hoạt động của đoạn mã do AI viết. Điều này giúp ngăn chặn tình trạng phụ thuộc mù quáng vào AI và giảm thiểu rủi ro bảo mật.",
+      "why_it_matters": "Đây là ví dụ điển hình về xu hướng phát triển công cụ kiểm soát chất lượng nhằm đảm bảo kỹ sư nắm vững bản chất mã nguồn khi sử dụng AI hỗ trợ."
+    },
+    {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "title_vi": "Disney đồng ý tuyển dụng phần lớn nhân sự của Character.AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "summary_vi": "Tập đoàn giải trí Disney đã đạt được thỏa thuận tuyển dụng phần lớn đội ngũ nhân sự của công ty khởi nghiệp AI nổi tiếng Character.AI. Thương vụ này cho thấy chiến lược thâu tóm tài năng của các tập đoàn lớn thay vì mua lại toàn bộ công ty. Bước đi này giúp Disney tăng cường năng lực phát triển các trải nghiệm AI tương tác với nhân vật.",
+      "why_it_matters": "Sự kiện này phản ánh xu hướng dịch chuyển nhân tài AI từ các công ty khởi nghiệp sang các tập đoàn truyền thống lớn."
+    },
+    {
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "title_vi": "Meta gỡ bỏ các điều khoản gây tranh cãi về thu thập dữ liệu và huấn luyện AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "summary_vi": "Meta đã điều chỉnh các điều khoản dịch vụ bằng cách gỡ bỏ một số ngôn từ gây lo ngại về việc thu thập dữ liệu web công khai để huấn luyện AI. Mặc dù đại diện Meta khẳng định điều này không thay đổi cách thức thu thập dữ liệu thực tế, hành động này cho thấy áp lực dư luận đang gia tăng. Vấn đề bản quyền và quyền riêng tư dữ liệu tiếp tục là điểm nóng ảnh hưởng đến chiến lược phát triển mô hình lớn.",
+      "why_it_matters": "Giúp sinh viên cập nhật các biến động chính sách dữ liệu, yếu tố quyết định nguồn dữ liệu đầu vào cho các mô hình AI."
+    },
+    {
+      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "title_vi": "Dự luật an toàn AI do Anthropic đề xuất chỉ áp dụng khi có 50 người chết hoặc thiệt hại 1 tỷ USD",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "summary_vi": "Anthropic đã đưa ra đề xuất về dự luật an toàn AI, trong đó quy định cơ quan quản lý chỉ can thiệp nếu mô hình AI gây ra thiệt hại tối thiểu 50 ca tử vong hoặc 1 tỷ USD. Đề xuất này giao Bộ Thương mại Mỹ làm cơ quan duy nhất có thẩm quyền dừng một mô hình AI. Động thái này dấy lên nhiều tranh cãi về ranh giới kiểm soát an toàn và trách nhiệm giải trình của các công ty AI.",
+      "why_it_matters": "Giúp sinh viên hiểu được các tranh luận chính sách và tiêu chuẩn an toàn AI đang được các công ty hàng đầu định hình."
+    },
+    {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "title_vi": "Anthropic cam kết trích 5% cổ phần cho quỹ lợi ích cộng đồng",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "summary_vi": "Công ty AI Anthropic tuyên bố sẽ trích 5% tổng số cổ phần của mình để đóng góp vào một quỹ lợi ích cộng đồng. Quỹ này hướng tới việc hỗ trợ các nghiên cứu và dự án tác động tích cực của AI đối với xã hội trong tương lai. Hành động này nằm trong nỗ lực thể hiện trách nhiệm xã hội và duy trì sứ mệnh phát triển AI an toàn.",
+      "why_it_matters": "Cho thấy xu hướng tái định hình cấu trúc doanh nghiệp AI nhằm cân bằng giữa lợi nhuận tài chính và lợi ích cộng đồng dài hạn."
+    }
+  ]
+}
