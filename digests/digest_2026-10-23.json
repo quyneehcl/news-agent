@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-23",
+  "headline_summary": "Thị trường AI chứng kiến sự bùng nổ về mặt định giá tài chính với các vòng gọi vốn kỷ lục của OpenAI và DeepSeek. Đồng thời, các nghiên cứu mới về tác tử thông minh (AI agents), mô hình y tế chuyên sâu và ứng dụng AI sinh học đang định hình lại khả năng tự chủ cũng như phạm vi tác động của công nghệ AI.",
+  "articles": [
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "title_vi": "OpenAI chuẩn bị gọi vốn 30 tỷ USD với mức định giá 1,25 nghìn tỷ USD trước khi lên sàn",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "summary_vi": "OpenAI đang trong quá trình đàm phán để huy động thêm 30 tỷ USD, đưa định giá công ty lên mức kỷ lục 1,25 nghìn tỷ USD trước đợt phát hành cổ phiếu lần đầu ra công chúng (IPO). Nếu thành công, đây sẽ là công ty tư nhân được định giá cao nhất trong lịch sử công nghệ. Vòng gọi vốn này nhằm củng cố hạ tầng tính toán và duy trì vị thế dẫn đầu trong cuộc đua trí tuệ nhân tạo.",
+      "why_it_matters": "Sự tăng trưởng vốn khổng lồ này phản ánh tiềm năng thương mại hóa mạnh mẽ của AI, mở ra nhiều cơ hội việc làm và đầu tư nghiên cứu cho sinh viên ngành AI/Data Science."
+    },
+    {
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "title_vi": "Khi không có nhiệm vụ, các tác tử AI bắt đầu tự tạo ra trò chơi và tương tác xã hội",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "summary_vi": "Các nhà nghiên cứu tại MIT đã đưa 13 tác tử AI lên một hòn đảo ảo mà không giao bất kỳ mục tiêu cụ thể nào. Kết quả cho thấy các tác tử đã tự sáng tạo ra trò chơi, thể hiện các hành vi xã hội phức tạp và dần cải thiện hiệu suất làm việc. Thử nghiệm này mở ra hướng đi mới trong việc nghiên cứu hành vi tự phát và khả năng tự học của hệ thống đa tác tử.",
+      "why_it_matters": "Nghiên cứu này giúp sinh viên hiểu rõ hơn về hành vi bộc phát (emergent behavior) của AI agents khi tương tác trong môi trường đa tác tử."
+    },
+    {
+      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+      "title_vi": "Mô hình AI sinh học mới của Hugging Face cho phép tương tác trực tiếp với chuỗi DNA",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+      "summary_vi": "Hugging Face vừa ra mắt một mô hình mã nguồn mở mới có khả năng hiểu và xử lý ngôn ngữ sinh học của DNA. Mô hình này giúp các nhà nghiên cứu phân tích các biến đổi di truyền, từ đó đánh giá tác động của chúng đến hoạt động của gen và sức khỏe con người. Đây là bước tiến lớn trong việc ứng dụng mô hình ngôn ngữ lớn vào lĩnh vực sinh học máy tính.",
+      "why_it_matters": "Bài viết minh họa ứng dụng giao thoa giữa AI và Khoa học Dữ liệu Y sinh (Bioinformatics), một hướng đi nghiên cứu đầy tiềm năng cho sinh viên Data Science."
+    },
+    {
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "title_vi": "Microsoft phát triển AI chẩn đoán y tế vượt trội hơn bác sĩ trong các ca bệnh khó",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "summary_vi": "Theo nghiên cứu mới xuất bản trên tạp chí Science, hệ thống AI chẩn đoán y khoa của Microsoft đã vượt qua các bác sĩ tổng quát trong việc xử lý các ca bệnh phức tạp. Mustafa Suleyman, người đứng đầu mảng AI tại Microsoft, khẳng định tham vọng hướng tới siêu trí tuệ y tế nhằm hỗ trợ quyết định lâm sàng. Hầu hết sự cải thiện hiệu suất đến từ các mô hình AI nền tảng được tối ưu hóa chuyên sâu.",
+      "why_it_matters": "Cho thấy xu hướng phát triển AI chuyên biệt hóa cho các ngành đòi hỏi độ chính xác cao như Y tế, mang lại nhiều gợi ý về hướng ứng dụng mô hình lớn."
+    },
+    {
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "title_vi": "DeepSeek huy động thành công 15 tỷ USD ngay sau các hạn chế từ phía Mỹ",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "summary_vi": "Công ty khởi nghiệp AI DeepSeek của Trung Quốc được cho là đã gọi vốn thành công 15 tỷ USD trong một vòng đầu tư lớn hàng đầu nước này. Sự kiện diễn ra chỉ vài ngày sau khi cơ quan quản lý Mỹ yêu cầu loại bỏ công nghệ của công ty do lo ngại an ninh quốc gia. Vòng vốn mới sẽ giúp DeepSeek tự chủ hơn trong việc duy trì hạ tầng tính toán và phát triển các mô hình thế hệ mới.",
+      "why_it_matters": "Sự kiện phản ánh bức tranh địa chính trị công nghệ AI căng thẳng, ảnh hưởng lớn đến chuỗi cung ứng phần cứng và mô hình mở toàn cầu."
+    },
+    {
+      "title": "To Keep or Not to Keep: Learning KV Cache Retention in Disaggregated LLM Serving Systems",
+      "title_vi": "Học chiến lược lưu giữ KV Cache trong các hệ thống phục vụ LLM phân tán",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.28637",
+      "summary_vi": "Nghiên cứu giải quyết thách thức trong hệ thống phục vụ mô hình ngôn ngữ lớn (LLM) phân tán, nơi giai đoạn prefill và decode được tách biệt qua mạng. Bài báo đề xuất phương pháp học máy để đưa ra quyết định lưu giữ KV-cache tối ưu, tránh việc tốn chi phí truyền dữ liệu qua mạng hoặc tính toán lại. Giải pháp giúp giảm đáng kể độ trễ và tiết kiệm băng thông bộ nhớ cho các hạ tầng AI quy mô lớn.",
+      "why_it_matters": "Đây là chủ đề cốt lõi về kỹ thuật hệ thống AI (AI System & MLOps) giúp sinh viên nắm bắt cách tối ưu hóa chi phí và tốc độ triển khai LLM thực tế."
+    },
+    {
+      "title": "ReAPO: Retry-Aware Policy Optimization for Efficient Exploration in LLM Reasoning",
+      "title_vi": "ReAPO: Tối ưu hóa chính sách nhận biết thử lại giúp khám phá hiệu quả trong suy luận của LLM",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.28770",
+      "summary_vi": "Phương pháp Học tăng cường với phần thưởng xác minh (RLVR) hiện tại thường lặp lại các chiến lược thất bại do các đường thử độc lập. Bài báo giới thiệu ReAPO, một thuật toán tối ưu hóa chính sách có khả năng nhận biết các lần thử lại bằng cách đưa thông tin lời giải sai trước đó vào ngữ cảnh. Nhờ đó, mô hình cải thiện khả năng khám phá không gian suy luận và đạt hiệu quả học tập cao hơn.",
+      "why_it_matters": "Cung cấp giải pháp tiên tiến trong lĩnh vực học tăng cường cho LLM, giúp sinh viên cập nhật các kỹ thuật tối ưu quá trình suy luận (reasoning) hiện đại."
+    }
+  ]
+}
