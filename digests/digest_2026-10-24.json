@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-24",
+  "headline_summary": "Xu hướng nổi bật hôm nay tập trung vào việc tối ưu hóa chi phí và hiệu năng cho các đại lý AI (AI agents) cũng như mô hình ngôn ngữ lớn thông qua nén bộ nhớ KV và áp dụng mô hình khuếch tán. Bên cạnh đó, ngành công nghiệp AI đang chuyển dịch sang việc chú trọng an toàn dữ liệu huấn luyện và theo dõi tác động môi trường của năng lượng tính toán.",
+  "articles": [
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "title_vi": "OpenAI tuyên bố ngừng huấn luyện mô hình AI trên internet thời gian thực do rủi ro lớn",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "summary_vi": "OpenAI thông báo sẽ dừng việc sử dụng dữ liệu trực tiếp từ internet để huấn luyện các mô hình AI thế hệ mới do lo ngại về các rủi ro bảo mật và chất lượng dữ liệu. Quyết định này đưa ra chỉ vài tuần sau khi một kỹ sư của công ty từng nhận định đây là phương án khó khả thi. Điều này đánh dấu sự thay đổi lớn trong quy trình thu thập dữ liệu đầu vào cho AI.",
+      "why_it_matters": "Sinh viên ngành AI cần chú ý đến sự dịch chuyển từ việc cào dữ liệu thô sang quản lý và tinh chỉnh các tập dữ liệu tổng hợp đóng sạch sẽ và an toàn hơn."
+    },
+    {
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "title_vi": "Khi không được giao việc, các đại lý AI bắt đầu tự tạo trò chơi và tương tác",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "summary_vi": "Các nhà nghiên cứu tại MIT đã đưa 13 đại lý AI vào một hòn đảo ảo mà không cung cấp nhiệm vụ cụ thể. Kết quả cho thấy các AI này tự sáng tạo ra trò chơi, hình thành các hành vi xã hội phức tạp như tưởng nhớ đồ vật bị mất và thậm chí nâng cao hiệu suất làm việc sau đó. Nghiên cứu này mở ra hướng đi mới trong việc nghiên cứu hành vi bộc phát của hệ thống đa đại lý.",
+      "why_it_matters": "Nghiên cứu gợi mở các hướng thiết kế hệ thống đa đại lý (multi-agent) có khả năng tự học hỏi và duy trì tương tác tự nhiên trong môi trường mô phỏng."
+    },
+    {
+      "title": "DiffResearch: Accelerating Deep Research with Diffusion Language Models",
+      "title_vi": "DiffResearch: Tăng tốc nghiên cứu chuyên sâu bằng mô hình ngôn ngữ khuếch tán",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.28909",
+      "summary_vi": "Nghiên cứu đề xuất DiffResearch, một khung làm việc đa đại lý mở sử dụng mô hình ngôn ngữ khuếch tán (dLLM) làm lõi thay vì các mô hình tự hồi quy truyền thống. Giải pháp này giúp khắc phục độ trễ sinh văn bản từ trái sang phải, tăng tốc độ lập kế hoạch và tổng hợp tài liệu chuyên sâu. Kết quả cho thấy thời gian phản hồi được giảm đáng kể trong các tác vụ nghiên cứu phức tạp.",
+      "why_it_matters": "Đây là minh chứng rõ ràng cho việc mô hình khuếch tán đang mở rộng sang lĩnh vực xử lý ngôn ngữ tự nhiên, giúp sinh viên nắm bắt xu hướng thay thế kiến trúc LLM truyền thống."
+    },
+    {
+      "title": "MoEZip: Routing-Aware KV Cache Compression for Sparse Mixture-of-Experts LLMs",
+      "title_vi": "MoEZip: Nén KV Cache dựa trên điều hướng cho các mô hình LLM dạng Mixture-of-Experts",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.30206",
+      "summary_vi": "Bài báo giới thiệu MoEZip, một phương pháp nén KV Cache được thiết kế riêng cho kiến trúc Mixture-of-Experts (MoE) nhằm giảm tải bộ nhớ khi xử lý ngữ cảnh dài. Khác với mô hình dense, việc loại bỏ dữ liệu trong bộ nhớ đệm của MoE có thể làm thay đổi việc chọn lựa chuyên gia (expert), và MoEZip giải quyết triệt để vấn đề này. Phương pháp giúp tiết kiệm tài nguyên tính toán mà vẫn duy trì độ chính xác sinh chuỗi.",
+      "why_it_matters": "Nén bộ nhớ đệm KV là kỹ thuật cốt lõi giúp triển khai các mô hình AI cỡ lớn lên thiết bị thực tế với chi phí tối ưu."
+    },
+    {
+      "title": "SWE-VERIFIER: Selective Verification for Cost-Efficient Coding Agents",
+      "title_vi": "SWE-VERIFIER: Xác minh có chọn lọc giúp tiết kiệm chi phí cho đại lý lập trình",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.30284",
+      "summary_vi": "SWE-Verifier là một mô hình sinh nhẹ giúp đánh giá và đưa ra quyết định kiểm tra mã nguồn tại các bước quan trọng của đại lý lập trình. Thay vì kiểm tra liên tục ở mọi bước gây tốn kém chi phí gọi API và thời gian tính toán, công cụ này chỉ kích hoạt khi phát hiện nguy cơ rủi ro cao. Kỹ thuật này giúp các coding agent đạt hiệu quả vượt trội với mức chi phí tối ưu.",
+      "why_it_matters": "Giúp sinh viên Data Science và AI hiểu cách tối ưu hóa chi phí gọi API và tài nguyên khi xây dựng ứng dụng AI tự động hóa quy trình viết mã."
+    },
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "title_vi": "OpenAI chuẩn bị huy động 30 tỷ USD với định giá 1.250 tỷ USD trước khi lên sàn",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "summary_vi": "OpenAI đang đàm phán cho khoản gọi vốn mới trị giá 30 tỷ USD, nâng mức định giá công ty lên mốc kỷ lục 1.250 tỷ USD trước kế hoạch phát hành cổ phiếu ra công chúng (IPO). Nếu thành công, đây sẽ là doanh nghiệp tư nhân có giá trị lớn nhất lịch sử. Nguồn vốn khổng lồ này sẽ tiếp tục phục vụ cho việc mở rộng trung tâm dữ liệu và phát triển các mô hình siêu trí tuệ.",
+      "why_it_matters": "Cho thấy quy mô dòng vốn đầu tư vào AI vẫn tăng trưởng vượt bậc, mở ra nhiều cơ hội nghề nghiệp lớn cho nhân lực ngành AI/Data Science."
+    },
+    {
+      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+      "title_vi": "Một yêu cầu AI xả ra lượng CO2 tại Texas gấp 8,5 lần so với ở Thụy Điển",
+      "source": "Hacker News",
+      "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+      "summary_vi": "Báo cáo mới đo lường lượng phát thải carbon từ cùng một yêu cầu truy vấn AI ở các vùng địa lý khác nhau cho thấy sự chênh lệch lớn do nguồn năng lượng của trung tâm dữ liệu. Yêu cầu xử lý tại Texas tạo ra lượng CO2 gấp 8,5 lần Thụy Điển nhờ Thụy Điển sử dụng tỷ lệ năng lượng tái tạo cao hơn. Nghiên cứu nhấn mạnh yếu tố bền vững trong việc chọn lựa hạ tầng điện toán đám mây cho AI.",
+      "why_it_matters": "Giúp sinh viên nhận thức được khía cạnh AI xanh (Green AI) và ảnh hưởng của việc lựa chọn hạ tầng triển khai mô hình tới môi trường."
+    }
+  ]
+}
