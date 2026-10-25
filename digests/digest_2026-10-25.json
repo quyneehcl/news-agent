@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-25",
+  "headline_summary": "Các tin tức hôm nay nổi bật với bước chuyển chiến lược của OpenAI trong việc dừng huấn luyện AI trên internet trực tiếp nhằm giảm thiểu rủi ro bảo mật. Bên cạnh đó, thị trường ghi nhận sự phát triển của mô hình giọng nói chạy cục bộ trên phần cứng cá nhân, đồng thời đặt ra những hoài nghi về hiệu quả kinh tế thực tế của AI ngoài ngành công nghệ.",
+  "articles": [
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "title_vi": "OpenAI tuyên bố dừng huấn luyện mô hình AI trên internet thời gian thực vì rủi ro lớn",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "summary_vi": "OpenAI vừa quyết định ngừng thu thập và huấn luyện các mô hình AI trực tiếp từ internet thời gian thực do những lo ngại nghiêm trọng về an toàn dữ liệu và rủi ro bảo mật. Quyết định này đưa ra chỉ vài tuần sau khi có ý kiến từ chính kỹ sư của họ cho rằng giải pháp cắt kết nối này sẽ khó khả thi.",
+      "why_it_matters": "Giúp sinh viên hiểu rõ sự thay đổi chiến lược trong quản trị dữ liệu huấn luyện và thách thức ngăn ngừa rủi ro rò rỉ hay nhiễu dữ liệu cho các hệ thống AI lớn."
+    },
+    {
+      "title": "Block’s new voice model sounds eerily human",
+      "title_vi": "Mô hình giọng nói mới của Block chân thực đến kinh ngạc",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "summary_vi": "Công ty công nghệ Block vừa giới thiệu một mô hình giọng nói AI mới với khả năng phát âm vô cùng tự nhiên và sống động. Đáng chú ý, mô hình này có thể chạy hoàn toàn cục bộ trên máy tính MacBook M4 Max mà không cần kết nối máy chủ đám mây.",
+      "why_it_matters": "Minh họa cho xu hướng tối ưu hóa mô hình AI đa phương thức để vận hành trực tiếp trên thiết bị người dùng (Edge AI)."
+    },
+    {
+      "title": "No signs of AI payoff outside the tech sector",
+      "title_vi": "Chưa thấy dấu hiệu AI mang lại hiệu quả kinh tế ngoài ngành công nghệ",
+      "source": "Apollo / Hacker News",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "summary_vi": "Báo cáo phân tích từ Apollo chỉ ra rằng việc đầu tư mạnh mẽ vào AI vẫn chưa mang lại hiệu quả kinh tế hoặc tăng năng suất rõ rệt cho các doanh nghiệp nằm ngoài lĩnh vực công nghệ. Điều này dấy lên nhiều nghi vấn về tốc độ hoàn vốn và thực tế ứng dụng AI trong các ngành kinh tế truyền thống.",
+      "why_it_matters": "Giúp sinh viên ngành AI và Data Science có góc nhìn thực tế hơn về bài toán ROI và khả năng ứng dụng công nghệ vào thực tiễn doanh nghiệp."
+    },
+    {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "title_vi": "Khi bắt buộc lựa chọn, mô hình AI Grok chọn Đảng Cộng hòa còn OpenAI chọn Đảng Dân chủ",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "summary_vi": "Một nghiên cứu mới phát hiện rằng khi buộc phải đưa ra lựa chọn, AI Grok nghiêng về các ứng viên Đảng Cộng hòa trong khi GPT của OpenAI lại ưu ái Đảng Dân chủ. Hai mô hình này bất đồng quan điểm tới hơn 90% trong số gần 500 cuộc đua bầu cử được thử nghiệm.",
+      "why_it_matters": "Minh họa rõ nét vấn đề định kiến mô hình (bias) và tầm quan trọng của việc nghiên cứu căn chỉnh AI (AI alignment)."
+    },
+    {
+      "title": "Why is AI generated language so hard to understand?",
+      "title_vi": "Tại sao văn bản do AI tạo ra lại khó hiểu đối với con người?",
+      "source": "arXiv / Hacker News",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "summary_vi": "Bài báo nghiên cứu trên arXiv phân tích đặc trưng cú pháp và ngữ nghĩa của văn bản do các mô hình ngôn ngữ lớn sinh ra, giải thích lý do khiến người đọc cảm thấy khó tiếp thu hơn văn bản do con người viết. Nghiên cứu chỉ ra sự thiếu hụt tính liên kết tự nhiên và các môtíp cấu trúc lặp lại ẩn sâu trong đầu ra của mô hình.",
+      "why_it_matters": "Cung cấp góc nhìn chuyên sâu về xử lý ngôn ngữ tự nhiên (NLP) giúp sinh viên đánh giá và cải thiện chất lượng văn bản sinh ra từ LLM."
+    },
+    {
+      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "title_vi": "Sự cố PHP cho thấy AI giúp việc khai thác lỗi hổng phần mềm trở nên dễ dàng hơn",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "summary_vi": "Các nhà nghiên cứu bảo mật đã sử dụng công cụ AI để tìm ra những lỗ hổng lâu đời trong ngôn ngữ lập trình PHP, nhưng ngay sau đó AI cũng được dùng để tự động hóa các cuộc tấn công khai thác lỗ hổng này. Sự việc làm dấy lên lo ngại về tính hai mặt của AI trong lĩnh vực an ninh mạng.",
+      "why_it_matters": "Cho thấy vai trò quan trọng của AI trong an toàn thông tin và đòi hỏi sinh viên phải lưu ý khía cạnh bảo mật khi phát triển các ứng dụng phần mềm."
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "title_vi": "Nghĩa địa AI: Danh sách các dự án và startup không thể tồn tại",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary_vi": "TechCrunch tổng hợp danh sách các dự án và công ty khởi nghiệp AI đã bị đóng cửa hoặc không đạt kỳ vọng trong thời gian qua. Từ các tính năng trì hoãn của các tập đoàn lớn cho đến những ứng dụng siêu AI gặp sự cố khi ra mắt, danh sách này phản ánh sự đào thải khốc liệt của thị trường.",
+      "why_it_matters": "Cung cấp cho sinh viên cái nhìn toàn cảnh về thị trường, từ đó rút ra bài học kinh nghiệm để xây dựng các sản phẩm AI có giá trị thực tế."
+    }
+  ]
+}
