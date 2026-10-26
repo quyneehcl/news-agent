@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-26",
+  "headline_summary": "Xu hướng tin tức hôm nay tập trung vào cái nhìn thực tế và những thách thức xung quanh sự bùng nổ AI, từ hiệu quả tài chính doanh nghiệp chưa đạt kỳ vọng đến bài toán hạ tầng trung tâm dữ liệu. Đồng thời, thị trường cũng ghi nhận sự phát triển của các thiết bị phần cứng AI cá nhân và các thử nghiệm nội dung truyền thông do AI tạo ra.",
+  "articles": [
+    {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "title_vi": "Grok phát hành 7 phút đầu tiên của phim Odyssey được tạo hoàn toàn bằng AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "summary_vi": "Grok vừa công bố đoạn phim dài 7 phút được tạo ra bởi trí tuệ nhân tạo có tên Odyssey. Mặc dù hình ảnh trông khá ổn về mặt kỹ thuật, sản phẩm vẫn bị đánh giá là thiếu tính nghệ thuật, cảm hứng và yếu tố con người.",
+      "why_it_matters": "Bài viết giúp sinh viên đánh giá thực tế năng lực sáng tạo video của các mô hình sinh nội dung hiện tại so với kỳ vọng của truyền thông."
+    },
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "title_vi": "AI mang lại lợi nhuận bằng không cho hầu hết doanh nghiệp, theo nhà kinh tế học của Apollo",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary_vi": "Bất chấp những khoản đầu tư khổng lồ và sự bùng nổ truyền thông quanh AI, công nghệ này gần như chưa mang lại hiệu quả tài chính nào cho các doanh nghiệp Mỹ ngoài ngành công nghệ. Nhà kinh tế học Torsten Slok từ Apollo nhận định phần lớn chi tiêu hiện tại mới dừng lại ở việc xây dựng hạ tầng chứ chưa tạo ra giá trị kinh tế thực tế.",
+      "why_it_matters": "Bài viết giúp sinh viên hiểu rõ khoảng cách giữa bài toán kinh doanh thực tế và sự thổi phồng công nghệ để định hướng ứng dụng AI hiệu quả hơn."
+    },
+    {
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "title_vi": "Những thiết bị đeo và phần cứng AI hot nhất bạn nên biết",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "summary_vi": "Thị trường phần cứng AI đang bùng nổ với hàng loạt thiết bị đeo thông minh mới được trình làng như Muse Charm, Bee, Friend hay Plaud. Các thiết bị này hướng tới việc tích hợp trợ lý AI trực tiếp vào cuộc sống hằng ngày của người dùng thông qua ghi âm, tương tác thoại và xử lý dữ liệu thời gian thực.",
+      "why_it_matters": "Giúp sinh viên nắm bắt xu hướng dịch chuyển của AI từ ứng dụng đám mây sang phần cứng cá nhân và xử lý tại biên."
+    },
+    {
+      "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+      "title_vi": "Phong trào phản đối trung tâm dữ liệu tại Mỹ có thể học hỏi gì từ quốc tế",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+      "summary_vi": "Sự gia tăng nhanh chóng của các trung tâm dữ liệu phục vụ AI đang gặp phải phản ứng gay gắt từ cộng đồng tại Mỹ do lo ngại về tiêu thụ năng lượng và tác động môi trường. Chuyên gia Paris Marx chỉ ra rằng Mỹ có thể học hỏi kinh nghiệm quản lý và điều tiết hạ tầng từ các quốc gia như Ireland hay New Zealand.",
+      "why_it_matters": "Sinh viên ngành AI và Data Science cần hiểu về thách thức hạ tầng, chi phí năng lượng và tác động môi trường đằng sau việc huấn luyện các mô hình lớn."
+    }
+  ]
+}
