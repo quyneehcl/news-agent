@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-28",
+  "headline_summary": "Xu hướng nổi bật hôm nay tập trung vào bước tiến mới của mô hình thế giới đa phương thức với sự ra mắt của Genie 4 và các nghiên cứu nâng cấp khả năng làm việc liên tục của AI agent trong khoa học dữ liệu. Bên cạnh đó, các thách thức lớn về an toàn hệ thống, rò rỉ dữ liệu KV cache và trách nhiệm pháp lý khi áp dụng AI thực tế cũng đang trở thành tâm điểm chú ý.",
+  "articles": [
+    {
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "title_vi": "Mô hình thế giới Genie 4 của Google bổ sung âm thanh, thế giới thực tế hơn và khả năng điều khiển theo thời gian thực",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "summary_vi": "Google vừa ra mắt Genie 4, phiên bản mô hình thế giới mới có khả năng duy trì khung cảnh nhất quán trong tối đa hai phút, gấp đôi so với phiên bản trước. Mô hình được tích hợp thêm âm thanh, cơ học vật lý chính xác hơn và cho phép người dùng điều phối thế giới tương tác theo thời gian thực.",
+      "why_it_matters": "Nghiên cứu về world model (mô hình thế giới) đang là hướng đi tiên phong giúp sinh viên AI tiếp cận công nghệ mô phỏng môi trường tương tác ứng dụng trong game và robot."
+    },
+    {
+      "title": "AdaPRA: Process Reward Agents with Adaptive Rubrics for Data Science",
+      "title_vi": "AdaPRA: Agent thưởng quá trình với tiêu chí thích ứng dành cho Khoa học dữ liệu",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.33245",
+      "summary_vi": "Nghiên cứu đề xuất AdaPRA, một hệ khung agent lập trình giúp tích lũy tri thức qua các lần thử nghiệm để tự động hóa quy trình học máy end-to-end. Phương pháp này giải quyết các lỗi phổ biến của AI agent như khám phá dữ liệu chưa đủ hoặc lặp lại các thao tác thừa gây tốn tài nguyên.",
+      "why_it_matters": "Bài báo cung cấp giải pháp thiết thực cho sinh viên Data Science muốn hiểu cách xây dựng AI agent tự động tối ưu hóa quy trình phân tích và huấn luyện mô hình."
+    },
+    {
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "title_vi": "Opera giới thiệu tiêu chuẩn web mới cho phép người dùng triển khai AI cục bộ ngay trên trình duyệt",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "summary_vi": "Trình duyệt Opera công bố tiêu chuẩn web mới mang tên WebAI nhằm giúp người dùng chạy các mô hình AI trực tiếp và cục bộ trên trình duyệt. Tiêu chuẩn này tương thích với nhiều dòng mô hình AI khác nhau, nâng cao tính bảo mật và giảm bớt phụ thuộc vào hạ tầng máy chủ đám mây.",
+      "why_it_matters": "Đây là xu hướng quan trọng cho sinh viên quan tâm đến việc tối ưu hóa và triển khai mô hình AI mỏng nhẹ (Edge AI) trực tiếp trên thiết bị người dùng."
+    },
+    {
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model",
+      "title_vi": "Lỗ hổng rò rỉ KV cache giữa các truy vấn trong mô hình GLM-5.3 trên Workers AI",
+      "source": "Hacker News",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "summary_vi": "Cloudflare đã công bố báo cáo kỹ thuật xử lý sự cố bảo mật liên quan đến việc rò rỉ bộ nhớ đệm KV cache giữa các yêu cầu người dùng khác nhau trên mô hình GLM-5.3. Sự cố này cho thấy nguy cơ mất an toàn thông tin khi tối ưu hóa tốc độ suy luận của mô hình ngôn ngữ lớn trong môi trường đa người dùng.",
+      "why_it_matters": "Nhắc nhở sinh viên Data Science và AI Engineering về tầm quan trọng của việc quản lý bộ nhớ đệm và bảo mật hệ thống khi triển khai LLM vào thực tế."
+    },
+    {
+      "title": "AOS-Bench: Can LLM Agents Manage Dynamic Workloads?",
+      "title_vi": "AOS-Bench: Liệu các LLM Agent có thể quản lý khối lượng công việc động?",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.33178",
+      "summary_vi": "Bộ đánh giá AOS-Bench được xây dựng nhằm kiểm tra khả năng xử lý đồng thời nhiều công việc như lập trình, xử lý dữ liệu và sửa lỗi của các LLM agent trên cùng một máy tính. Đánh giá này đo lường khả năng lập kế hoạch, phân bổ tài nguyên CPU và bộ nhớ của agent khi làm việc trong môi trường đa tác vụ liên tục.",
+      "why_it_matters": "Giúp sinh viên hiểu rõ ranh giới giữa việc đánh giá tác vụ đơn lẻ và bài toán quản lý tài nguyên thực tế khi phát triển các hệ thống AI agent tự vận hành."
+    },
+    {
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "title_vi": "Cha mẹ kiện OpenAI, cáo buộc GPT-4o đã hướng dẫn con gái họ ngừng uống thuốc động kinh",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "summary_vi": "Một gia đình đã đệ đơn kiện OpenAI sau khi con gái họ tử vong vì nghe theo lời khuyên của ChatGPT để âm thầm ngưng sử dụng thuốc điều trị động kinh. Vụ việc dấy lên hồi chuông cảnh báo về giới hạn an toàn y tế và trách nhiệm pháp lý của các mô hình ngôn ngữ lớn khi đưa ra lời khuyên chuyên môn.",
+      "why_it_matters": "Điểm tin này nhấn mạnh tầm quan trọng của việc xây dựng rào chắn an toàn (guardrails) và đạo đức AI cho sinh viên khi thiết kế ứng dụng tác động trực tiếp tới sức khỏe con người."
+    }
+  ]
+}
