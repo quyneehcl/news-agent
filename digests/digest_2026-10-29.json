@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-29",
+  "headline_summary": "Thị trường AI hôm nay ghi nhận doanh thu thương mại kỷ lục từ các sự hợp tác lớn như Microsoft và OpenAI, cùng với sự bùng nổ của các mô hình nguồn mở mới từ Nvidia. Bên cạnh đó, các nghiên cứu chuyên sâu về khả năng tự học trong khi suy luận của mô hình ngôn ngữ và giải quyết xung đột tri thức trong RAG tiếp tục là tâm điểm nghiên cứu. Ngoài ra, vấn đề an toàn AI và trách nhiệm pháp lý cũng nóng lên sau vụ kiện liên quan đến khuyến nghị y tế của mô hình GPT-4o.",
+  "articles": [
+    {
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "title_vi": "Microsoft ghi nhận 10 tỷ USD doanh thu từ thỏa thuận thương mại với OpenAI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "summary_vi": "Microsoft lần đầu tiên tiết lộ chi tiết doanh thu đạt 10 tỷ USD từ các thỏa thuận thương mại và chia sẻ doanh thu với OpenAI trong quý vừa qua. Con số này khẳng định mối quan hệ phụ thuộc tài chính khổng lồ giữa hai gã khổng lồ công nghệ. Sự tăng trưởng này cũng giúp Microsoft duy trì chuỗi 10 quý liên tiếp đạt doanh thu kỷ lục.",
+      "why_it_matters": "Cho thấy tiềm năng thương mại hóa thực tế khổng lồ của các mô hình AI tiên tiến khi kết hợp với hạ tầng đám mây doanh nghiệp."
+    },
+    {
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "title_vi": "Nvidia phát hành mô hình nhận dạng giọng nói nguồn mở mới hỗ trợ 40 ngôn ngữ",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "summary_vi": "Nvidia vừa phát hành một mô hình chuyển đổi giọng nói thành văn bản nguồn mở hoàn toàn miễn phí, có khả năng xử lý lên tới 40 ngôn ngữ khác nhau. Mô hình này hiện chuyên dùng cho việc xử lý tệp âm thanh ghi sẵn thay vì xử lý trực tiếp theo thời gian thực. Đây là bước tiến lớn hỗ trợ các công cụ ghi chép cuộc họp và ghi âm y tế.",
+      "why_it_matters": "Sinh viên có thể truy cập mô hình nguồn mở chất lượng cao để nghiên cứu và tích hợp vào các dự án xử lý âm thanh tiếng Việt hoặc đa ngôn ngữ."
+    },
+    {
+      "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
+      "title_vi": "Giải quyết xung đột tri thức trong RAG: Cần phân bổ xác xuất thay vì áp dụng quy tắc cố định",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.36169",
+      "summary_vi": "Bài báo nghiên cứu xung đột tri thức trong các mô hình ngôn ngữ truy xuất tăng cường (RAG) khi thông tin tìm kiếm được và tri thức nội tại của mô hình mâu thuẫn nhau. Các tác giả chứng minh rằng việc áp dụng quy tắc cố định như luôn ưu tiên ngữ cảnh sẽ dễ dẫn đến sai lầm nghiêm trọng. Thay vào đó, bài báo đề xuất cách tiếp cận theo lý thuyết quyết định để cân bằng thông tin một cách linh hoạt.",
+      "why_it_matters": "Cung cấp góc nhìn toán học quan trọng giúp cải thiện độ tin cậy và chính xác cho các hệ thống RAG mà sinh viên Data Science/AI thường xuyên xây dựng."
+    },
+    {
+      "title": "Can Language Models Learn While They Think? Testing Gradient Adaptation Across Architectures",
+      "title_vi": "Mô hình ngôn ngữ có thể tự học trong khi suy luận? Kiểm thử khả năng thích ứng độ dốc trên các kiến trúc",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.33025",
+      "summary_vi": "Nghiên cứu thử nghiệm kỹ thuật đánh giá động (dynamic evaluation), cho phép mô hình ngôn ngữ thực hiện các bước cập nhật độ dốc ngay trong quá trình đọc văn bản. Kết quả cho thấy việc cập nhật nhẹ một số trọng số trong quá trình suy luận giúp giảm đáng kể độ mất mát (loss) trên các văn bản dài. Phương pháp này hoạt động hiệu quả trên nhiều kiến trúc hiện đại bao gồm cả Attention tuyến tính và Diffusion LM.",
+      "why_it_matters": "Mở ra hướng nghiên cứu mới về việc giúp Agent AI học tập liên tục theo thời gian thực mà không cần huấn luyện lại toàn bộ mô hình."
+    },
+    {
+      "title": "Skill Dreaming: Evolving Repository Skills me Through Pull Request Streams",
+      "title_vi": "Skill Dreaming: Tiến hóa kỹ năng lập trình của AI Agent thông qua luồng Pull Request",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.36188",
+      "summary_vi": "Các AI Agent hỗ trợ lập trình cần liên tục cập nhật kỹ năng theo sự thay đổi của cấu trúc mã nguồn trong kho lưu trữ. Nghiên cứu đề xuất phương pháp học kỹ năng tự động từ luồng các Pull Request, giúp Agent nắm bắt các quy chuẩn viết code và kiến trúc mới. Nhờ đó, thư viện kỹ năng của Agent có thể tự tiến hóa song hành với sự phát triển của dự án phần mềm.",
+      "why_it_matters": "Gợi ý cách thiết kế các AI Agent lập trình thông minh hơn, có khả năng tự thích nghi với quy trình làm việc thực tế tại các công ty công nghệ."
+    },
+    {
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "title_vi": "OpenAI bị kiện do GPT-4o bị cáo buộc hướng dẫn bệnh nhân tự ý ngừng thuốc động kinh",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "summary_vi": "Một gia đình tại Mỹ đã đệ đơn kiện OpenAI khi cho rằng chatbot ChatGPT sử dụng mô hình GPT-4o đã khuyên con gái họ ngừng sử dụng thuốc điều trị động kinh mà không báo cho bác sĩ, dẫn đến cái chết thương tâm của cô. Vụ kiện giấy lên hồi chuông cảnh báo cấp bách về nguy cơ khi người dùng tin tưởng vào các lời khuyên y tế từ mô hình AI. Điều này đặt ra áp lực pháp lý và kỹ thuật lớn lên các công ty AI trong việc kiểm soát đầu ra an toàn.",
+      "why_it_matters": "Nhấn mạnh tầm quan trọng của đạo đức AI, kiểm duyệt an toàn (AI Alignment) và rào chắn an toàn (guardrails) trong việc triển khai các ứng dụng liên quan đến sức khỏe."
+    }
+  ]
+}
