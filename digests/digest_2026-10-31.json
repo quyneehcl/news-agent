@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-31",
+  "headline_summary": "Xu hướng nổi bật hôm nay tập trung vào những hoài nghi ngày càng tăng về tính bền vững tài chính trong cơn bùng nổ hạ tầng AI, thể hiện qua chi phí đầu tư khổng lồ của các ông lớn cloud và thách thức tín nhiệm của các công ty LLM. Bên cạnh đó, việc đưa phần cứng AI vào không gian cùng sự thâm nhập của AI Agent vào đời sống và quốc phòng đang mở ra nhiều bài toán kỹ thuật mới.",
+  "articles": [
+    {
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "title_vi": "Vệ tinh trung tâm dữ liệu đầu tiên của Google đã đi vào hoạt động và làm thơ",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "summary_vi": "Google đã vận hành thành công bộ xử lý TPU đầu tiên ngoài không gian vũ trụ trên một vệ tinh trung tâm dữ liệu. Vệ tinh này hiện đang chạy mô hình Gemma 4 của Google DeepMind và thử nghiệm sáng tác thơ.",
+      "why_it_matters": "Đây là bước tiến quan trọng minh chứng cho khả năng triển khai phần cứng tính toán AI hiệu năng cao trong môi trường khắc nghiệt ngoài Trái Đất."
+    },
+    {
+      "title": "Cracks are emerging in the AI spending boom",
+      "title_vi": "Những rạn nứt dần xuất hiện trong làn sóng bùng nổ chi tiêu cho AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "summary_vi": "Dù các tập đoàn công nghệ lớn vẫn đổ hàng tỷ USD vào hạ tầng AI, tình trạng nợ gia tăng và dòng tiền âm đang khiến giới đầu tư nghi ngờ. Sự hoài nghi này dấy lên câu hỏi lớn về tính bền vững lâu dài của cơn sốt chi tiêu này.",
+      "why_it_matters": "Sinh viên cần hiểu bối cảnh kinh tế vĩ mô của ngành AI để đánh giá đúng định hướng tuyển dụng và sự chuyển hướng dòng vốn trong tương lai."
+    },
+    {
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "title_vi": "AWS hướng tới mốc doanh thu 1 nghìn tỷ USD nhưng chấp nhận chi tiêu kỷ lục",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "summary_vi": "CEO của Amazon khẳng định tham vọng biến AWS thành doanh nghiệp đầu tiên đạt 1 nghìn tỷ USD doanh thu nhờ dẫn đầu về điện toán đám mây AI. Tuy nhiên, để đạt mục tiêu này, Amazon buộc phải tiếp tục đà chi tiêu vốn (capex) cực kỳ khổng lồ cho hạ tầng.",
+      "why_it_matters": "Tin tức khẳng định hạ tầng điện toán đám mây tiếp tục là nền tảng cốt lõi và là nơi tập trung nguồn lực lớn nhất của ngành AI."
+    },
+    {
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "title_vi": "Anthropic có thể bị xếp hạng tín nhiệm ở mức 'rác' sau khi IPO",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "summary_vi": "Các cơ quan xếp hạng tín nhiệm dự báo Anthropic có nguy cơ nhận mức xếp hạng 'rác' sau đợt IPO do chi phí vận hành quá lớn. Điều này sẽ khiến công ty gặp khó khăn và chịu chi phí cao hơn khi huy động vốn duy trì đà phát triển.",
+      "why_it_matters": "Bài viết phản ánh áp lực tài chính đè nặng lên các công ty phát triển mô hình ngôn ngữ lớn (LLM) khi chi phí huấn luyện mô hình tăng phi mã."
+    },
+    {
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "title_vi": "DoorDash cho biết mới chỉ nhận vài trăm đơn hàng từ các đại lý AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "summary_vi": "DoorDash tiết lộ số lượng đơn đặt đồ ăn tự động thông qua các đại lý AI (AI agents) hiện mới chỉ dừng lại ở con số vài trăm. Dù vậy, nền tảng này khẳng định vẫn sẵn sàng mở cửa hợp tác với nhà phát triển agent bên thứ ba.",
+      "why_it_matters": "Bài học thực tế giúp sinh viên thấy được khoảng cách giữa tiềm năng công nghệ AI Agent và mức độ chấp nhận thực tế của người dùng thương mại."
+    },
+    {
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "title_vi": "Ollie, trợ lý AI chú trọng bảo mật riêng tư, thông báo đóng cửa",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "summary_vi": "Trợ lý AI Ollie, vốn nổi tiếng với cam kết bảo vệ quyền riêng tư của người dùng, thông báo sẽ ngừng hoạt động trong một tuần tới. Nguyên nhân xuất phát từ sự cạnh tranh khốc liệt khi thị trường bão hòa bởi quá nhiều sản phẩm trợ lý AI.",
+      "why_it_matters": "Bài học cho thấy tính năng bảo mật riêng tư dù quan trọng nhưng chưa đủ giúp sản phẩm startup cạnh tranh lại các hệ sinh thái lớn."
+    },
+    {
+      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+      "title_vi": "Cách một AI Agent chạy Claude của nhà thầu thâm nhập vào Bộ Quốc phòng Mỹ",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+      "summary_vi": "Chương trình thảo luận về trường hợp một agent tích hợp mô hình Claude do nhà thầu phát triển được đưa vào ứng dụng trong Bộ Quốc phòng Mỹ. Sự việc đặt ra nhiều vấn đề về kiểm duyệt an toàn và quy trình thẩm định AI trong cơ quan chính phủ.",
+      "why_it_matters": "Sinh viên theo đuổi mảng an toàn và đạo đức AI cần chú ý cách các ứng dụng đại lý AI thực chiến được cấp phép triển khai trong môi trường nhạy cảm."
+    }
+  ]
+}
