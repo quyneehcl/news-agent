@@ -1,62 +1,62 @@
 {
-  "date": "2026-10-31",
-  "headline_summary": "Xu hướng nổi bật hôm nay tập trung vào những hoài nghi ngày càng tăng về tính bền vững tài chính trong cơn bùng nổ hạ tầng AI, thể hiện qua chi phí đầu tư khổng lồ của các ông lớn cloud và thách thức tín nhiệm của các công ty LLM. Bên cạnh đó, việc đưa phần cứng AI vào không gian cùng sự thâm nhập của AI Agent vào đời sống và quốc phòng đang mở ra nhiều bài toán kỹ thuật mới.",
+  "date": "2026-11-01",
+  "headline_summary": "Hôm nay ghi nhận sự bùng nổ của các ứng dụng AI Agent thực tế, từ việc tự động hóa thí nghiệm sinh học trực tiếp trên động vật đến tạo môi trường mô phỏng web tự động. Bên cạnh đó, bức tranh tài chính và hạ tầng AI đang gặp nhiều áp lực khi chi phí đầu tư khổng lồ bắt đầu vấp phải sự hoài nghi từ thị trường và các nhà đầu tư.",
   "articles": [
     {
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "title_vi": "Vệ tinh trung tâm dữ liệu đầu tiên của Google đã đi vào hoạt động và làm thơ",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "summary_vi": "Google đã vận hành thành công bộ xử lý TPU đầu tiên ngoài không gian vũ trụ trên một vệ tinh trung tâm dữ liệu. Vệ tinh này hiện đang chạy mô hình Gemma 4 của Google DeepMind và thử nghiệm sáng tác thơ.",
-      "why_it_matters": "Đây là bước tiến quan trọng minh chứng cho khả năng triển khai phần cứng tính toán AI hiệu năng cao trong môi trường khắc nghiệt ngoài Trái Đất."
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "title_vi": "Agent AI thực hiện thành công việc tiêm thuốc vào brain chuột sống",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "summary_vi": "Một công ty khởi nghiệp sinh học đã thử nghiệm cho agent AI tự lựa chọn liệu pháp gen và thực hiện tiêm thử nghiệm thành công vào não chuột sống. Bước tiến này đánh dấu sự can thiệp trực tiếp của AI vào các thao tác y sinh thực địa đầy phức tạp. Đây là minh chứng đáng kinh ngạc cho tương lai của các phòng thí nghiệm nghiên cứu được tự động hóa hoàn toàn.",
+      "why_it_matters": "Giúp sinh viên hình dung tiềm năng thực tế của AI Agent trong việc tự động hóa các thao tác thí nghiệm y sinh phức tạp."
+    },
+    {
+      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "title_vi": "Mã độc đánh cắp thông tin mới dùng AI để tự động thu thập dữ liệu nạn nhân",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "summary_vi": "Loại mã độc mới mang tên Volta-Autodoxer đang tận dụng công cụ AI để phân tích và tổng hợp thông tin cá nhân của nạn nhân từ nhiều nguồn. Mã độc này tự động thu thập từ thông tin đăng nhập, số thẻ tín dụng cho đến hóa đơn dịch vụ và dữ liệu mạng xã hội. Việc tích hợp AI giúp quá trình trích xuất và liên kết dữ liệu nhạy cảm diễn ra tinh vi hơn nhiều.",
+      "why_it_matters": "Cung cấp góc nhìn về khía cạnh an ninh mạng của AI, giúp sinh viên nâng cao nhận thức về an toàn thông tin và đạo đức AI."
+    },
+    {
+      "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+      "title_vi": "WebAnything: Xây dựng môi trường đánh giá agent AI tự động từ web thực tế",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.37786",
+      "summary_vi": "WebAnything là một khung làm việc tự động hóa hoàn toàn nhằm biến các trang web thực tế thành môi trường huấn luyện và đánh giá agent AI. Nghiên cứu giải quyết thách thức tốn kém nguồn lực của việc xây dựng môi trường mô phỏng thủ công hiện nay. Hệ thống mở ra khả năng mở rộng quy mô thu thập dữ liệu tương tác web cho các agent AI.",
+      "why_it_matters": "Cung cấp giải pháp thiết thực cho sinh viên nghiên cứu về AI Agent khi cần xây dựng môi trường kiểm thử thực tế quy mô lớn."
+    },
+    {
+      "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
+      "title_vi": "Seq@K: Phương pháp đánh giá mô hình ngôn ngữ dựa trên phản hồi chuỗi",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.37859",
+      "summary_vi": "Các chỉ số đánh giá hiện tại như Pass@1 hay Pass@K chưa phản ánh được khả năng cải thiện câu trả lời của LLM thông qua phản hồi lặp lại. Nhóm nghiên cứu đề xuất Seq@K, một thước đo mới giúp đánh giá hiệu quả học và tinh chỉnh ngữ cảnh của mô hình qua nhiều lượt tương tác. Phương pháp này mô phỏng chính xác hơn quy trình làm việc thực tế của các AI agent.",
+      "why_it_matters": "Giúp sinh viên nắm bắt được các phương pháp benchmark tiên tiến dành cho mô hình ngôn ngữ lớn trong quy trình làm việc dạng agent."
     },
     {
       "title": "Cracks are emerging in the AI spending boom",
-      "title_vi": "Những rạn nứt dần xuất hiện trong làn sóng bùng nổ chi tiêu cho AI",
+      "title_vi": "Xuất hiện những rạn nứt trong làn sóng đầu tư bùng nổ vào AI",
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "summary_vi": "Dù các tập đoàn công nghệ lớn vẫn đổ hàng tỷ USD vào hạ tầng AI, tình trạng nợ gia tăng và dòng tiền âm đang khiến giới đầu tư nghi ngờ. Sự hoài nghi này dấy lên câu hỏi lớn về tính bền vững lâu dài của cơn sốt chi tiêu này.",
-      "why_it_matters": "Sinh viên cần hiểu bối cảnh kinh tế vĩ mô của ngành AI để đánh giá đúng định hướng tuyển dụng và sự chuyển hướng dòng vốn trong tương lai."
+      "summary_vi": "Dù các tập đoàn công nghệ lớn vẫn đổ hàng tỷ USD vào hạ tầng AI, áp lực nợ nần và dòng tiền âm đang khiến giới đầu tư nghi ngờ tính bền vững của làn sóng này. Sự hoài nghi ngày càng tăng về khả năng tạo ra lợi nhuận tương xứng với chi phí vận hành khổng lồ. Điều này có thể dẫn đến sự điều chỉnh chiến lược đầu tư công nghệ trong thời gian tới.",
+      "why_it_matters": "Giúp sinh viên hiểu rõ bức tranh kinh tế ngành AI, từ đó chú trọng hơn đến bài toán tối ưu hóa chi phí và hiệu quả của mô hình."
     },
     {
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "title_vi": "AWS hướng tới mốc doanh thu 1 nghìn tỷ USD nhưng chấp nhận chi tiêu kỷ lục",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "summary_vi": "CEO của Amazon khẳng định tham vọng biến AWS thành doanh nghiệp đầu tiên đạt 1 nghìn tỷ USD doanh thu nhờ dẫn đầu về điện toán đám mây AI. Tuy nhiên, để đạt mục tiêu này, Amazon buộc phải tiếp tục đà chi tiêu vốn (capex) cực kỳ khổng lồ cho hạ tầng.",
-      "why_it_matters": "Tin tức khẳng định hạ tầng điện toán đám mây tiếp tục là nền tảng cốt lõi và là nơi tập trung nguồn lực lớn nhất của ngành AI."
+      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+      "title_vi": "OpenFrontiers: Bộ dữ liệu bài toán nghiên cứu mở và benchmark khám phá khoa học cho LLM",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.37739",
+      "summary_vi": "Các mô hình ngôn ngữ lớn ngày càng thể hiện tiềm năng trong việc giải quyết bài toán cấp nghiên cứu, nhưng thiếu các bộ dữ liệu đánh giá chuẩn mực. OpenFrontiers cung cấp tập hợp bài toán nghiên cứu mở liên ngành cùng benchmark tái phát hiện các khám phá toán học gần đây. Đóng góp này tạo tiền đề quan trọng để kiểm chứng khả năng tư duy khoa học của AI.",
+      "why_it_matters": "Là tài nguyên quý giá cho sinh viên Data Science và AI muốn thử sức các mô hình với bài toán cấp nghiên cứu khoa học chuyên sâu."
     },
     {
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "title_vi": "Anthropic có thể bị xếp hạng tín nhiệm ở mức 'rác' sau khi IPO",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "summary_vi": "Các cơ quan xếp hạng tín nhiệm dự báo Anthropic có nguy cơ nhận mức xếp hạng 'rác' sau đợt IPO do chi phí vận hành quá lớn. Điều này sẽ khiến công ty gặp khó khăn và chịu chi phí cao hơn khi huy động vốn duy trì đà phát triển.",
-      "why_it_matters": "Bài viết phản ánh áp lực tài chính đè nặng lên các công ty phát triển mô hình ngôn ngữ lớn (LLM) khi chi phí huấn luyện mô hình tăng phi mã."
-    },
-    {
-      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "title_vi": "DoorDash cho biết mới chỉ nhận vài trăm đơn hàng từ các đại lý AI",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "summary_vi": "DoorDash tiết lộ số lượng đơn đặt đồ ăn tự động thông qua các đại lý AI (AI agents) hiện mới chỉ dừng lại ở con số vài trăm. Dù vậy, nền tảng này khẳng định vẫn sẵn sàng mở cửa hợp tác với nhà phát triển agent bên thứ ba.",
-      "why_it_matters": "Bài học thực tế giúp sinh viên thấy được khoảng cách giữa tiềm năng công nghệ AI Agent và mức độ chấp nhận thực tế của người dùng thương mại."
-    },
-    {
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "title_vi": "Ollie, trợ lý AI chú trọng bảo mật riêng tư, thông báo đóng cửa",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "summary_vi": "Trợ lý AI Ollie, vốn nổi tiếng với cam kết bảo vệ quyền riêng tư của người dùng, thông báo sẽ ngừng hoạt động trong một tuần tới. Nguyên nhân xuất phát từ sự cạnh tranh khốc liệt khi thị trường bão hòa bởi quá nhiều sản phẩm trợ lý AI.",
-      "why_it_matters": "Bài học cho thấy tính năng bảo mật riêng tư dù quan trọng nhưng chưa đủ giúp sản phẩm startup cạnh tranh lại các hệ sinh thái lớn."
-    },
-    {
-      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
-      "title_vi": "Cách một AI Agent chạy Claude của nhà thầu thâm nhập vào Bộ Quốc phòng Mỹ",
-      "source": "Wired AI",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
-      "summary_vi": "Chương trình thảo luận về trường hợp một agent tích hợp mô hình Claude do nhà thầu phát triển được đưa vào ứng dụng trong Bộ Quốc phòng Mỹ. Sự việc đặt ra nhiều vấn đề về kiểm duyệt an toàn và quy trình thẩm định AI trong cơ quan chính phủ.",
-      "why_it_matters": "Sinh viên theo đuổi mảng an toàn và đạo đức AI cần chú ý cách các ứng dụng đại lý AI thực chiến được cấp phép triển khai trong môi trường nhạy cảm."
+      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+      "title_vi": "LRMoE: Tái hiệu chuẩn tải giúp huấn luyện mô hình MoE hiệu quả trên nút phần cứng giới hạn",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.37720",
+      "summary_vi": "Mô hình Mixture-of-Experts (MoE) thường gặp khó khăn do nghẽn tính toán và bộ nhớ trên các nút GPU giới hạn. LRMoE giải quyết vấn đề này bằng cách tái hiệu chuẩn nhu cầu lan truyền ngược và cân bằng lại khối lượng công việc của từng expert. Giải pháp giúp tối ưu hóa dung lượng bộ nhớ GPU mà vẫn đảm bảo tốc độ huấn luyện mô hình MoE.",
+      "why_it_matters": "Cung cấp kiến thức quan trọng về kỹ thuật tối ưu hóa phần cứng và bộ nhớ khi huấn luyện các mô hình AI quy mô lớn."
     }
   ]
 }

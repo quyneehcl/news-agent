@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-01",
+  "headline_summary": "Hôm nay ghi nhận sự bùng nổ của các ứng dụng AI Agent thực tế, từ việc tự động hóa thí nghiệm sinh học trực tiếp trên động vật đến tạo môi trường mô phỏng web tự động. Bên cạnh đó, bức tranh tài chính và hạ tầng AI đang gặp nhiều áp lực khi chi phí đầu tư khổng lồ bắt đầu vấp phải sự hoài nghi từ thị trường và các nhà đầu tư.",
+  "articles": [
+    {
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "title_vi": "Agent AI thực hiện thành công việc tiêm thuốc vào brain chuột sống",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "summary_vi": "Một công ty khởi nghiệp sinh học đã thử nghiệm cho agent AI tự lựa chọn liệu pháp gen và thực hiện tiêm thử nghiệm thành công vào não chuột sống. Bước tiến này đánh dấu sự can thiệp trực tiếp của AI vào các thao tác y sinh thực địa đầy phức tạp. Đây là minh chứng đáng kinh ngạc cho tương lai của các phòng thí nghiệm nghiên cứu được tự động hóa hoàn toàn.",
+      "why_it_matters": "Giúp sinh viên hình dung tiềm năng thực tế của AI Agent trong việc tự động hóa các thao tác thí nghiệm y sinh phức tạp."
+    },
+    {
+      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "title_vi": "Mã độc đánh cắp thông tin mới dùng AI để tự động thu thập dữ liệu nạn nhân",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "summary_vi": "Loại mã độc mới mang tên Volta-Autodoxer đang tận dụng công cụ AI để phân tích và tổng hợp thông tin cá nhân của nạn nhân từ nhiều nguồn. Mã độc này tự động thu thập từ thông tin đăng nhập, số thẻ tín dụng cho đến hóa đơn dịch vụ và dữ liệu mạng xã hội. Việc tích hợp AI giúp quá trình trích xuất và liên kết dữ liệu nhạy cảm diễn ra tinh vi hơn nhiều.",
+      "why_it_matters": "Cung cấp góc nhìn về khía cạnh an ninh mạng của AI, giúp sinh viên nâng cao nhận thức về an toàn thông tin và đạo đức AI."
+    },
+    {
+      "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+      "title_vi": "WebAnything: Xây dựng môi trường đánh giá agent AI tự động từ web thực tế",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.37786",
+      "summary_vi": "WebAnything là một khung làm việc tự động hóa hoàn toàn nhằm biến các trang web thực tế thành môi trường huấn luyện và đánh giá agent AI. Nghiên cứu giải quyết thách thức tốn kém nguồn lực của việc xây dựng môi trường mô phỏng thủ công hiện nay. Hệ thống mở ra khả năng mở rộng quy mô thu thập dữ liệu tương tác web cho các agent AI.",
+      "why_it_matters": "Cung cấp giải pháp thiết thực cho sinh viên nghiên cứu về AI Agent khi cần xây dựng môi trường kiểm thử thực tế quy mô lớn."
+    },
+    {
+      "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
+      "title_vi": "Seq@K: Phương pháp đánh giá mô hình ngôn ngữ dựa trên phản hồi chuỗi",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.37859",
+      "summary_vi": "Các chỉ số đánh giá hiện tại như Pass@1 hay Pass@K chưa phản ánh được khả năng cải thiện câu trả lời của LLM thông qua phản hồi lặp lại. Nhóm nghiên cứu đề xuất Seq@K, một thước đo mới giúp đánh giá hiệu quả học và tinh chỉnh ngữ cảnh của mô hình qua nhiều lượt tương tác. Phương pháp này mô phỏng chính xác hơn quy trình làm việc thực tế của các AI agent.",
+      "why_it_matters": "Giúp sinh viên nắm bắt được các phương pháp benchmark tiên tiến dành cho mô hình ngôn ngữ lớn trong quy trình làm việc dạng agent."
+    },
+    {
+      "title": "Cracks are emerging in the AI spending boom",
+      "title_vi": "Xuất hiện những rạn nứt trong làn sóng đầu tư bùng nổ vào AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "summary_vi": "Dù các tập đoàn công nghệ lớn vẫn đổ hàng tỷ USD vào hạ tầng AI, áp lực nợ nần và dòng tiền âm đang khiến giới đầu tư nghi ngờ tính bền vững của làn sóng này. Sự hoài nghi ngày càng tăng về khả năng tạo ra lợi nhuận tương xứng với chi phí vận hành khổng lồ. Điều này có thể dẫn đến sự điều chỉnh chiến lược đầu tư công nghệ trong thời gian tới.",
+      "why_it_matters": "Giúp sinh viên hiểu rõ bức tranh kinh tế ngành AI, từ đó chú trọng hơn đến bài toán tối ưu hóa chi phí và hiệu quả của mô hình."
+    },
+    {
+      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+      "title_vi": "OpenFrontiers: Bộ dữ liệu bài toán nghiên cứu mở và benchmark khám phá khoa học cho LLM",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.37739",
+      "summary_vi": "Các mô hình ngôn ngữ lớn ngày càng thể hiện tiềm năng trong việc giải quyết bài toán cấp nghiên cứu, nhưng thiếu các bộ dữ liệu đánh giá chuẩn mực. OpenFrontiers cung cấp tập hợp bài toán nghiên cứu mở liên ngành cùng benchmark tái phát hiện các khám phá toán học gần đây. Đóng góp này tạo tiền đề quan trọng để kiểm chứng khả năng tư duy khoa học của AI.",
+      "why_it_matters": "Là tài nguyên quý giá cho sinh viên Data Science và AI muốn thử sức các mô hình với bài toán cấp nghiên cứu khoa học chuyên sâu."
+    },
+    {
+      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+      "title_vi": "LRMoE: Tái hiệu chuẩn tải giúp huấn luyện mô hình MoE hiệu quả trên nút phần cứng giới hạn",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.37720",
+      "summary_vi": "Mô hình Mixture-of-Experts (MoE) thường gặp khó khăn do nghẽn tính toán và bộ nhớ trên các nút GPU giới hạn. LRMoE giải quyết vấn đề này bằng cách tái hiệu chuẩn nhu cầu lan truyền ngược và cân bằng lại khối lượng công việc của từng expert. Giải pháp giúp tối ưu hóa dung lượng bộ nhớ GPU mà vẫn đảm bảo tốc độ huấn luyện mô hình MoE.",
+      "why_it_matters": "Cung cấp kiến thức quan trọng về kỹ thuật tối ưu hóa phần cứng và bộ nhớ khi huấn luyện các mô hình AI quy mô lớn."
+    }
+  ]
+}
