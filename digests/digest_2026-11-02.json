@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-02",
+  "headline_summary": "Các tin tức hôm nay tập trung vào tác động thực tế và trách nhiệm xã hội của trí tuệ nhân tạo, từ việc kiểm soát ô nhiễm môi trường do hạ tầng dữ liệu đến rủi ro khi người dùng quá phụ thuộc vào chatbot. Bên cạnh đó, định hướng chiến lược AI của các tập đoàn lớn như Apple và OpenAI cũng phản ánh những bước đi cẩn trọng và nỗ lực điều chỉnh hình ảnh thương hiệu trong mắt công chúng.",
+  "articles": [
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "title_vi": "OpenAI có thể đổi tên các trung tâm dữ liệu thành 'khu phức hợp tính toán AI'",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "summary_vi": "OpenAI đang cân nhắc đổi tên các trung tâm dữ liệu thành các khu phức hợp tính toán AI nhằm xoa dịu sự phản đối từ dư luận. Các hạ tầng tính toán hiện nay thường gặp phải sự chỉ trích gay gắt về mức tiêu thụ năng lượng và tác động môi trường. Việc điều chỉnh tên gọi này là nỗ lực truyền thông nhằm xây dựng hình ảnh thân thiện hơn với cộng đồng địa phương.",
+      "why_it_matters": "Giúp sinh viên hiểu được tầm quan trọng của truyền thông và sự chấp thuận từ xã hội đối với hạ tầng tính toán quy mô lớn trong ngành AI."
+    },
+    {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "title_vi": "AI giúp cuộc sống của các CEO công nghệ dễ dàng hơn, nhưng còn những người khác thì sao?",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "summary_vi": "Bài viết thảo luận về khoảng cách giữa góc nhìn của giới lãnh đạo công nghệ và lực lượng lao động phổ thông đối với lợi ích của AI. Trong khi các CEO thúc đẩy tự động hóa để tăng hiệu suất kinh doanh, người lao động lại đối mặt với nguy cơ mất việc và áp lực công việc gia tăng. Sự thiếu nhạy cảm trong phát ngôn của các lãnh đạo đang gây ra nhiều tranh luận về mặt xã hội.",
+      "why_it_matters": "Nhắc nhở sinh viên ngành AI và Data Science về khía cạnh đạo đức, nhân văn và tác động xã hội khi phát triển các giải pháp tự động hóa."
+    },
+    {
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "title_vi": "CEO Apple khẳng định công ty không phát triển AI chỉ vì chạy theo phong trào",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "summary_vi": "Lãnh đạo Apple lên tiếng bảo vệ vị thế hiện tại của tập đoàn trong cuộc đua trí tuệ nhân tạo toàn cầu. Ông nhấn mạnh Apple chỉ ra mắt các tính năng AI khi chúng đem lại giá trị sử dụng thực sự thay vì phục vụ mục đích quảng bá. Định hướng này thể hiện sự cẩn trọng của Apple trong việc tích hợp AI vào hệ sinh thái sản phẩm.",
+      "why_it_matters": "Sinh viên có thể học hỏi góc nhìn thực tế về việc phát triển sản phẩm AI tập trung vào trải nghiệm người dùng cuối thay vì chỉ theo đuổi công nghệ."
+    },
+    {
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "title_vi": "Tòa án cho phép tiếp tục vụ kiện xAI về ô nhiễm môi trường từ trung tâm dữ liệu",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "summary_vi": "Một thẩm phán đã cho phép vụ kiện của NAACP đối với công ty xAI của Elon Musk được tiếp tục xử lý tại tòa án. Đơn kiện cáo buộc trung tâm dữ liệu của xAI vi phạm Đạo luật Khí sạch và gây ô nhiễm cho khu vực dân cư xung quanh. Đây là một trong những tranh chấp pháp lý tiêu biểu về ảnh hưởng môi trường của hệ thống máy chủ huấn luyện AI.",
+      "why_it_matters": "Sinh viên AI và Data Science cần nhận thức rõ các quy định pháp lý và rủi ro môi trường phát sinh từ các hệ thống hạ tầng AI khổng lồ."
+    },
+    {
+      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "title_vi": "Chatbot AI chỉ đường sai cho người đi bộ đường dài, gây ra nhiều hậu quả nguy hiểm",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "summary_vi": "Việc tin tưởng hoàn toàn vào các chatbot AI để lập kế hoạch di chuyển đang khiến nhiều người đi bộ đường dài gặp nguy hiểm. Người dùng có xu hướng từ bỏ tư duy phản biện cá nhân khi quá phụ thuộc vào thông tin thiếu chính xác do AI tạo ra. Hậu quả là nhiều người đã bị lạc hoặc đối mặt với tình huống đe dọa tính mạng ở các vùng hoang dã.",
+      "why_it_matters": "Đây là ví dụ điển hình về rủi ro nghiêm trọng từ hiện tượng ảo giác của mô hình ngôn ngữ lớn mà các kỹ sư AI cần tìm giải pháp khắc phục."
+    }
+  ]
+}
