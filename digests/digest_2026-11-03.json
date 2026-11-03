@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-03",
+  "headline_summary": "Bản tin AI hôm nay nổi bật với những cảnh báo về khả năng tự cải tiến đệ quy (RSI) từ Anthropic và sự bùng nổ của kỷ nguyên Web tự chủ (Agentic Web). Bên cạnh đó, các nghiên cứu mới tập trung vào việc tự động tạo baseline thực nghiệm chuẩn xác và phát triển mạng thần kinh tự biến đổi. Khía cạnh pháp lý và đạo đức dữ liệu cũng tiếp tục nóng lên với vụ kiện bản quyền mới hướng vào việc thu thập dữ liệu huấn luyện AI.",
+  "articles": [
+    {
+      "title": "Anthropic warns that it's very close to RSI capability, aka self-building AI",
+      "title_vi": "Anthropic cảnh báo đã tiến rất gần đến khả năng RSI - AI tự xây dựng chính mình",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "summary_vi": "Anthropic đưa ra cảnh báo rằng họ đang tiến rất gần tới ngưỡng Tự cải tiến Đệ quy (RSI), nơi mô hình AI đạt đủ năng lực để tự thiết kế và huấn luyện các phiên bản tiếp theo. Hiện tượng này có thể kích hoạt sự tăng tốc đột biến về năng lực AI, đặt ra nhiều thách thức lớn về khả năng kiểm soát và an toàn.",
+      "why_it_matters": "Giúp sinh viên cập nhật ranh giới phát triển mới nhất của AI và tầm quan trọng cấp thiết của nghiên cứu an toàn AI (AI Safety)."
+    },
+    {
+      "title": "42AI comes out of stealth with $62.5M and a world model that can 'predict human behavior'",
+      "title_vi": "Startup 42AI gọi vốn 62,5 triệu USD cho mô hình thế giới dự đoán hành vi con người",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "summary_vi": "Startup 42AI chính thức ra mắt cùng khoản đầu tư 62,5 triệu USD nhằm phát triển mô hình thế giới (world model) tiên tiến. Công nghệ này hướng tới khả năng dự đoán chính xác quyết định và hành vi của con người ngay cả trong các kịch bản hoàn toàn mới.",
+      "why_it_matters": "Cho thấy xu hướng dịch chuyển từ các mô hình ngôn ngữ đơn thuần sang các mô hình thế giới có khả năng mô phỏng và suy luận thực tế."
+    },
+    {
+      "title": "The agentic web is here",
+      "title_vi": "Kỷ nguyên Web dựa trên Agent chính thức xuất hiện",
+      "source": "MIT Technology Review - AI",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "summary_vi": "Tầm nhìn về một mạng internet được vận hành bởi các phần mềm agent tự chủ đang trở thành hiện thực. Thay vì con người tự tìm kiếm và thao tác thủ công, các AI agent sẽ đại diện người dùng thực hiện các quy trình làm việc phức tạp trên không gian mạng.",
+      "why_it_matters": "Sinh viên AI và Data Science cần chuẩn bị cho sự thay đổi hạ tầng phần mềm khi ứng dụng chuyển dịch sang mô hình workflow tự chủ."
+    },
+    {
+      "title": "Automatic Construction of Strong Simple Baselines",
+      "title_vi": "Tự động xây dựng các mô hình đối chứng (baseline) đơn giản nhưng mạnh mẽ",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.40700",
+      "summary_vi": "Nghiên cứu đề xuất phương pháp sử dụng mô hình ngôn ngữ lớn để tự động thiết lập các mô hình đối chứng (baseline) chuẩn xác trong học sâu. Phương pháp giúp khắc phục tình trạng thiếu baseline phù hợp trong nhiều công bố nghiên cứu, vốn dễ dẫn đến kết luận sai lệch về tiến bộ công nghệ.",
+      "why_it_matters": "Trang bị cho sinh viên tư duy thực nghiệm nghiêm túc và phương pháp đánh giá mô hình học máy một cách chuẩn xác, khách quan."
+    },
+    {
+      "title": "AutoHebb: Self-Modifying Neural Networks that Zero-Shot Infer and Continually Learn",
+      "title_vi": "AutoHebb: Mạng thần kinh tự biến đổi có khả năng suy luận Zero-Shot và học liên tục",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.40757",
+      "summary_vi": "Bài báo giới thiệu AutoHebb, một kiến trúc mạng thần kinh lấy cảm hứng từ sinh học với khả năng tự điều chỉnh trọng số trong quá trình hoạt động. Mô hình đạt được khả năng suy luận zero-shot và học liên tục mà không mắc phải hiện tượng quên thảm khốc.",
+      "why_it_matters": "Mở ra hướng nghiên cứu kết hợp giữa khoa học não bộ và học máy để giải quyết bài toán học liên tục trong AI."
+    },
+    {
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "title_vi": "New York Times và nhiều báo lớn kiện trình duyệt Brave vì thu thập dữ liệu trái phép",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "summary_vi": "New York Times cùng nhiều cơ quan truyền thông đã đệ đơn kiện trình duyệt Brave với cáo buộc thu thập nội dung có bản quyền và cung cấp trái phép cho các công ty AI như Anthropic và Perplexity. Vụ kiện làm gia tăng tranh chấp pháp lý xung quanh nguồn dữ liệu cho AI.",
+      "why_it_matters": "Nhắc nhở sinh viên về tầm quan trọng của đạo đức dữ liệu, tính hợp pháp và bản quyền trong bài toán thu thập dữ liệu huấn luyện."
+    }
+  ]
+}
