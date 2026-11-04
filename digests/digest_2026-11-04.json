@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-04",
+  "headline_summary": "Xu hướng AI hôm nay tập trung vào bài toán hạ tầng tính toán, chi phí vận hành mô hình và giải pháp an toàn cho các hệ thống AI agent. Bên cạnh những thách thức về năng lượng tiêu thụ cho trung tâm dữ liệu và biên lợi nhuận của các công ty lớn, các công nghệ mới như xác thực danh tính mô hình hay lý thuyết trò chơi ngược đang mở ra hướng đi mới.",
+  "articles": [
+    {
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "title_vi": "Cách \"lý thuyết trò chơi ngược\" giúp kiểm soát các hệ thống AI agent",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "summary_vi": "Các nhà nghiên cứu đang áp dụng lý thuyết trò chơi ngược (thiết kế cơ chế) để định hướng hành vi của các mô hình AI tiên tiến. Phương pháp này thiết kế môi trường và quy tắc sao cho việc tuân thủ luật mang lại lợi ích tốt nhất cho AI agent, ngăn chúng tự ý phá vỡ rào cản.",
+      "why_it_matters": "Đây là hướng tiếp cận mới quan trọng trong nghiên cứu an toàn AI giúp sinh viên hiểu cách kết hợp kinh tế học hành vi với trí tuệ nhân tạo."
+    },
+    {
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "title_vi": "Anthropic phát triển hệ thống xác thực danh tính cho các mô hình AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "summary_vi": "Anthropic đang phát triển một hệ thống có tên FlashProve nhằm giúp người dùng kiểm tra nguồn gốc chính xác của các phản hồi từ AI. Công cụ này cho phép xác định liệu câu trả lời có thực sự đến từ đúng mô hình AI mà người dùng yêu cầu hay không.",
+      "why_it_matters": "Bài toán xác thực nguồn gốc dữ liệu và tính minh bạch của mô hình là kỹ năng cốt lõi khi xây dựng các ứng dụng AI đáng tin cậy trong thực tế."
+    },
+    {
+      "title": "Anthropic is still grappling with the economics of compute",
+      "title_vi": "Anthropic vẫn đang vật lộn với bài toán kinh tế trong năng lượng tính toán",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "summary_vi": "Biên lợi nhuận tính toán của Anthropic đang có xu hướng giảm dù quy mô sử dụng tăng lên đáng kể. Điều này phản ánh chi phí phần cứng và hạ tầng phục vụ các mô hình ngôn ngữ lớn ngày càng trở nên đắt đỏ và khó tối ưu hóa.",
+      "why_it_matters": "Giúp sinh viên nắm rõ bức tranh tài chính và bài toán tối ưu chi phí hạ tầng, một yếu tố quyết định sự thành bại của sản phẩm AI thương mại."
+    },
+    {
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "title_vi": "Startup suy luận AI Fal gấp đôi định giá lên 16 tỷ USD do nhu cầu bùng nổ",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "summary_vi": "Startup chuyên về hạ tầng suy luận AI Fal vừa huy động thành công 1,3 tỷ USD trong vòng gọi vốn mới. Nhu cầu tối ưu hóa tốc độ và chi phí suy luận bùng nổ đã giúp công ty tăng gấp đôi định giá lên mốc 16 tỷ USD.",
+      "why_it_matters": "Sự tăng trưởng này cho thấy tầm quan trọng của việc tối ưu hiệu năng suy luận (Inference Optimization) bên cạnh quá trình huấn luyện mô hình."
+    },
+    {
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "title_vi": "Các trung tâm dữ liệu tận dụng động cơ máy bay cũ do thiếu hụt nguồn điện",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "summary_vi": "Thời gian chờ đợi đấu nối vào lưới điện quốc gia kéo dài khiến nhiều nhà phát triển trung tâm dữ liệu AI phải sử dụng động cơ máy bay cũ để phát điện khẩn cấp. Mặc dù giải pháp này kém hiệu quả và không thân thiện với môi trường, nó giải quyết được bài toán thiếu điện cấp bách hiện nay.",
+      "why_it_matters": "Sinh viên có cái nhìn thực tế về những thách thức hạ tầng năng lượng đối với việc mở rộng quy mô các hệ thống AI tính toán hiệu năng cao."
+    },
+    {
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "title_vi": "Apple Watch bắt đầu thử nghiệm tính năng AI giúp tua lại và tóm tắt cuộc trò chuyện",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "summary_vi": "Apple đã đưa tính năng Audio Intelligence lên bản thử nghiệm beta cho Apple Watch, hỗ trợ ghi nhớ và tóm tắt nội dung hội thoại. Người dùng có thể dễ dàng tua lại thông tin đã nói hoặc tự động tạo ghi chú cho các cuộc trò chuyện hàng ngày.",
+      "why_it_matters": "Đây là minh họa thực tế về xu hướng triển khai mô hình xử lý âm thanh và ngôn ngữ tự nhiên lên các thiết bị đeo nhỏ gọn (Edge AI)."
+    }
+  ]
+}
