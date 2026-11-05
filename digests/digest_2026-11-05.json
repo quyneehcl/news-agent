@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-05",
+  "headline_summary": "Thị trường AI hôm nay ghi nhận xu hướng bùng nổ của các hệ thống đại lý AI (AI agent) và các thương vụ thâu tóm công nghệ lập trình tự động. Bên cạnh đó, các rào cản lớn về hạ tầng năng lượng cho trung tâm dữ liệu cùng vấn đề xác thực danh tính và an toàn mô hình AI đang trở thành tâm điểm chú ý của toàn ngành.",
+  "articles": [
+    {
+      "title": "Meta acquires AI coding startup Conductor",
+      "title_vi": "Meta thâu tóm Conductor, startup hỗ trợ lập trình bằng đại lý AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "summary_vi": "Meta vừa chính thức mua lại Conductor, một startup chuyên về các công cụ hỗ trợ lập trình tự động bằng AI. Startup này cho phép các kỹ sư phần mềm triển khai đồng thời nhiều đại lý AI để xử lý các khía cạnh khác nhau của một dự án. Thương vụ này cho thấy cam kết mạnh mẽ của Meta trong việc tự động hóa toàn diện quy trình phát triển phần mềm.",
+      "why_it_matters": "Giúp sinh viên nắm bắt xu hướng ứng dụng hệ thống đa đại lý AI (multi-agent) trong quy trình sản xuất phần mềm thực tế tại các tập đoàn công nghệ hàng đầu."
+    },
+    {
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "title_vi": "Anthropic phát triển hệ thống FlashProve nhằm xác thực danh tính mô hình AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "summary_vi": "Anthropic đang nghiên cứu một hệ thống xác thực có tên FlashProve nhằm giúp người dùng kiểm tra nguồn gốc của các câu trả lời do AI tạo ra. Công cụ này cho phép xác minh xem một phản hồi có thực sự đến từ đúng mô hình AI mà nó tuyên bố hay không. Đây là giải pháp quan trọng để chống giả mạo và nâng cao tính minh bạch cho các dịch vụ AI.",
+      "why_it_matters": "Mở ra hướng nghiên cứu mới cho sinh viên về an toàn AI, xác thực dữ liệu và tính minh bạch của các mô hình ngôn ngữ lớn."
+    },
+    {
+      "title": "Securing the agentic enterprise with data lineage",
+      "title_vi": "Bảo mật doanh nghiệp ứng dụng đại lý AI bằng kỹ thuật truy xuất nguồn gốc dữ liệu",
+      "source": "MIT Technology Review - AI",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "summary_vi": "Khi các đại lý AI tự động truy cập và chuyển giao dữ liệu qua lại trong doanh nghiệp mà không có sự can thiệp của con người, rủi ro sai lệch và rò rỉ dữ liệu tăng cao. Bài viết nhấn mạnh vai trò của kỹ thuật truy xuất nguồn gốc dữ liệu (data lineage) để theo dõi và kiểm soát dòng chảy thông tin. Giải pháp này giúp đảm bảo tính chính xác và an toàn cho các hệ thống doanh nghiệp tự vận hành.",
+      "why_it_matters": "Gợi ý cho sinh viên ngành AI và Data Science về tầm quan trọng của quản trị dữ liệu và bảo mật hệ thống khi thiết kế các đại lý tự động."
+    },
+    {
+      "title": "Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering",
+      "title_vi": "Phát hiện cộng đồng trong mạng phức hợp thông qua độ tương đồng nút, học biểu diễn đồ thị và phân cụm phân cấp",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2303.12212",
+      "summary_vi": "Nghiên cứu mới đề xuất ba khung làm việc phân cấp tổng quát để giải quyết bài toán phát hiện cộng đồng trong các mạng lưới phức hợp như mạng xã hội hay trích dẫn. Phương pháp này kết hợp thuật toán phân cụm dựa trên liên kết, ma trận tiệm cận đỉnh và các mô hình học biểu diễn đồ thị. Nhóm tác giả đã đánh giá thành công 364 kết hợp mô-đun trên mô hình đồ thị Stochastic Block Model.",
+      "why_it_matters": "Cung cấp kiến thức chuyên sâu và tài liệu tham khảo giá trị cho sinh viên theo đuổi hướng nghiên cứu học máy trên đồ thị (Graph Neural Networks)."
+    },
+    {
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "title_vi": "Các trung tâm dữ liệu AI phải dùng động cơ máy bay cũ do thiếu hụt nguồn điện",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "summary_vi": "Do thời gian chờ kết nối vào lưới điện quốc gia kéo dài nhiều năm, các nhà phát triển trung tâm dữ liệu AI đang phải tận dụng các động cơ máy bay cũ làm nguồn phát điện tạm thời. Dù giúp có điện nhanh hơn, giải pháp này lại gây tổn hại môi trường và có hiệu suất năng lượng thấp. Điều này phản ảnh ánh cuộc khủng hoảng hạ tầng năng lượng nghiêm trọng đang cản trở đà phát triển của AI.",
+      "why_it_matters": "Giúp sinh viên hiểu rõ rào cản thực tế về hạ tầng năng lượng và phần cứng trong việc triển khai các mô hình AI quy mô lớn."
+    },
+    {
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "title_vi": "Uber tiết lộ lượng người dùng đại lý AI để đặt xe vẫn ở mức rất thấp",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "summary_vi": "Trong tuần bận rộn nhất quý vừa qua của Uber, công ty ghi nhận chỉ có vỏn vẹn 4 chuyến xe được đặt thông qua các đại lý AI. Mặc dù công nghệ đại lý AI đang là tâm điểm chú ý của giới kỹ thuật, người tiêu dùng phổ thông vẫn chưa có thói quen sử dụng chúng cho các công việc thường nhật. Điều này cho thấy khoảng cách lớn giữa làn sóng công nghệ và thực tế chấp nhận từ phía người dùng.",
+      "why_it_matters": "Nhắc nhở sinh viên rằng việc phát triển mô hình AI giỏi là chưa đủ, sản phẩm cần phải phù hợp với hành vi và nhu cầu thực tế của người dùng."
+    },
+    {
+      "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+      "title_vi": "CEO của Hugging Face nhận định rủi ro AI hủy diệt nhân loại là gần như bằng không",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+      "summary_vi": "CEO Clément Delangue của Hugging Face khẳng định rủi ro AI gây ra thảm họa cho nhân loại là cực kỳ thấp. Ông cho rằng các mối nguy thực sự chủ yếu đến từ một vài tập đoàn phát triển AI trong các hệ thống đóng kín cửa. Việc thúc đẩy mã nguồn mở chính là chìa khóa để đảm bảo sự minh bạch và an toàn cho toàn bộ hệ sinh thái AI.",
+      "why_it_matters": "Mang lại cái nhìn đa chiều cho sinh viên về các tranh luận an toàn AI và vai trò chiến lược của cộng đồng mã nguồn mở."
+    }
+  ]
+}
