@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-07",
+  "headline_summary": "Xu hướng hôm nay nổi bật với các vòng gọi vốn kỷ lục như OpenAI tiếp tục huy động 11 tỷ USD, cùng sự trỗi dậy của các kỹ thuật tối ưu hóa hạ tầng LLM như nén KV cache và hệ thống multi-agent. Bên cạnh đó, các mô hình nhỏ gọn chạy trên thiết bị cuối và vấn đề an toàn bảo mật từ các mô hình AI mã nguồn mở đang thu hút sự chú ý lớn từ cộng đồng công nghệ.",
+  "articles": [
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "title_vi": "OpenAI được cho là huy động thêm 11 tỷ USD ở mức định giá 1.250 tỷ USD",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "summary_vi": "OpenAI vừa huy động thành công thêm 11 tỷ USD trong một vòng gọi vốn quy mô lớn dự kiến hoàn tất trong vài tuần tới. Mức định giá kỷ lục 1.250 tỷ USD cho thấy niềm tin mạnh mẽ của giới đầu tư vào tương lai AI tạo sinh. Số vốn này sẽ được dùng để mở rộng hạ tầng máy chủ và nghiên cứu các mô hình AI tiên tiến hơn.",
+      "why_it_matters": "Giúp sinh viên cập nhật dòng vốn khổng lồ đang đổ vào ngành AI và tiềm năng phát triển việc làm rộng mở trong các tập đoàn công nghệ hàng đầu."
+    },
+    {
+      "title": "LowRAM: Low-Rank Keys and Amortised Values for Composable KV Cache Compression at Test-Time",
+      "title_vi": "LowRAM: Nén KV Cache linh hoạt khi suy luận nhờ Key hạng thấp và Value khấu hao",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2611.07025",
+      "summary_vi": "Bài báo giới thiệu phương pháp LowRAM giúp nén dung lượng bộ nhớ KV cache của LLM trong quá trình suy luận mà không cần huấn luyện lại. Kỹ thuật này khai thác mối tương quan giữa Keys và Values trong attention head để giảm dung lượng RAM, giúp tăng số lượng request xử lý đồng thời. Đây là giải pháp hữu ích cho việc triển khai các mô hình ngôn ngữ lớn trên hạ tầng tài nguyên hạn chế.",
+      "why_it_matters": "Giúp sinh viên tiếp cận kỹ thuật tối ưu hóa bộ nhớ suy luận cho LLM, một bài toán thực tế vô cùng quan trọng khi triển khai mô hình vào sản phẩm."
+    },
+    {
+      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "title_vi": "Các mô hình AI miễn phí từ Trung Quốc đang trở nên vô cùng đáng sợ về khả năng tấn công mạng",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "summary_vi": "Một thử nghiệm xâm nhập mạng giả lập cho thấy các mô hình AI mã nguồn mở từ Trung Quốc như DeepSeek và GLM đạt hiệu quả tấn công gần ngang ngửa mô hình an ninh mạng tiên tiến nhất của OpenAI. Việc các mô hình này được phát hành miễn phí gây ra nỗi lo ngại lớn về nguy cơ an toàn thông tin toàn cầu. Các chuyên gia an ninh cảnh báo rằng rào cản kỹ thuật cho các cuộc tấn công mạng đang giảm đi đáng kể.",
+      "why_it_matters": "Cho sinh viên cái nhìn thực tế về khía cạnh an toàn bảo mật và rủi ro kép (dual-use) của các mô hình AI mã nguồn mở hiện nay."
+    },
+    {
+      "title": "Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning",
+      "title_vi": "Octopus: Hệ thống Học tăng cường đa tác tử dựa trên chia sẻ bộ nhớ Latent-KV",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2611.06956",
+      "summary_vi": "Nghiên cứu đề xuất Octopus, một kiến trúc mô hình đơn nhưng hỗ trợ nhiều nhánh tác tử khám phá song song mà không cần lặp lại KV cache. Thay vì sao chép bộ nhớ context hoặc tóm tắt văn bản tốn kém, Octopus liên kết các phụ thuộc giữa các nhánh trực tiếp trong quá trình học tăng cường. Kỹ thuật này giúp tăng hiệu suất và tiết kiệm đáng kể chi phí tính toán cho các hệ thống multi-agent phức tạp.",
+      "why_it_matters": "Giúp sinh viên nắm bắt xu hướng thiết kế hệ thống multi-agent kết hợp học tăng cường (RL) hiện đại nhất hiện nay."
+    },
+    {
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "title_vi": "Underdog trình diễn mô hình giọng nói cực nhỏ gọn chỉ 32MB",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "summary_vi": "Công ty AI mới từ Underdog ra mắt bản demo mô hình xử lý giọng nói với dung lượng cực kỳ khiêm tốn chỉ 32MB. Dù kích thước nhỏ gọn, mô hình này vẫn có khả năng tạo ra cả giọng nói lẫn âm nhạc chất lượng cao. Đột phá này mở ra cơ hội đưa AI âm thanh trực tiếp lên các thiết bị di động và thiết bị nhúng chạy edge computing.",
+      "why_it_matters": "Cho thấy xu hướng thu nhỏ mô hình (Edge AI) để chạy trực tiếp trên thiết bị cuối mà không phụ thuộc vào điện toán đám mây."
+    },
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "title_vi": "Dữ liệu từ Ramp cho thấy chi tiêu cho AI đang chững lại đúng lúc Anthropic tiến gần IPO",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "summary_vi": "Mặc dù tần suất sử dụng AI tiếp tục gia tăng, báo cáo tài chính từ Ramp chỉ ra rằng mức chi tiêu doanh nghiệp cho các dịch vụ AI đang bắt đầu đi ngang. Nguyên nhân là các doanh nghiệp áp dụng các biện pháp tối ưu chi phí hiệu quả hơn và các nhà cung cấp cắt giảm giá thành. Xu hướng này đặt ra thách thức về kỳ vọng tăng trưởng doanh thu cho các công ty AI như Anthropic trước thềm lên sàn chứng khoán.",
+      "why_it_matters": "Giúp sinh viên có cái nhìn thực tế về bài toán hiệu quả kinh tế (ROI) và tối ưu hóa chi phí khi triển khai AI tại doanh nghiệp."
+    },
+    {
+      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+      "title_vi": "Các công ty AI đang khát khao thu mua tệp dữ liệu công việc và email doanh nghiệp",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+      "summary_vi": "Giới môi giới dữ liệu đang tích cực thu gom tài liệu nội bộ và email doanh nghiệp để bán cho các công ty phát triển AI làm dữ liệu huấn luyện mô hình. Việc này nhằm giải quyết tình trạng cạn kiệt dữ liệu chất lượng cao trên web công cộng để tạo ra các agent hiểu sâu về văn hóa làm việc. Tuy nhiên, hành động này đang gặp phải sự phản đối dữ dội vì nguy cơ rò rỉ bí mật kinh doanh và quyền riêng tư.",
+      "why_it_matters": "Nhắc nhở sinh viên Data Science về vai trò then chốt của nguồn dữ liệu huấn luyện và các thách thức pháp lý, đạo đức dữ liệu xung quanh."
+    }
+  ]
+}
