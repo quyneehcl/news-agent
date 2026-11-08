@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-08",
+  "headline_summary": "Thị trường AI tiếp tục chứng kiến những biến động mạnh mẽ từ hạ tầng trung tâm dữ liệu, dòng vốn đầu tư khổng lồ vào OpenAI cho đến các rủi ro địa chính trị xung quanh Nvidia. Bên cạnh đó, việc ứng dụng AI vào giải quyết các bài toán xã hội như chăm sóc sức khỏe cộng đồng cũng đang đối mặt với nhiều thách thức thực tế.",
+  "articles": [
+    {
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "title_vi": "Sau kỳ bầu cử giữa kỳ, tương lai trung tâm dữ liệu và Elon Musk gặp nhiều biến động",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "summary_vi": "Kỳ bầu cử giữa kỳ tại Mỹ mang lại nhiều rào cản chính trị và pháp lý mới đối với việc phát triển hạ tầng công nghệ. Điều này ảnh hưởng trực tiếp đến các dự án trung tâm dữ liệu lớn của Elon Musk cũng như toàn ngành AI. Nhu cầu năng lượng khổng lồ của các trung tâm dữ liệu đang trở thành tâm điểm tranh cãi của các nhà làm chính sách.",
+      "why_it_matters": "Giúp sinh viên nhận thức được mối liên hệ giữa chính sách năng lượng, địa chính trị và hạ tầng phần cứng cần thiết để vận hành các mô hình AI lớn."
+    },
+    {
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "title_vi": "Lãnh đạo Megaspeed bị nghi được chiêu mộ để gián điệp CEO Nvidia",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "summary_vi": "Một bản ghi nhớ tình báo Mỹ cho thấy tình báo nước ngoài đã tìm cách chiêu mộ một quản lý cấp cao để thu thập thông tin về CEO của Nvidia. Sự việc phản ánh mức độ căng thẳng địa chính trị gay gắt xung quanh công nghệ bán dẫn và chip AI. Việc bảo vệ bí mật công nghệ hàng đầu hiện là ưu tiên tối quan trọng của các tập đoàn phần cứng AI.",
+      "why_it_matters": "Bài viết cho thấy tầm quan trọng chiến lược của chip bán dẫn AI trong bức tranh địa chính trị và an ninh công nghệ toàn cầu."
+    },
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "title_vi": "Crusoe bán dự án trung tâm dữ liệu gặp khó khăn tại Wyoming cho Google",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "summary_vi": "Crusoe đã chuyển nhượng dự án trung tâm dữ liệu AI đang gặp trục trặc tại Wyoming cho Google. Thương vụ này phản ánh những thách thức cực lớn về kỹ thuật, năng lượng và tài chính trong việc xây dựng hạ tầng AI quy mô lớn. Các gã khổng lồ công nghệ như Google đang tích cực thâu tóm hạ tầng để đảm bảo năng lực tính toán.",
+      "why_it_matters": "Hiểu được thách thức về hạ tầng điện toán giúp sinh viên AI đánh giá đúng chi phí vận hành và tính khả thi của việc huấn luyện mô hình."
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "title_vi": "OpenAI được cho là huy động thêm 11 tỷ USD với định giá 1,25 nghìn tỷ USD",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "summary_vi": "OpenAI tiếp tục huy động thành công thêm 11 tỷ USD trong vòng gọi vốn mới, nâng mức định giá công ty lên con số kỷ lục 1,25 nghìn tỷ USD. Nguồn vốn khổng lồ này sẽ được sử dụng để duy trì hạ tầng tính toán đắt đỏ và tiếp tục phát triển các mô hình thế hệ tiếp theo. Đây là minh chứng cho sự kỳ vọng cực lớn của giới đầu tư vào tương lai của AI.",
+      "why_it_matters": "Dòng vốn đầu tư kỷ lục khẳng định cơ hội nghề nghiệp rộng mở và nhu cầu nhân lực chất lượng cao trong ngành AI vẫn tiếp tục tăng mạnh."
+    },
+    {
+      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "title_vi": "Các ứng dụng chăm sóc sức khỏe tích hợp AI nhưng vẫn chưa đủ đáp ứng nhu cầu",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "summary_vi": "Các ứng dụng hỗ trợ người chăm sóc gia đình đang tích hợp nhiều tính năng AI hơn để quản lý công việc và theo dõi sức khỏe. Tuy nhiên, công nghệ chỉ giải quyết được một phần nhỏ khối lượng công việc, trong khi rào cản về tâm lý và sức khỏe tinh thần vẫn chưa được giải quyết triệt để. Việc áp dụng AI thực tế đòi hỏi sự thấu hiểu sâu sắc hơn về yếu tố con người.",
+      "why_it_matters": "Nhắc nhở sinh viên AI và Data Science rằng việc thiết kế giải pháp kỹ thuật phải kết hợp chặt chẽ với trải nghiệm người dùng và nhu cầu thực tế."
+    }
+  ]
+}

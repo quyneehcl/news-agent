@@ -1,62 +1,46 @@
 {
-  "date": "2026-11-07",
-  "headline_summary": "Xu hướng hôm nay nổi bật với các vòng gọi vốn kỷ lục như OpenAI tiếp tục huy động 11 tỷ USD, cùng sự trỗi dậy của các kỹ thuật tối ưu hóa hạ tầng LLM như nén KV cache và hệ thống multi-agent. Bên cạnh đó, các mô hình nhỏ gọn chạy trên thiết bị cuối và vấn đề an toàn bảo mật từ các mô hình AI mã nguồn mở đang thu hút sự chú ý lớn từ cộng đồng công nghệ.",
+  "date": "2026-11-08",
+  "headline_summary": "Thị trường AI tiếp tục chứng kiến những biến động mạnh mẽ từ hạ tầng trung tâm dữ liệu, dòng vốn đầu tư khổng lồ vào OpenAI cho đến các rủi ro địa chính trị xung quanh Nvidia. Bên cạnh đó, việc ứng dụng AI vào giải quyết các bài toán xã hội như chăm sóc sức khỏe cộng đồng cũng đang đối mặt với nhiều thách thức thực tế.",
   "articles": [
     {
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "title_vi": "Sau kỳ bầu cử giữa kỳ, tương lai trung tâm dữ liệu và Elon Musk gặp nhiều biến động",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "summary_vi": "Kỳ bầu cử giữa kỳ tại Mỹ mang lại nhiều rào cản chính trị và pháp lý mới đối với việc phát triển hạ tầng công nghệ. Điều này ảnh hưởng trực tiếp đến các dự án trung tâm dữ liệu lớn của Elon Musk cũng như toàn ngành AI. Nhu cầu năng lượng khổng lồ của các trung tâm dữ liệu đang trở thành tâm điểm tranh cãi của các nhà làm chính sách.",
+      "why_it_matters": "Giúp sinh viên nhận thức được mối liên hệ giữa chính sách năng lượng, địa chính trị và hạ tầng phần cứng cần thiết để vận hành các mô hình AI lớn."
+    },
+    {
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "title_vi": "Lãnh đạo Megaspeed bị nghi được chiêu mộ để gián điệp CEO Nvidia",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "summary_vi": "Một bản ghi nhớ tình báo Mỹ cho thấy tình báo nước ngoài đã tìm cách chiêu mộ một quản lý cấp cao để thu thập thông tin về CEO của Nvidia. Sự việc phản ánh mức độ căng thẳng địa chính trị gay gắt xung quanh công nghệ bán dẫn và chip AI. Việc bảo vệ bí mật công nghệ hàng đầu hiện là ưu tiên tối quan trọng của các tập đoàn phần cứng AI.",
+      "why_it_matters": "Bài viết cho thấy tầm quan trọng chiến lược của chip bán dẫn AI trong bức tranh địa chính trị và an ninh công nghệ toàn cầu."
+    },
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "title_vi": "Crusoe bán dự án trung tâm dữ liệu gặp khó khăn tại Wyoming cho Google",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "summary_vi": "Crusoe đã chuyển nhượng dự án trung tâm dữ liệu AI đang gặp trục trặc tại Wyoming cho Google. Thương vụ này phản ánh những thách thức cực lớn về kỹ thuật, năng lượng và tài chính trong việc xây dựng hạ tầng AI quy mô lớn. Các gã khổng lồ công nghệ như Google đang tích cực thâu tóm hạ tầng để đảm bảo năng lực tính toán.",
+      "why_it_matters": "Hiểu được thách thức về hạ tầng điện toán giúp sinh viên AI đánh giá đúng chi phí vận hành và tính khả thi của việc huấn luyện mô hình."
+    },
+    {
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "title_vi": "OpenAI được cho là huy động thêm 11 tỷ USD ở mức định giá 1.250 tỷ USD",
+      "title_vi": "OpenAI được cho là huy động thêm 11 tỷ USD với định giá 1,25 nghìn tỷ USD",
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "summary_vi": "OpenAI vừa huy động thành công thêm 11 tỷ USD trong một vòng gọi vốn quy mô lớn dự kiến hoàn tất trong vài tuần tới. Mức định giá kỷ lục 1.250 tỷ USD cho thấy niềm tin mạnh mẽ của giới đầu tư vào tương lai AI tạo sinh. Số vốn này sẽ được dùng để mở rộng hạ tầng máy chủ và nghiên cứu các mô hình AI tiên tiến hơn.",
-      "why_it_matters": "Giúp sinh viên cập nhật dòng vốn khổng lồ đang đổ vào ngành AI và tiềm năng phát triển việc làm rộng mở trong các tập đoàn công nghệ hàng đầu."
+      "summary_vi": "OpenAI tiếp tục huy động thành công thêm 11 tỷ USD trong vòng gọi vốn mới, nâng mức định giá công ty lên con số kỷ lục 1,25 nghìn tỷ USD. Nguồn vốn khổng lồ này sẽ được sử dụng để duy trì hạ tầng tính toán đắt đỏ và tiếp tục phát triển các mô hình thế hệ tiếp theo. Đây là minh chứng cho sự kỳ vọng cực lớn của giới đầu tư vào tương lai của AI.",
+      "why_it_matters": "Dòng vốn đầu tư kỷ lục khẳng định cơ hội nghề nghiệp rộng mở và nhu cầu nhân lực chất lượng cao trong ngành AI vẫn tiếp tục tăng mạnh."
     },
     {
-      "title": "LowRAM: Low-Rank Keys and Amortised Values for Composable KV Cache Compression at Test-Time",
-      "title_vi": "LowRAM: Nén KV Cache linh hoạt khi suy luận nhờ Key hạng thấp và Value khấu hao",
-      "source": "arXiv cs.LG",
-      "url": "https://arxiv.org/abs/2611.07025",
-      "summary_vi": "Bài báo giới thiệu phương pháp LowRAM giúp nén dung lượng bộ nhớ KV cache của LLM trong quá trình suy luận mà không cần huấn luyện lại. Kỹ thuật này khai thác mối tương quan giữa Keys và Values trong attention head để giảm dung lượng RAM, giúp tăng số lượng request xử lý đồng thời. Đây là giải pháp hữu ích cho việc triển khai các mô hình ngôn ngữ lớn trên hạ tầng tài nguyên hạn chế.",
-      "why_it_matters": "Giúp sinh viên tiếp cận kỹ thuật tối ưu hóa bộ nhớ suy luận cho LLM, một bài toán thực tế vô cùng quan trọng khi triển khai mô hình vào sản phẩm."
-    },
-    {
-      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-      "title_vi": "Các mô hình AI miễn phí từ Trung Quốc đang trở nên vô cùng đáng sợ về khả năng tấn công mạng",
+      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "title_vi": "Các ứng dụng chăm sóc sức khỏe tích hợp AI nhưng vẫn chưa đủ đáp ứng nhu cầu",
       "source": "Wired AI",
-      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-      "summary_vi": "Một thử nghiệm xâm nhập mạng giả lập cho thấy các mô hình AI mã nguồn mở từ Trung Quốc như DeepSeek và GLM đạt hiệu quả tấn công gần ngang ngửa mô hình an ninh mạng tiên tiến nhất của OpenAI. Việc các mô hình này được phát hành miễn phí gây ra nỗi lo ngại lớn về nguy cơ an toàn thông tin toàn cầu. Các chuyên gia an ninh cảnh báo rằng rào cản kỹ thuật cho các cuộc tấn công mạng đang giảm đi đáng kể.",
-      "why_it_matters": "Cho sinh viên cái nhìn thực tế về khía cạnh an toàn bảo mật và rủi ro kép (dual-use) của các mô hình AI mã nguồn mở hiện nay."
-    },
-    {
-      "title": "Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning",
-      "title_vi": "Octopus: Hệ thống Học tăng cường đa tác tử dựa trên chia sẻ bộ nhớ Latent-KV",
-      "source": "arXiv cs.LG",
-      "url": "https://arxiv.org/abs/2611.06956",
-      "summary_vi": "Nghiên cứu đề xuất Octopus, một kiến trúc mô hình đơn nhưng hỗ trợ nhiều nhánh tác tử khám phá song song mà không cần lặp lại KV cache. Thay vì sao chép bộ nhớ context hoặc tóm tắt văn bản tốn kém, Octopus liên kết các phụ thuộc giữa các nhánh trực tiếp trong quá trình học tăng cường. Kỹ thuật này giúp tăng hiệu suất và tiết kiệm đáng kể chi phí tính toán cho các hệ thống multi-agent phức tạp.",
-      "why_it_matters": "Giúp sinh viên nắm bắt xu hướng thiết kế hệ thống multi-agent kết hợp học tăng cường (RL) hiện đại nhất hiện nay."
-    },
-    {
-      "title": "Underdog shows off a 32MB speech model in new demo",
-      "title_vi": "Underdog trình diễn mô hình giọng nói cực nhỏ gọn chỉ 32MB",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-      "summary_vi": "Công ty AI mới từ Underdog ra mắt bản demo mô hình xử lý giọng nói với dung lượng cực kỳ khiêm tốn chỉ 32MB. Dù kích thước nhỏ gọn, mô hình này vẫn có khả năng tạo ra cả giọng nói lẫn âm nhạc chất lượng cao. Đột phá này mở ra cơ hội đưa AI âm thanh trực tiếp lên các thiết bị di động và thiết bị nhúng chạy edge computing.",
-      "why_it_matters": "Cho thấy xu hướng thu nhỏ mô hình (Edge AI) để chạy trực tiếp trên thiết bị cuối mà không phụ thuộc vào điện toán đám mây."
-    },
-    {
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "title_vi": "Dữ liệu từ Ramp cho thấy chi tiêu cho AI đang chững lại đúng lúc Anthropic tiến gần IPO",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "summary_vi": "Mặc dù tần suất sử dụng AI tiếp tục gia tăng, báo cáo tài chính từ Ramp chỉ ra rằng mức chi tiêu doanh nghiệp cho các dịch vụ AI đang bắt đầu đi ngang. Nguyên nhân là các doanh nghiệp áp dụng các biện pháp tối ưu chi phí hiệu quả hơn và các nhà cung cấp cắt giảm giá thành. Xu hướng này đặt ra thách thức về kỳ vọng tăng trưởng doanh thu cho các công ty AI như Anthropic trước thềm lên sàn chứng khoán.",
-      "why_it_matters": "Giúp sinh viên có cái nhìn thực tế về bài toán hiệu quả kinh tế (ROI) và tối ưu hóa chi phí khi triển khai AI tại doanh nghiệp."
-    },
-    {
-      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-      "title_vi": "Các công ty AI đang khát khao thu mua tệp dữ liệu công việc và email doanh nghiệp",
-      "source": "Wired AI",
-      "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-      "summary_vi": "Giới môi giới dữ liệu đang tích cực thu gom tài liệu nội bộ và email doanh nghiệp để bán cho các công ty phát triển AI làm dữ liệu huấn luyện mô hình. Việc này nhằm giải quyết tình trạng cạn kiệt dữ liệu chất lượng cao trên web công cộng để tạo ra các agent hiểu sâu về văn hóa làm việc. Tuy nhiên, hành động này đang gặp phải sự phản đối dữ dội vì nguy cơ rò rỉ bí mật kinh doanh và quyền riêng tư.",
-      "why_it_matters": "Nhắc nhở sinh viên Data Science về vai trò then chốt của nguồn dữ liệu huấn luyện và các thách thức pháp lý, đạo đức dữ liệu xung quanh."
+      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "summary_vi": "Các ứng dụng hỗ trợ người chăm sóc gia đình đang tích hợp nhiều tính năng AI hơn để quản lý công việc và theo dõi sức khỏe. Tuy nhiên, công nghệ chỉ giải quyết được một phần nhỏ khối lượng công việc, trong khi rào cản về tâm lý và sức khỏe tinh thần vẫn chưa được giải quyết triệt để. Việc áp dụng AI thực tế đòi hỏi sự thấu hiểu sâu sắc hơn về yếu tố con người.",
+      "why_it_matters": "Nhắc nhở sinh viên AI và Data Science rằng việc thiết kế giải pháp kỹ thuật phải kết hợp chặt chẽ với trải nghiệm người dùng và nhu cầu thực tế."
     }
   ]
 }
