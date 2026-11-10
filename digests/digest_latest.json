@@ -1,46 +1,54 @@
 {
-  "date": "2026-11-09",
-  "headline_summary": "Bản tin hôm nay nổi bật với xu hướng phát triển của công nghệ World Models đưa AI vào không gian vật lý thực tế cùng ứng dụng GenAI cá nhân hóa. Đồng thời, ngành công nghiệp AI đang chịu ảnh hưởng lớn từ các rủi ro địa chính trị và biến động chính sách xoay quanh hạ tầng trung tâm dữ liệu.",
+  "date": "2026-11-10",
+  "headline_summary": "Tiêu điểm tin tức AI hôm nay nổi bật với sự ra mắt của các mô hình AI mới như Muse Ember từ Meta và bộ đôi Mythos, Fable từ Anthropic nhằm tối ưu hóa chi phí và năng lực suy luận. Bên cạnh đó, ngành công nghiệp AI cũng chứng kiến những biến động lớn về mặt kinh doanh và hạ tầng, từ kế hoạch IPO của Anthropic, thách thức năng lượng trung tâm dữ liệu đến cuộc điều tra nhắm vào CEO Nvidia.",
   "articles": [
     {
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "title_vi": "Nvidia điều tra mối quan hệ của CEO Jensen Huang với nghi vấn gián điệp Trung Quốc",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "title_vi": "Meta phát hành Muse Ember, mô hình nhẹ mới dành cho việc thực thi agent",
       "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "summary_vi": "Nvidia cho biết công ty đang tiến hành cuộc điều tra nội bộ liên quan đến mối quan hệ giữa CEO Jensen Huang và một cá nhân bị nghi là gián điệp. Ông Huang đã gửi bản ghi nhớ tới toàn bộ nhân viên thừa nhận có mối quan hệ riêng tư này.",
-      "why_it_matters": "Những biến động cấp cao tại tập đoàn chip AI lớn nhất thế giới có thể ảnh hưởng sâu rộng đến chiến lược kinh doanh và chuỗi cung ứng phần cứng AI."
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "summary_vi": "Meta vừa ra mắt Muse Ember, một mô hình AI nhẹ được thiết kế tối ưu riêng cho các tác vụ vận hành agent tự động. Với mức giá cực kỳ cạnh tranh là 10 cent cho mỗi triệu token đầu vào, Ember rẻ hơn đáng kể so với các đối thủ như Haiku hay Luna. Sự xuất hiện của mô hình này giúp việc triển khai các ứng dụng agent trở nên dễ dàng và tiết kiệm chi phí hơn rất nhiều.",
+      "why_it_matters": "Giúp sinh viên AI/Data Science cập nhật xu hướng phát triển các mô hình agent giá rẻ và tối ưu hóa chi phí vận hành hệ thống AI."
     },
     {
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "title_vi": "Sau bầu cử giữa kỳ, Elon Musk và các trung tâm dữ liệu AI đối mặt nhiều thách thức",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "title_vi": "Anthropic ra mắt các mô hình Mythos và Fable mới giữa những quan ngại về RSI",
       "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "summary_vi": "Kết quả từ kỳ bầu cử giữa kỳ tại Mỹ đang mang lại nhiều bất ổn chính trị và pháp lý đối với ngành công nghệ. Điều này tác động trực tiếp tới kế hoạch phát triển các trung tâm dữ liệu AI quy mô lớn của Elon Musk.",
-      "why_it_matters": "Giúp sinh viên hiểu rõ mối liên hệ giữa chính sách công, quy hoạch năng lượng và khả năng mở rộng hạ tầng tính toán AI."
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "summary_vi": "Anthropic công bố hai mô hình AI thế hệ mới mang tên Mythos và Fable với nhiều nâng cấp vượt trội về khả năng lập trình, suy luận và thị giác máy tính. Các mô hình này cũng được tinh chỉnh để giao tiếp minh bạch và rõ ràng hơn với người dùng. Việc phát hành diễn ra trong bối cảnh cộng đồng công nghệ tiếp tục thảo luận về các lo ngại liên quan đến khả năng tự cải thiện tự động của AI.",
+      "why_it_matters": "Cung cấp cho sinh viên cái nhìn sâu hơn về các bước tiến mới trong năng lực suy luận của LLM và bài toán an toàn AI."
     },
     {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "title_vi": "Lãnh đạo Megaspeed bị tình báo Mỹ nghi vấn được tuyển dụng để theo dõi CEO Nvidia",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "title_vi": "Anthropic được cho là đang chuẩn bị tiến hành kế hoạch phát hành cổ phiếu lần đầu (IPO)",
       "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "summary_vi": "Một bản ghi nhớ tình báo Mỹ cho rằng cơ quan an ninh Trung Quốc đã tiếp cận một nữ lãnh đạo doanh nghiệp công nghệ để thu thập thông tin về CEO Nvidia. Sự việc phản ánh mối quan ngại ngày càng tăng về an ninh quốc gia trong cuộc đua công nghệ bán dẫn.",
-      "why_it_matters": "Nhấn mạnh tầm quan trọng của an ninh mạng và an toàn thông tin trong hệ sinh thái phát triển công nghệ AI cốt lõi."
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "summary_vi": "Công ty khởi nghiệp AI Anthropic dự kiến sẽ sớm chốt khoảng định giá để chuẩn bị cho việc phát hành cổ phiếu lần đầu ra công chúng (IPO). Theo Wall Street Journal, thương vụ này đánh dấu bước chuyển mình quan trọng của một trong những công ty dẫn đầu về AI tạo sinh hiện nay. Việc IPO sẽ cung cấp nguồn vốn khổng lồ cho Anthropic trong cuộc đua thương mại hóa các mô hình nền tảng.",
+      "why_it_matters": "Giúp sinh viên nắm bắt bức tranh tài chính và xu hướng trưởng thành thương mại của các doanh nghiệp AI hàng đầu."
     },
     {
-      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
-      "title_vi": "Trải nghiệm công cụ điều chỉnh công thức nấu ăn bằng AI mới của The New York Times",
+      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+      "title_vi": "Những rắc rối của Jensen Huang khiến ngành công nghiệp AI chấn động",
       "source": "Wired AI",
-      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-      "summary_vi": "The New York Times vừa thử nghiệm tính năng AI mới trên ứng dụng Cooking cho phép người dùng linh hoạt thay thế nguyên liệu hoặc điều chỉnh công thức. Đánh giá thực tế cho thấy mô hình đưa ra các gợi ý khá chính xác và hữu ích.",
-      "why_it_matters": "Minh họa cách ứng dụng Generative AI tạo ra giá trị thiết thực và cải thiện trải nghiệm người dùng trong các sản phẩm tiêu dùng."
+      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+      "summary_vi": "Hội đồng quản trị Nvidia đã mở cuộc điều tra đối với CEO Jensen Huang sau những nghi vấn liên quan đến mối quan hệ riêng tư với một tình báo viên Trung Quốc. Tin tức này đã khiến giá cổ phiếu Nvidia sụt giảm mạnh và gây hoang mang cho toàn bộ thị trường công nghệ. Biến động ở vị trí lãnh đạo Nvidia có thể ảnh hưởng lớn đến chuỗi cung ứng chip AI toàn cầu.",
+      "why_it_matters": "Nhắc nhở sinh viên về mối liên hệ chặt chẽ giữa địa chính trị, quản trị doanh nghiệp phần cứng và sự ổn định của hệ sinh thái AI."
     },
     {
-      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
-      "title_vi": "Mô hình thế giới (World Models) sắp bùng nổ: Những điều bạn cần biết",
-      "source": "Wired AI",
-      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-      "summary_vi": "Mô hình thế giới giúp đưa AI từ việc xử lý văn bản thuần túy sang mô phỏng không gian 3D và quy luật vật lý thực tế. Công nghệ này đóng vai trò quyết định giúp robot và xe tự lái hiểu và tương tác an toàn với môi trường thực tế.",
-      "why_it_matters": "Đây là một trong những hướng nghiên cứu quan trọng nhất tiếp theo của AI mà sinh viên ngành AI/Data Science cần chủ động theo dõi."
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "title_vi": "Anthropic gia nhập cơn sốt khí đốt của ngành AI khi chi 3,4 tỷ USD mua turbine",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "summary_vi": "Anthropic vừa thực hiện thỏa thuận trị giá 3,4 tỷ USD để mua các turbine khí đốt tự nhiên nhằm chủ động nguồn cung điện cho các trung tâm dữ liệu. Cơn khát năng lượng để huấn luyện các mô hình AI lớn đang buộc các công ty công nghệ phải tìm kiếm nguồn điện riêng thay vì phụ thuộc vào lưới điện quốc gia. Động thái này cũng dấy lên tranh cãi về cam kết bảo vệ môi trường của các công ty AI.",
+      "why_it_matters": "Giúp sinh viên hiểu rõ rào cản năng lượng và bài toán hạ tầng phần cứng đằng sau việc huấn luyện các mô hình AI quy mô lớn."
+    },
+    {
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "title_vi": "Người thay thế Nancy Pelosi sẵn sàng thúc đẩy chính sách quản lý AI",
+      "source": "MIT Technology Review - AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "summary_vi": "Nghị sĩ Scott Wiener, người vừa trúng cử ghế đại biểu San Francisco tại Quốc hội Mỹ, đang chuẩn bị đóng vai trò trung tâm trong việc xây dựng khung pháp lý AI cấp liên bang. Trước đó tại California, ông đã từng soạn thảo các dự luật quan trọng nhằm kiểm soát rủi ro từ AI tiên tiến. Các chính sách mới hứa hẹn sẽ siết chặt quy định về an toàn và minh bạch trong phát triển AI.",
+      "why_it_matters": "Trang bị cho sinh viên kiến thức về khung pháp lý và tuân thủ đạo đức AI, yếu tố then chốt khi thiết kế sản phẩm thực tế."
     }
   ]
 }

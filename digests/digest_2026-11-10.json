@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-10",
+  "headline_summary": "Tiêu điểm tin tức AI hôm nay nổi bật với sự ra mắt của các mô hình AI mới như Muse Ember từ Meta và bộ đôi Mythos, Fable từ Anthropic nhằm tối ưu hóa chi phí và năng lực suy luận. Bên cạnh đó, ngành công nghiệp AI cũng chứng kiến những biến động lớn về mặt kinh doanh và hạ tầng, từ kế hoạch IPO của Anthropic, thách thức năng lượng trung tâm dữ liệu đến cuộc điều tra nhắm vào CEO Nvidia.",
+  "articles": [
+    {
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "title_vi": "Meta phát hành Muse Ember, mô hình nhẹ mới dành cho việc thực thi agent",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "summary_vi": "Meta vừa ra mắt Muse Ember, một mô hình AI nhẹ được thiết kế tối ưu riêng cho các tác vụ vận hành agent tự động. Với mức giá cực kỳ cạnh tranh là 10 cent cho mỗi triệu token đầu vào, Ember rẻ hơn đáng kể so với các đối thủ như Haiku hay Luna. Sự xuất hiện của mô hình này giúp việc triển khai các ứng dụng agent trở nên dễ dàng và tiết kiệm chi phí hơn rất nhiều.",
+      "why_it_matters": "Giúp sinh viên AI/Data Science cập nhật xu hướng phát triển các mô hình agent giá rẻ và tối ưu hóa chi phí vận hành hệ thống AI."
+    },
+    {
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "title_vi": "Anthropic ra mắt các mô hình Mythos và Fable mới giữa những quan ngại về RSI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "summary_vi": "Anthropic công bố hai mô hình AI thế hệ mới mang tên Mythos và Fable với nhiều nâng cấp vượt trội về khả năng lập trình, suy luận và thị giác máy tính. Các mô hình này cũng được tinh chỉnh để giao tiếp minh bạch và rõ ràng hơn với người dùng. Việc phát hành diễn ra trong bối cảnh cộng đồng công nghệ tiếp tục thảo luận về các lo ngại liên quan đến khả năng tự cải thiện tự động của AI.",
+      "why_it_matters": "Cung cấp cho sinh viên cái nhìn sâu hơn về các bước tiến mới trong năng lực suy luận của LLM và bài toán an toàn AI."
+    },
+    {
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "title_vi": "Anthropic được cho là đang chuẩn bị tiến hành kế hoạch phát hành cổ phiếu lần đầu (IPO)",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "summary_vi": "Công ty khởi nghiệp AI Anthropic dự kiến sẽ sớm chốt khoảng định giá để chuẩn bị cho việc phát hành cổ phiếu lần đầu ra công chúng (IPO). Theo Wall Street Journal, thương vụ này đánh dấu bước chuyển mình quan trọng của một trong những công ty dẫn đầu về AI tạo sinh hiện nay. Việc IPO sẽ cung cấp nguồn vốn khổng lồ cho Anthropic trong cuộc đua thương mại hóa các mô hình nền tảng.",
+      "why_it_matters": "Giúp sinh viên nắm bắt bức tranh tài chính và xu hướng trưởng thành thương mại của các doanh nghiệp AI hàng đầu."
+    },
+    {
+      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+      "title_vi": "Những rắc rối của Jensen Huang khiến ngành công nghiệp AI chấn động",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+      "summary_vi": "Hội đồng quản trị Nvidia đã mở cuộc điều tra đối với CEO Jensen Huang sau những nghi vấn liên quan đến mối quan hệ riêng tư với một tình báo viên Trung Quốc. Tin tức này đã khiến giá cổ phiếu Nvidia sụt giảm mạnh và gây hoang mang cho toàn bộ thị trường công nghệ. Biến động ở vị trí lãnh đạo Nvidia có thể ảnh hưởng lớn đến chuỗi cung ứng chip AI toàn cầu.",
+      "why_it_matters": "Nhắc nhở sinh viên về mối liên hệ chặt chẽ giữa địa chính trị, quản trị doanh nghiệp phần cứng và sự ổn định của hệ sinh thái AI."
+    },
+    {
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "title_vi": "Anthropic gia nhập cơn sốt khí đốt của ngành AI khi chi 3,4 tỷ USD mua turbine",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "summary_vi": "Anthropic vừa thực hiện thỏa thuận trị giá 3,4 tỷ USD để mua các turbine khí đốt tự nhiên nhằm chủ động nguồn cung điện cho các trung tâm dữ liệu. Cơn khát năng lượng để huấn luyện các mô hình AI lớn đang buộc các công ty công nghệ phải tìm kiếm nguồn điện riêng thay vì phụ thuộc vào lưới điện quốc gia. Động thái này cũng dấy lên tranh cãi về cam kết bảo vệ môi trường của các công ty AI.",
+      "why_it_matters": "Giúp sinh viên hiểu rõ rào cản năng lượng và bài toán hạ tầng phần cứng đằng sau việc huấn luyện các mô hình AI quy mô lớn."
+    },
+    {
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "title_vi": "Người thay thế Nancy Pelosi sẵn sàng thúc đẩy chính sách quản lý AI",
+      "source": "MIT Technology Review - AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "summary_vi": "Nghị sĩ Scott Wiener, người vừa trúng cử ghế đại biểu San Francisco tại Quốc hội Mỹ, đang chuẩn bị đóng vai trò trung tâm trong việc xây dựng khung pháp lý AI cấp liên bang. Trước đó tại California, ông đã từng soạn thảo các dự luật quan trọng nhằm kiểm soát rủi ro từ AI tiên tiến. Các chính sách mới hứa hẹn sẽ siết chặt quy định về an toàn và minh bạch trong phát triển AI.",
+      "why_it_matters": "Trang bị cho sinh viên kiến thức về khung pháp lý và tuân thủ đạo đức AI, yếu tố then chốt khi thiết kế sản phẩm thực tế."
+    }
+  ]
+}
