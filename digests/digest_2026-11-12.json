@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-12",
+  "headline_summary": "Xu hướng nổi bật hôm nay tập trung vào sự tăng trưởng doanh thu kỷ lục của các công ty AI cùng các bước tiến về hạ tầng chip chuyên dụng. Đồng thời, các nghiên cứu mới chú trọng tối ưu hóa hiệu năng suy luận cho LLM ngữ cảnh dài và mở rộng ứng dụng AI đa thức vào khoa học Trái Đất cùng dữ liệu bảng.",
+  "articles": [
+    {
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "title_vi": "Gemini Decisions API: Ra quyết định đa thức nhanh chóng và chính xác",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "summary_vi": "Google chính thức giới thiệu Gemini Decisions API dựa trên mô hình Gemini Decision tiên tiến. Dịch vụ này giúp các nhà phát triển đưa ra các quyết định đa thức thời gian thực với độ chuẩn xác cao và tối ưu chi phí tính toán.",
+      "why_it_matters": "Giúp sinh viên học hỏi cách đưa mô hình AI đa thức vào các bài toán ra quyết định tự động trong ứng dụng thực tế."
+    },
+    {
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "title_vi": "Doanh thu quý của OpenAI lần đầu tiên vượt mốc 10 tỷ USD",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "summary_vi": "Doanh thu theo quý của OpenAI đã đạt mốc lịch sử 10 tỷ USD, tăng trưởng gần 50% so với quý trước. Kết quả này phản ánh sự bùng nổ thương mại hóa các dịch vụ trí tuệ nhân tạo tạo sinh cho doanh nghiệp và người dùng cá nhân.",
+      "why_it_matters": "Cho thấy quy mô thương mại khổng lồ của ngành AI, mở ra nhiều cơ hội việc làm cho nhân sự Khoa học Dữ liệu và Trí tuệ nhân tạo."
+    },
+    {
+      "title": "ADIndex: Layer-Adaptive Sparse Attention Indexing via Group-Level Distillation",
+      "title_vi": "ADIndex: Tối ưu chỉ mục chú ý thưa thích ứng theo lớp bằng chắt lọc tri thức cấp nhóm",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2611.12956",
+      "summary_vi": "Nghiên cứu giới thiệu ADIndex nhằm khắc phục nút thắt độ trễ khi xử lý ngữ cảnh dài trong cơ chế Sparse Attention của DeepSeek. Bằng cách chắt lọc tri thức cấp nhóm, ADIndex giúp giảm hơn 50% thời gian prefill trên GPU mà vẫn giữ nguyên độ chính xác.",
+      "why_it_matters": "Cung cấp góc nhìn thực tiễn về kỹ thuật tối ưu hóa hạ tầng tính toán cho các mô hình ngôn ngữ ngữ cảnh siêu dài."
+    },
+    {
+      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+      "title_vi": "EarthRecord: Đánh giá đại lý đa thức phân tích biến đổi đất đai từ dữ liệu vệ tinh 4 thập kỷ",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.12934",
+      "summary_vi": "Bộ cơ sở đánh giá EarthRecord sử dụng kho dữ liệu ảnh vệ tinh thô đa cảm biến kéo dài 40 năm để thử thách các đại lý AI. Khác với tập dữ liệu tiền xử lý đơn giản, bộ đánh giá đòi hỏi đại lý phải xử lý dữ liệu thô phức tạp trong khoa học Quan sát Trái Đất.",
+      "why_it_matters": "Mở ra hướng nghiên cứu ứng dụng đại lý AI đa thức vào bài toán xử lý dữ liệu địa không gian thực tế."
+    },
+    {
+      "title": "One Table, Many Queries: Benchmarking Generalist Tabular Models Across Generation, Imputation, and Prediction",
+      "title_vi": "One Table, Many Queries: Đánh giá toàn diện mô hình dữ liệu bảng đa năng",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2611.13001",
+      "summary_vi": "Bài báo đề xuất One Table Benchmark trên 56 tập dữ liệu để so sánh 46 phương pháp xử lý dữ liệu bảng khác nhau. Nghiên cứu đánh giá đồng thời khả năng sinh dữ liệu, điền dữ liệu thiếu và dự báo để tìm ra mô hình tổng quát tối ưu.",
+      "why_it_matters": "Giúp sinh viên Data Science nắm vững các phương pháp tiên tiến nhất khi làm việc với dữ liệu dạng bảng."
+    },
+    {
+      "title": "Physics2Weight: Direct Neural Network Architecture and Weight Generation from Physical Laws Using Large Language Models",
+      "title_vi": "Physics2Weight: Sinh kiến trúc và trọng số mạng thần kinh trực tiếp từ định luật vật lý bằng LLM",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.12954",
+      "summary_vi": "Khung làm việc Physics2Weight mở rộng kỹ thuật lập trình không gian trọng số để giải phương trình vi phân bằng cách sinh trực tiếp trọng số mạng thần kinh từ mô hình ngôn ngữ lớn. Phương pháp này loại bỏ nhu cầu tối ưu dựa trên độ dốc nhưng vẫn đảm bảo tính nhất quán vật lý.",
+      "why_it_matters": "Cho thấy tiềm năng của LLM trong việc giải quyết các bài toán mô phỏng khoa học và kỹ thuật phức tạp."
+    },
+    {
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "title_vi": "Fractile huy động 720 triệu USD gia tăng sức cạnh tranh trong cuộc đua chip AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "summary_vi": "Startup phần cứng Fractile tại Anh vừa hoàn tất vòng gọi vốn 720 triệu USD để phát triển chip chuyên dụng cho AI. Khoản đầu tư lớn này đưa Fractile trở thành đối thủ tiềm năng giải bài toán chi phí tính toán và hiệu năng phần cứng cho LLM.",
+      "why_it_matters": "Nhấn mạnh tầm quan trọng của sự phối hợp giữa thiết kế phần cứng và thuật toán AI trong làn sóng phát triển mới."
+    }
+  ]
+}
