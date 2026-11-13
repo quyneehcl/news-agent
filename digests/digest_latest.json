@@ -1,62 +1,62 @@
 {
-  "date": "2026-11-12",
-  "headline_summary": "Xu hướng nổi bật hôm nay tập trung vào sự tăng trưởng doanh thu kỷ lục của các công ty AI cùng các bước tiến về hạ tầng chip chuyên dụng. Đồng thời, các nghiên cứu mới chú trọng tối ưu hóa hiệu năng suy luận cho LLM ngữ cảnh dài và mở rộng ứng dụng AI đa thức vào khoa học Trái Đất cùng dữ liệu bảng.",
+  "date": "2026-11-13",
+  "headline_summary": "Tiêu điểm tin tức AI hôm nay xoay quanh biến động lịch sử tại Nvidia khi CEO Jensen Huang chính thức từ chức, gây ra nhiều hoài nghi về chiến lược AI mã nguồn mở và thị trường phần cứng toàn cầu. Bên cạnh đó, các bước tiến công nghệ mới như mô hình Gemini 4 Hydrogen trên Google Search cùng các rào cản thực tiễn về an ninh mạng và hạ tầng năng lượng đang tiếp tục tái định hình toàn ngành.",
   "articles": [
     {
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "title_vi": "Gemini Decisions API: Ra quyết định đa thức nhanh chóng và chính xác",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "title_vi": "Google Search nhận nâng cấp lớn với mô hình Gemini 4 Hydrogen",
       "source": "Google AI Blog",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "summary_vi": "Google chính thức giới thiệu Gemini Decisions API dựa trên mô hình Gemini Decision tiên tiến. Dịch vụ này giúp các nhà phát triển đưa ra các quyết định đa thức thời gian thực với độ chuẩn xác cao và tối ưu chi phí tính toán.",
-      "why_it_matters": "Giúp sinh viên học hỏi cách đưa mô hình AI đa thức vào các bài toán ra quyết định tự động trong ứng dụng thực tế."
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "summary_vi": "Google vừa chính thức tích hợp mô hình thế hệ mới Gemini 4 Hydrogen vào công cụ tìm kiếm nhằm nâng cao khả năng xử lý các truy vấn phức tạp. Nâng cấp này giúp AI Mode hiểu ngữ cảnh sâu hơn, mang lại phản hồi trực quan phong phú và trích dẫn các liên kết có độ chính xác cao hơn.",
+      "why_it_matters": "Đây là ví dụ thực tế điển hình về việc ứng dụng các mô hình ngôn ngữ lớn tiên tiến vào hệ thống tìm kiếm quy mô hàng tỷ người dùng."
     },
     {
-      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "title_vi": "Doanh thu quý của OpenAI lần đầu tiên vượt mốc 10 tỷ USD",
+      "title": "Jensen Huang Resigns as Nvidia CEO",
+      "title_vi": "Jensen Huang chính thức từ chức CEO của Nvidia",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huangs-steps-down/",
+      "summary_vi": "Ông Jensen Huang, đồng sáng lập kiêm Tổng giám đốc điều hành Nvidia, đã từ chức sau khi công ty mở cuộc điều tra nội bộ liên quan đến mối quan hệ cá nhân gây rủi ro an ninh. Giám đốc Tài chính Colette Kress đã tạm thời đảm nhiệm vị trí CEO tạm quyền của tập đoàn chip AI này.",
+      "why_it_matters": "Sự biến động ở cấp lãnh đạo cao nhất của Nvidia có thể làm thay đổi cục diện chuỗi cung ứng phần cứng và toàn bộ hệ sinh thái AI toàn cầu."
+    },
+    {
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "title_vi": "Sự ra đi của Jensen Huang đặt dấu hỏi về cam kết mã nguồn mở của Nvidia",
       "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "summary_vi": "Doanh thu theo quý của OpenAI đã đạt mốc lịch sử 10 tỷ USD, tăng trưởng gần 50% so với quý trước. Kết quả này phản ánh sự bùng nổ thương mại hóa các dịch vụ trí tuệ nhân tạo tạo sinh cho doanh nghiệp và người dùng cá nhân.",
-      "why_it_matters": "Cho thấy quy mô thương mại khổng lồ của ngành AI, mở ra nhiều cơ hội việc làm cho nhân sự Khoa học Dữ liệu và Trí tuệ nhân tạo."
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "summary_vi": "Việc ông Jensen Huang từ chức khiến cộng đồng lo ngại về tương lai sự hỗ trợ của Nvidia dành cho AI mã nguồn mở, bao gồm thương vụ thâu tóm Hugging Face trị giá 12,9 tỷ USD. Mặc dù vậy, lãnh đạo Hugging Face khẳng định sẽ tiếp tục đấu tranh để duy trì sự phát triển của các mô hình mở.",
+      "why_it_matters": "Tương lai của hệ sinh thái AI mã nguồn mở và khả năng tiếp cận các mô hình mở phụ thuộc rất lớn vào định hướng của các tập đoàn phần cứng hàng đầu."
     },
     {
-      "title": "ADIndex: Layer-Adaptive Sparse Attention Indexing via Group-Level Distillation",
-      "title_vi": "ADIndex: Tối ưu chỉ mục chú ý thưa thích ứng theo lớp bằng chắt lọc tri thức cấp nhóm",
-      "source": "arXiv cs.LG",
-      "url": "https://arxiv.org/abs/2611.12956",
-      "summary_vi": "Nghiên cứu giới thiệu ADIndex nhằm khắc phục nút thắt độ trễ khi xử lý ngữ cảnh dài trong cơ chế Sparse Attention của DeepSeek. Bằng cách chắt lọc tri thức cấp nhóm, ADIndex giúp giảm hơn 50% thời gian prefill trên GPU mà vẫn giữ nguyên độ chính xác.",
-      "why_it_matters": "Cung cấp góc nhìn thực tiễn về kỹ thuật tối ưu hóa hạ tầng tính toán cho các mô hình ngôn ngữ ngữ cảnh siêu dài."
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "title_vi": "Nvidia riêng tư xác nhận có thể theo dõi chip để chống buôn lậu",
+      "source": "MIT Technology Review - AI",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "summary_vi": "Nvidia đã thừa nhận với các nhà lập pháp Mỹ rằng họ hoàn toàn có giải pháp kỹ thuật để định vị và theo dõi chip nhằm ngăn chặn nạn buôn lậu theo Đạo luật An ninh Chip. Thông tin này trái ngược với tuyên bố trước đó từ các nhóm đại diện ngành cho rằng việc định vị chip là không khả thi.",
+      "why_it_matters": "Bài viết minh họa mối liên hệ mật thiết giữa kỹ thuật quản trị hạ tầng phần cứng AI, an toàn thông tin và chính sách địa chính trị."
     },
     {
-      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
-      "title_vi": "EarthRecord: Đánh giá đại lý đa thức phân tích biến đổi đất đai từ dữ liệu vệ tinh 4 thập kỷ",
-      "source": "arXiv cs.AI",
-      "url": "https://arxiv.org/abs/2611.12934",
-      "summary_vi": "Bộ cơ sở đánh giá EarthRecord sử dụng kho dữ liệu ảnh vệ tinh thô đa cảm biến kéo dài 40 năm để thử thách các đại lý AI. Khác với tập dữ liệu tiền xử lý đơn giản, bộ đánh giá đòi hỏi đại lý phải xử lý dữ liệu thô phức tạp trong khoa học Quan sát Trái Đất.",
-      "why_it_matters": "Mở ra hướng nghiên cứu ứng dụng đại lý AI đa thức vào bài toán xử lý dữ liệu địa không gian thực tế."
-    },
-    {
-      "title": "One Table, Many Queries: Benchmarking Generalist Tabular Models Across Generation, Imputation, and Prediction",
-      "title_vi": "One Table, Many Queries: Đánh giá toàn diện mô hình dữ liệu bảng đa năng",
-      "source": "arXiv cs.LG",
-      "url": "https://arxiv.org/abs/2611.13001",
-      "summary_vi": "Bài báo đề xuất One Table Benchmark trên 56 tập dữ liệu để so sánh 46 phương pháp xử lý dữ liệu bảng khác nhau. Nghiên cứu đánh giá đồng thời khả năng sinh dữ liệu, điền dữ liệu thiếu và dự báo để tìm ra mô hình tổng quát tối ưu.",
-      "why_it_matters": "Giúp sinh viên Data Science nắm vững các phương pháp tiên tiến nhất khi làm việc với dữ liệu dạng bảng."
-    },
-    {
-      "title": "Physics2Weight: Direct Neural Network Architecture and Weight Generation from Physical Laws Using Large Language Models",
-      "title_vi": "Physics2Weight: Sinh kiến trúc và trọng số mạng thần kinh trực tiếp từ định luật vật lý bằng LLM",
-      "source": "arXiv cs.AI",
-      "url": "https://arxiv.org/abs/2611.12954",
-      "summary_vi": "Khung làm việc Physics2Weight mở rộng kỹ thuật lập trình không gian trọng số để giải phương trình vi phân bằng cách sinh trực tiếp trọng số mạng thần kinh từ mô hình ngôn ngữ lớn. Phương pháp này loại bỏ nhu cầu tối ưu dựa trên độ dốc nhưng vẫn đảm bảo tính nhất quán vật lý.",
-      "why_it_matters": "Cho thấy tiềm năng của LLM trong việc giải quyết các bài toán mô phỏng khoa học và kỹ thuật phức tạp."
-    },
-    {
-      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-      "title_vi": "Fractile huy động 720 triệu USD gia tăng sức cạnh tranh trong cuộc đua chip AI",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "title_vi": "Nebius thử nghiệm mô hình neocloud với kế hoạch đầu tư 40 tỷ USD",
       "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-      "summary_vi": "Startup phần cứng Fractile tại Anh vừa hoàn tất vòng gọi vốn 720 triệu USD để phát triển chip chuyên dụng cho AI. Khoản đầu tư lớn này đưa Fractile trở thành đối thủ tiềm năng giải bài toán chi phí tính toán và hiệu năng phần cứng cho LLM.",
-      "why_it_matters": "Nhấn mạnh tầm quan trọng của sự phối hợp giữa thiết kế phần cứng và thuật toán AI trong làn sóng phát triển mới."
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "summary_vi": "Công ty điện toán đám mây Nebius lên kế hoạch đầu tư 40 tỷ USD để xây dựng hạ tầng AI thông qua các khoản trả trước của khách hàng và vốn vay. Mô hình kinh doanh đám mây chuyên dụng này đang phải đối mặt với áp lực lớn từ các đợt trì hoãn trung tâm dữ liệu gần đây.",
+      "why_it_matters": "Giúp sinh viên Data Science và AI hiểu rõ quy mô chi phí khổng lồ cùng bài toán vận hành hạ tầng đằng sau các dịch vụ đám mây huấn luyện mô hình lớn."
+    },
+    {
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "title_vi": "United Airlines ngăn AI agent đặt vé máy bay vì rủi ro an ninh mạng",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "summary_vi": "Hãng hàng không United Airlines đã chính thức chặn các đại lý AI tự động thực hiện việc đặt vé hay quản lý lịch trình thay cho hành khách. Công ty nhấn mạnh quyết định này xuất phát từ các lo ngại nghiêm trọng liên quan đến an toàn hệ thống và bảo mật dữ liệu.",
+      "why_it_matters": "Đặt ra bài toán thực tế cho các kỹ sư AI về giao thức xác thực, an toàn bảo mật và giới hạn hoạt động khi triển khai AI agent trong đời sống."
+    },
+    {
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "title_vi": "Khoản lỗ tỷ USD của SoftBank báo động về bài toán năng lượng cho AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "summary_vi": "SoftBank vừa ghi nhận khoản lỗ hơn 3 tỷ USD từ việc thu mua trước các turbine khí đốt tự nhiên nhằm cung cấp điện cho các trung tâm dữ liệu AI. Sự cố này đặt ra thách thức lớn cho tham vọng mở rộng hạ tầng tính toán dựa trên nguồn năng lượng hóa thạch.",
+      "why_it_matters": "Nhấn mạnh vai trò của tối ưu hóa thuật toán và hạ tầng xanh nhằm giải quyết bài toán tiêu thụ năng lượng cực cao của các mô hình AI hiện đại."
     }
   ]
 }
