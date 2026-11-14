@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-14",
+  "headline_summary": "Ngành công nghiệp AI đang trải qua biến động lớn xung quanh bê bối lãnh đạo tại Nvidia và sự thắt chặt an ninh phần cứng vi mạch. Trong khi đó, lĩnh vực AI agent chứng kiến bước tiến thương mại hóa mạnh mẽ với sự ra mắt của ChatGPT Wallet và định giá 3 tỷ USD của LangChain.",
+  "articles": [
+    {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "title_vi": "Tính năng Wallet mới của ChatGPT cho phép các AI agent thay bạn mua sắm và thanh toán",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "summary_vi": "ChatGPT Wallet cho phép các đại lý AI thực hiện giao dịch mua sắm và thanh toán thay mặt người dùng. Tính năng này hiện được triển khai thử nghiệm cho người dùng đăng ký gói Pro tại Mỹ.",
+      "why_it_matters": "Mở ra hướng phát triển quan trọng trong việc ứng dụng AI agent vào tự động hóa giao dịch tài chính và thương mại điện tử."
+    },
+    {
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "title_vi": "Startup AI agent LangChain đạt mức định giá 3 tỷ USD",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "summary_vi": "LangChain tuyên bố công cụ quản lý đại lý LangSmith của họ đã đạt mốc 7.000 khách hàng doanh nghiệp. Thành tựu này giúp nền tảng phát triển ứng dụng AI đạt mức định giá 3 tỷ USD.",
+      "why_it_matters": "Cho thấy nhu cầu bùng nổ của thị trường đối với các bộ công cụ và khung phát triển ứng dụng AI agent chuyên nghiệp."
+    },
+    {
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "title_vi": "Nvidia âm thầm xác nhận khả năng định vị chip chống buôn lậu dù ngành công nghiệp công khai nghi ngờ tính khả thi",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/12/nvidia-chip-tracking/",
+      "summary_vi": "Đại diện Nvidia đã trao đổi riêng với giới lập pháp Mỹ rằng việc tích hợp giải pháp kỹ thuật theo dõi chip chống buôn lậu là khả thi. Tuyên bố này trái ngược với quan điểm công khai của các hiệp hội ngành cho rằng giải pháp này không khả thi.",
+      "why_it_matters": "Giúp sinh viên nắm bắt được sự tương tác giữa chính sách an ninh công nghệ, pháp lý và quản trị hạ tầng vi mạch AI."
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "title_vi": "Việc Jensen Huang từ chức tạo ra khoảng trống lớn trong nguồn vốn đầu tư cho startup AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "summary_vi": "Nvidia từng rót hàng chục tỷ USD vào hệ sinh thái startup AI dưới thời Jensen Huang. Sự ra đi của ông khiến các nhà đầu tư và nhà sáng lập lo ngại các khoản rót vốn tiếp theo sẽ bị thu hẹp đáng kể.",
+      "why_it_matters": "Minh họa sự phụ thuộc mạnh mẽ của dòng vốn khởi nghiệp AI vào chiến lược của các tập đoàn phần cứng hàng đầu."
+    },
+    {
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "title_vi": "Các mô hình AI mạnh nhất của Trung Quốc được huấn luyện trên chip Nvidia thuộc danh mục cấm xuất khẩu",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "summary_vi": "Một nghiên cứu mới phát hiện ra các mô hình AI tiên tiến nhất hiện nay tại Trung Quốc được xây dựng dựa trên phần cứng Nvidia bị hạn chế xuất khẩu. Phát hiện này đang đẩy cao căng thẳng địa chính trị liên quan đến chuỗi cung ứng công nghệ cao.",
+      "why_it_matters": "Nhấn mạnh vai trò then chốt của năng lực tính toán và phần cứng trong cuộc đua phát triển các mô hình AI lớn."
+    },
+    {
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "title_vi": "ElevenLabs ra mắt ứng dụng ghi chú cuộc họp và soạn thảo giọng nói cho doanh nghiệp",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "summary_vi": "ElevenLabs vừa giới thiệu ứng dụng ElevenAI nhằm hỗ trợ làm việc nhóm và doanh nghiệp. Công cụ này kết hợp khả năng tự động ghi biên bản cuộc họp và chuyển đổi giọng nói thành văn bản.",
+      "why_it_matters": "Cho thấy xu hướng ứng dụng công nghệ xử lý âm thanh và giọng nói vào việc nâng cao hiệu suất làm việc thực tế."
+    },
+    {
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "title_vi": "Nebius thử nghiệm mô hình đám mây thế hệ mới với kế hoạch đầu tư 40 tỷ USD",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "summary_vi": "Nebius dự kiến huy động 40 tỷ USD thông qua khoản trả trước của khách hàng và vốn vay để mở rộng hạ tầng tính toán AI. Kế hoạch này đang đối mặt với nhiều hoài nghi sau sự chậm trễ từ một trung tâm dữ liệu của Microsoft.",
+      "why_it_matters": "Cung cấp cái nhìn sâu sắc về thách thức tài chính và quy mô đầu tư khổng lồ cần thiết cho hạ tầng điện toán đám mây AI."
+    }
+  ]
+}
