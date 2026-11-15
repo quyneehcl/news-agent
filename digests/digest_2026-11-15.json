@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-15",
+  "headline_summary": "Xu hướng nổi bật hôm nay tập trung vào những biến động lớn trong ngành AI sau sự thay đổi nhân sự cấp cao tại Nvidia ảnh hưởng đến dòng vốn đầu tư startup. Bên cạnh đó, các nghiên cứu mới đi sâu vào việc tối ưu hạ tầng suy luận, kỹ thuật chưng cất mô hình hiệu quả, đánh giá tính bảo mật của agent dữ liệu và lỗ hổng trên các bảng xếp hạng LLM.",
+  "articles": [
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "title_vi": "Việc Jensen Huang rời Nvidia tạo ra lỗ hổng lớn trong nguồn vốn cho các startup AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "summary_vi": "Dưới sự dẫn dắt của Jensen Huang, Nvidia đã rót hàng chục tỷ USD vào các công ty khởi nghiệp AI. Sự ra đi của ông khiến nhiều quỹ đầu tư mạo hiểm và nhà sáng lập lo ngại các khoản tài trợ trong tương lai sẽ bị thu hẹp và định giá công ty sẽ giảm sút.",
+      "why_it_matters": "Sự thay đổi nhân sự cấp cao này ảnh hưởng trực tiếp đến hệ sinh thái khởi nghiệp AI và cơ hội thu hút vốn cho các dự án công nghệ mới."
+    },
+    {
+      "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
+      "title_vi": "Leaderboard Hacking: Đánh giá mô hình dựa trên sở thích dễ bị thao túng",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.14769",
+      "summary_vi": "Nghiên cứu chỉ ra các bảng xếp hạng LLM dạng Arena phổ biến hiện nay rất dễ bị gian lận thông qua một số chiến lược thao túng dữ liệu so sánh. Điều này làm giảm tính tin cậy của việc xếp hạng năng lực LLM công khai.",
+      "why_it_matters": "Sinh viên cần hiểu rõ hạn chế của các bảng xếp hạng AI hiện tại để có cái nhìn khách quan khi lựa chọn mô hình cho bài toán thực tế."
+    },
+    {
+      "title": "Together Compiler: Continual Compilation for AI Inference",
+      "title_vi": "Together Compiler: Biên dịch liên tục cho quá trình suy luận AI",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.14681",
+      "summary_vi": "Khối lượng công việc AI thay đổi liên tục đòi hỏi hệ thống tối ưu hóa hạ tầng suy luận phải diễn ra liên tục. Together AI đề xuất giải pháp biên dịch liên tục giúp tối ưu hóa luồng suy luận thích ứng linh hoạt với kiến trúc mô hình và tải lượng truy cập mới.",
+      "why_it_matters": "Đây là kiến thức quan trọng về tối ưu hạ tầng hệ thống AI (AI Systems) giúp giảm chi phí vận hành và tăng tốc độ xử lý mô hình."
+    },
+    {
+      "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+      "title_vi": "SynthCorp: Nền tảng tạo bộ đánh giá chuẩn cho các AI Agent dữ liệu",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.14765",
+      "summary_vi": "Các bộ benchmark hiện tại cho AI agent xử lý dữ liệu thường nhanh chóng bị bão hòa và thiếu tính cụ thể. SynthCorp giải quyết vấn đề này bằng cách giả lập môi trường dữ liệu doanh nghiệp phức tạp và tự động tạo ra các bài kiểm thử thực tế.",
+      "why_it_matters": "Giúp sinh viên nắm bắt cách xây dựng và kiểm thử các AI agent xử lý dữ liệu doanh nghiệp một cách bài bản."
+    },
+    {
+      "title": "Effective Teacher Support for Reasoning Distillation",
+      "title_vi": "Tối ưu hóa không gian từ vựng giáo viên trong chưng cất mô hình suy luận",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.14850",
+      "summary_vi": "Kỹ thuật chưng cất mô hình truyền thống tốn nhiều chi phí do phải tính toán trên toàn bộ không gian từ vựng. Nghiên cứu đề xuất chỉ chưng cất từ phân khúc xác suất cao nhất của mô hình giáo viên, giúp giảm mạnh chi phí tính toán mà vẫn giữ được độ chính xác.",
+      "why_it_matters": "Cung cấp kỹ thuật hiệu quả giúp sinh viên nén các mô hình lớn thành các mô hình nhỏ gọn nhưng vẫn giữ được khả năng suy luận mạnh mẽ."
+    },
+    {
+      "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
+      "title_vi": "GenPFN: Mô hình nền tảng dữ liệu bảng giúp tăng cường tập dữ liệu nhỏ",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.14804",
+      "summary_vi": "Nghiên cứu đề xuất GenPFN, một phương pháp tạo dữ liệu thử nghiệm mới dựa trên mô hình TabPFN mà không cần huấn luyện lại. Phương pháp này giúp nội suy và tinh chỉnh các thiết kế ứng viên trong điều kiện dữ liệu thu thập bị hạn chế.",
+      "why_it_matters": "Mang lại giải pháp thiết thực cho bài toán thiếu hụt dữ liệu (small data) thường gặp trong Data Science và các ngành kỹ thuật."
+    },
+    {
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "title_vi": "Cảnh báo làn sóng phần mềm đòi tiền chuộc bùng nổ nhờ AI",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "summary_vi": "Mặc dù mã độc tự động hoàn toàn chưa xuất hiện, những tin tặc ít kinh nghiệm đang tích cực sử dụng công cụ AI để gia tăng quy mô và độ phức tạp của các cuộc tấn công ransomware.",
+      "why_it_matters": "Giúp sinh viên nhận thức rõ các rủi ro về an ninh mạng và khía cạnh an toàn thông tin khi ứng dụng AI."
+    }
+  ]
+}
