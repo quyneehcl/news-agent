@@ -1,62 +1,54 @@
 {
-  "date": "2026-11-15",
-  "headline_summary": "Xu hướng nổi bật hôm nay tập trung vào những biến động lớn trong ngành AI sau sự thay đổi nhân sự cấp cao tại Nvidia ảnh hưởng đến dòng vốn đầu tư startup. Bên cạnh đó, các nghiên cứu mới đi sâu vào việc tối ưu hạ tầng suy luận, kỹ thuật chưng cất mô hình hiệu quả, đánh giá tính bảo mật của agent dữ liệu và lỗ hổng trên các bảng xếp hạng LLM.",
+  "date": "2026-11-16",
+  "headline_summary": "Điểm tin hôm nay nổi bật với những biến động lớn trong bộ máy lãnh đạo Nvidia và tác động của nó tới toàn bộ thị trường AI toàn cầu. Bên cạnh đó, các ứng dụng AI trong lĩnh vực y tế của Apple cũng như các dự án phần cứng AI sáng tạo từ giới nghiên cứu tiếp tục thu hút sự quan tâm lớn.",
   "articles": [
     {
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "title_vi": "Việc Jensen Huang rời Nvidia tạo ra lỗ hổng lớn trong nguồn vốn cho các startup AI",
+      "title": "Apple launches new app to study how people use AI for health",
+      "title_vi": "Apple ra mắt ứng dụng mới để nghiên cứu cách người dùng sử dụng AI trong chăm sóc sức khỏe",
       "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "summary_vi": "Dưới sự dẫn dắt của Jensen Huang, Nvidia đã rót hàng chục tỷ USD vào các công ty khởi nghiệp AI. Sự ra đi của ông khiến nhiều quỹ đầu tư mạo hiểm và nhà sáng lập lo ngại các khoản tài trợ trong tương lai sẽ bị thu hẹp và định giá công ty sẽ giảm sút.",
-      "why_it_matters": "Sự thay đổi nhân sự cấp cao này ảnh hưởng trực tiếp đến hệ sinh thái khởi nghiệp AI và cơ hội thu hút vốn cho các dự án công nghệ mới."
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "summary_vi": "Apple vừa phát hành một ứng dụng thử nghiệm nhằm thu thập dữ liệu về cách người dùng đặt câu hỏi y tế hàng ngày cho trí tuệ nhân tạo. Nghiên cứu này giúp đánh giá tính chính xác cũng như mức độ hiệu quả của AI khi hỗ trợ giải đáp các thắc mắc sức khỏe thường nhật. Đây là bước đi quan trọng của Apple trong việc đưa AI tích hợp sâu hơn vào hệ sinh thái y tế cá nhân.",
+      "why_it_matters": "Bài viết cung cấp cái nhìn thực tế về cách các tập đoàn công nghệ lớn thu thập dữ liệu người dùng để đánh giá và tối ưu hóa độ tin cậy của mô hình AI trong y tế."
     },
     {
-      "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
-      "title_vi": "Leaderboard Hacking: Đánh giá mô hình dựa trên sở thích dễ bị thao túng",
-      "source": "arXiv cs.AI",
-      "url": "https://arxiv.org/abs/2611.14769",
-      "summary_vi": "Nghiên cứu chỉ ra các bảng xếp hạng LLM dạng Arena phổ biến hiện nay rất dễ bị gian lận thông qua một số chiến lược thao túng dữ liệu so sánh. Điều này làm giảm tính tin cậy của việc xếp hạng năng lực LLM công khai.",
-      "why_it_matters": "Sinh viên cần hiểu rõ hạn chế của các bảng xếp hạng AI hiện tại để có cái nhìn khách quan khi lựa chọn mô hình cho bài toán thực tế."
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "title_vi": "Startup chip Ấn Độ Bharat Semi gọi vốn 24 triệu USD vòng hạt giống để nhắm tới thị trường cảm biến AI toàn cầu",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "summary_vi": "Công ty khởi nghiệp bán dẫn Bharat Semi của Ấn Độ đã huy động thành công 24 triệu USD trong vòng gọi vốn hạt giống. Startup này chuyên phát triển công nghệ cảm biến tích hợp AI và đã giành được hợp đồng thiết kế với nhiều đối tác lớn như General Atomics. Khoản vốn này sẽ giúp công ty mở rộng quy mô sản xuất và thâm nhập sâu hơn vào thị trường quốc tế.",
+      "why_it_matters": "Đây là ví dụ điển hình về sự phát triển mạnh mẽ của hạ tầng phần cứng AI chuyên dụng tại các thị trường công nghệ mới nổi."
     },
     {
-      "title": "Together Compiler: Continual Compilation for AI Inference",
-      "title_vi": "Together Compiler: Biên dịch liên tục cho quá trình suy luận AI",
-      "source": "arXiv cs.AI",
-      "url": "https://arxiv.org/abs/2611.14681",
-      "summary_vi": "Khối lượng công việc AI thay đổi liên tục đòi hỏi hệ thống tối ưu hóa hạ tầng suy luận phải diễn ra liên tục. Together AI đề xuất giải pháp biên dịch liên tục giúp tối ưu hóa luồng suy luận thích ứng linh hoạt với kiến trúc mô hình và tải lượng truy cập mới.",
-      "why_it_matters": "Đây là kiến thức quan trọng về tối ưu hạ tầng hệ thống AI (AI Systems) giúp giảm chi phí vận hành và tăng tốc độ xử lý mô hình."
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "title_vi": "Liệu tin xấu về Jensen Huang có phải là tin xấu cho toàn bộ ngành công nghiệp AI?",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "summary_vi": "Những biến động xung quanh việc CEO Jensen Huang rời Nvidia đang gây ra lo ngại lớn trên toàn thị trường công nghệ. Vì Nvidia đóng vai trò trung tâm trong nền kinh tế AI hiện tại, bất kỳ sự xáo trộn nào ở cấp lãnh đạo cũng có thể ảnh hưởng đến chuỗi cung ứng chip và các dự án phát triển lớn. Bài viết phân tích mức độ phụ thuộc của toàn ngành AI vào một doanh nghiệp duy nhất.",
+      "why_it_matters": "Sinh viên ngành AI cần hiểu rõ bức tranh kinh tế vĩ mô và rủi ro chuỗi cung ứng phần cứng vốn tác động trực tiếp đến chi phí tính toán và hạ tầng nghiên cứu."
     },
     {
-      "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
-      "title_vi": "SynthCorp: Nền tảng tạo bộ đánh giá chuẩn cho các AI Agent dữ liệu",
-      "source": "arXiv cs.AI",
-      "url": "https://arxiv.org/abs/2611.14765",
-      "summary_vi": "Các bộ benchmark hiện tại cho AI agent xử lý dữ liệu thường nhanh chóng bị bão hòa và thiếu tính cụ thể. SynthCorp giải quyết vấn đề này bằng cách giả lập môi trường dữ liệu doanh nghiệp phức tạp và tự động tạo ra các bài kiểm thử thực tế.",
-      "why_it_matters": "Giúp sinh viên nắm bắt cách xây dựng và kiểm thử các AI agent xử lý dữ liệu doanh nghiệp một cách bài bản."
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "title_vi": "Elon Musk và nhiều lãnh đạo công nghệ ký đơn kiến nghị yêu cầu Nvidia phục chức cho Jensen Huang",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "summary_vi": "Hơn 115.000 người, bao gồm Elon Musk và nhiều lãnh đạo công nghệ hàng đầu, đã ký vào một bản kiến nghị trực tuyến yêu cầu Nvidia đưa Jensen Huang quay lại vị trí CEO. Sự kiện này cho thấy tầm ảnh hưởng to lớn của ông đối với cộng đồng công nghệ thế giới. Cuộc khủng hoảng lãnh đạo tại Nvidia đang thu hút sự chú ý chưa từng có từ giới đầu tư và các chuyên gia.",
+      "why_it_matters": "Sự kiện này minh họa tầm quan trọng của yếu tố con người và quản trị doanh nghiệp đối với sự ổn định của hệ sinh thái AI toàn cầu."
     },
     {
-      "title": "Effective Teacher Support for Reasoning Distillation",
-      "title_vi": "Tối ưu hóa không gian từ vựng giáo viên trong chưng cất mô hình suy luận",
-      "source": "arXiv cs.AI",
-      "url": "https://arxiv.org/abs/2611.14850",
-      "summary_vi": "Kỹ thuật chưng cất mô hình truyền thống tốn nhiều chi phí do phải tính toán trên toàn bộ không gian từ vựng. Nghiên cứu đề xuất chỉ chưng cất từ phân khúc xác suất cao nhất của mô hình giáo viên, giúp giảm mạnh chi phí tính toán mà vẫn giữ được độ chính xác.",
-      "why_it_matters": "Cung cấp kỹ thuật hiệu quả giúp sinh viên nén các mô hình lớn thành các mô hình nhỏ gọn nhưng vẫn giữ được khả năng suy luận mạnh mẽ."
-    },
-    {
-      "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
-      "title_vi": "GenPFN: Mô hình nền tảng dữ liệu bảng giúp tăng cường tập dữ liệu nhỏ",
-      "source": "arXiv cs.AI",
-      "url": "https://arxiv.org/abs/2611.14804",
-      "summary_vi": "Nghiên cứu đề xuất GenPFN, một phương pháp tạo dữ liệu thử nghiệm mới dựa trên mô hình TabPFN mà không cần huấn luyện lại. Phương pháp này giúp nội suy và tinh chỉnh các thiết kế ứng viên trong điều kiện dữ liệu thu thập bị hạn chế.",
-      "why_it_matters": "Mang lại giải pháp thiết thực cho bài toán thiếu hụt dữ liệu (small data) thường gặp trong Data Science và các ngành kỹ thuật."
-    },
-    {
-      "title": "Beware the New AI-Fueled Ransomware Boom",
-      "title_vi": "Cảnh báo làn sóng phần mềm đòi tiền chuộc bùng nổ nhờ AI",
+      "title": "AI DJs Completely Kill My Groove",
+      "title_vi": "AI DJ hoàn toàn làm hỏng trải nghiệm nghe nhạc",
       "source": "Wired AI",
-      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
-      "summary_vi": "Mặc dù mã độc tự động hoàn toàn chưa xuất hiện, những tin tặc ít kinh nghiệm đang tích cực sử dụng công cụ AI để gia tăng quy mô và độ phức tạp của các cuộc tấn công ransomware.",
-      "why_it_matters": "Giúp sinh viên nhận thức rõ các rủi ro về an ninh mạng và khía cạnh an toàn thông tin khi ứng dụng AI."
+      "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "summary_vi": "Các nền tảng như YouTube Music và Spotify đang tích hợp MC ảo AI để tự động tạo và dẫn dắt danh sách phát nhạc cho người dùng. Tuy nhiên, nhiều người nghe cảm thấy những câu trò chuyện gượng gạo và thông tin bên lề khiên cưỡng của AI làm mất đi không khí tự nhiên của âm nhạc. Bài viết phản ánh khoảng cách giữa công nghệ AI sáng tạo nội dung và trải nghiệm cảm xúc thực tế của người dùng.",
+      "why_it_matters": "Bài viết giúp sinh viên hiểu rõ thách thức trong thiết kế trải nghiệm người dùng (UX) đối với các sản phẩm ứng dụng Generative AI."
+    },
+    {
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "title_vi": "Thiết bị AI Tamagotchi biến vật dụng hàng ngày thành thú cưng ảo biết làm nũng",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "summary_vi": "Một sinh viên Đại học Carnegie Mellon đã sáng tạo ra thiết bị màn hình E-Ink nhỏ gọn mang tên OATs có tích hợp AI. Thiết bị này biến các vật dụng quen thuộc như cây cảnh, ván trượt hay tạ tay thành thú cưng ảo có tính cách riêng để nhắc nhở người dùng duy trì thói quen tốt. Dự án là sự kết hợp độc đáo giữa phần cứng giá rẻ, mô hình ngôn ngữ và thiết kế tương tác hành vi.",
+      "why_it_matters": "Bài viết truyền cảm hứng về cách kết hợp AI với các thiết bị IoT nhỏ gọn để sáng tạo ra các sản phẩm công nghệ tương tác thú vị."
     }
   ]
 }
