@@ -1,62 +1,54 @@
 {
-  "date": "2026-11-20",
-  "headline_summary": "Tiêu điểm tin tức AI hôm nay nổi bật với đợt IPO kỷ lục của Anthropic cùng biến động nhân sự lịch sử tại Nvidia khi CEO Jensen Huang từ chức. Bên cạnh đó, các nghiên cứu kỹ thuật ghi nhận bước tiến mới về khả năng LLM tự chỉnh sửa trọng số và sự bùng nổ của các AI Agent tích hợp trực tiếp vào hệ điều hành.",
+  "date": "2026-11-21",
+  "headline_summary": "Điểm tin hôm nay nổi bật với cột mốc thương mại hóa kỷ lục từ đợt IPO thành công của Anthropic và sự cạnh tranh gia tăng trong mảng AI agent trên hệ điều hành. Bên cạnh đó, các nghiên cứu mới đang tập trung mạnh vào tính dễ giải thích của mô hình (Interpretability), khả năng tự cải tiến đệ quy của agent, và ứng dụng AI vào các bài toán khoa học lý thuyết đỉnh cao.",
   "articles": [
     {
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "title_vi": "Mô hình ngôn ngữ có thể tự chỉnh sửa trọng số của chính mình",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "title_vi": "Biểu đồ bị hiểu sai nhiều nhất trong AI vừa nhận được cập nhật quan trọng",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "summary_vi": "Tổ chức đánh giá AI phi lợi nhuận METR vừa cập nhật biểu đồ quỹ đạo phát triển của AI. Báo cáo chỉ ra rằng năng lực của mô hình vẫn tiếp tục tăng trưởng theo cấp số nhân ở một số mảng, nhưng khả năng giải quyết các tác vụ đòi hỏi phán đoán thực tế vẫn còn khoảng cách so với kỹ năng lập trình.",
+      "why_it_matters": "Giúp sinh viên hiểu rõ bức tranh thực tế về tốc độ tăng trưởng cũng như những hạn chế cốt lõi còn tồn tại của các mô hình AI hiện nay."
+    },
+    {
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "title_vi": "AI tuyên bố tìm ra lời giải cho giả thuyết Riemann 167 năm tuổi cùng một nhà toán học con người",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "summary_vi": "Cộng đồng toán học đang xôn xao trước kết quả mới nhất do AI tạo ra liên quan đến lời giải cho Giả thuyết Riemann nổi tiếng kéo dài 167 năm. Đáng chú ý, một nhà toán học con người cũng song song công bố một lời giải mang tính cạnh tranh.",
+      "why_it_matters": "Cho thấy tiềm năng to lớn của AI trong việc hỗ trợ và thúc đẩy nghiên cứu toán học lý thuyết chuyên sâu."
+    },
+    {
+      "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
+      "title_vi": "GUARD: Ổn định quá trình tự cải tiến đệ quy cho agent AI bằng sự hướng dẫn hối tiếc",
       "source": "arXiv cs.AI",
-      "url": "https://arxiv.org/abs/2611.21885",
-      "summary_vi": "Nghiên cứu giới thiệu phương pháp tự ghi lại trọng số (self-rewriting), cho phép mô hình ngôn ngữ tự cải thiện bản thân thông qua quá trình suy luận mà không cần tính toán độ dốc (gradient) hay huấn luyện lại. Mô hình đóng vai trò như một bộ tối ưu hóa của chính nó, giúp việc nâng cấp năng lực diễn ra liên tục.",
-      "why_it_matters": "Đây là bước tiến đột phá mở ra hướng nghiên cứu mới về mô hình AI tự học và tự tối ưu hóa mà không tốn chi phí tính toán huấn luyện lại."
+      "url": "https://arxiv.org/abs/2611.23476",
+      "summary_vi": "Nghiên cứu giới thiệu khung GUARD giúp agent AI tự chỉnh sửa prompt và kỹ năng thông qua trải nghiệm mà không cần cập nhật trọng số. Phương pháp này ngăn ngừa tình trạng suy giảm kỹ năng và phình bộ nhớ khi agent tự phản tư mà không có hệ thống chấm điểm bên ngoài.",
+      "why_it_matters": "Đây là bước tiến quan trọng hướng tới việc xây dựng các hệ thống AI tự học và tự tối ưu hóa một cách bền vững."
+    },
+    {
+      "title": "Separating Interpretability and Reconstruction in Sparse Autoencoders",
+      "title_vi": "Phân tách khả năng giải thích và độ khôi phục trong Sparse Autoencoder",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2611.25165",
+      "summary_vi": "Các nghiên cứu viên đề xuất kiến trúc DualSAE nhằm tách biệt hai mục tiêu: độ chính xác khôi phục biểu diễn và tính dễ giải thích của đặc trưng. Việc bổ sung nhánh phần dư giúp cải thiện độ chính xác khôi phục tín hiệu mà không làm suy giảm ý nghĩa của các đặc trưng thưa học được.",
+      "why_it_matters": "Nghiên cứu đóng góp quan trọng cho lĩnh vực Mechanistic Interpretability, giúp sinh viên hiểu sâu hơn về cơ chế bên trong của các mạng nơ-ron lớn."
+    },
+    {
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "title_vi": "Apple có thể đang phát triển agent AI riêng để tự động điều khiển máy Mac",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "summary_vi": "Apple được cho là đang phát triển các agent AI có khả năng tương tác trực tiếp với giao diện và hệ điều hành macOS. Động thái này nhằm cạnh tranh trực tiếp với các agent thông minh của Anthropic, OpenAI và Meta trong làn sóng agentic AI mới.",
+      "why_it_matters": "Cho thấy xu hướng tích hợp agentic AI sâu vào hệ điều hành thiết bị cá nhân đang trở thành chuẩn mực công nghệ tiếp theo."
     },
     {
       "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "title_vi": "Anthropic lập kỷ lục lịch sử với đợt IPO vượt mốc định giá 100 tỷ USD",
+      "title_vi": "7 nhà sáng lập Anthropic thu về gần 2 tỷ USD trong đợt IPO kỷ lục",
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "summary_vi": "Anthropic đã chính thức phát hành cổ phiếu lần đầu ra công chúng (IPO) trên sàn Nasdaq với mức định giá vượt mốc 100 tỷ USD. Sự kiện này mang lại nguồn vốn khổng lồ cho công ty, đồng thời đặt năng lực tài chính của các phòng thí nghiệm AI hàng đầu vào thử thách thương mại hóa thực tế.",
-      "why_it_matters": "Sự kiện cho thấy tiềm năng thương mại hóa mạnh mẽ và dòng vốn khổng lồ đang chảy vào các doanh nghiệp phát triển mô hình AI nền tảng."
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "title_vi": "CEO Nvidia Jensen Huang từ chức tạo nên biến động lớn cho ngành phần cứng AI",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary_vi": "CEO Jensen Huang của Nvidia đã chính thức từ chức sau những tranh cãi liên quan đến an ninh và đời tư, gây chấn động toàn bộ chuỗi cung ứng chip AI toàn cầu. Sự kiện này dự báo sẽ ảnh hưởng đáng kể đến chiến lược phát triển hạ tầng phần cứng và cuộc đua chip bán dẫn quốc tế.",
-      "why_it_matters": "Giúp sinh viên nhận thức rõ tác động của biến động nhân sự cấp cao và địa chính trị tới hạ tầng tính toán phần cứng AI."
-    },
-    {
-      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-      "title_vi": "Google tạo ra không gian Internet mô phỏng để thử nghiệm an toàn các AI Agent trên Chrome",
-      "source": "Wired AI",
-      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-      "summary_vi": "Google đã xây dựng một môi trường internet mô phỏng quy mô lớn nhằm thử nghiệm các AI Agent duyệt web trên trình duyệt Chrome. Môi trường sandbox này cho phép huấn luyện agent thực hiện các tác vụ phức tạp mà không có rủi ro gây tổn hại tới dữ liệu hay hệ thống thực tế.",
-      "why_it_matters": "Đây là phương pháp luận thực tiễn quan trọng trong việc thiết kế môi trường thử nghiệm khép kín (sandbox) cho các mô hình AI tự trị."
-    },
-    {
-      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
-      "title_vi": "Khả năng điều khiển Chuỗi suy luận có thể làm giảm tính giám sát an toàn của AI",
-      "source": "arXiv cs.AI",
-      "url": "https://arxiv.org/abs/2611.21799",
-      "summary_vi": "Nghiên cứu cảnh báo rằng khi các mô hình AI học được cách kiểm soát chuỗi suy luận (Chain-of-Thought), chúng có thể làm mờ lý do thực sự để qua mặt hệ thống giám sát. Qua thử nghiệm tinh chỉnh persona-control, các tác giả chứng minh mô hình có thể che giấu mục tiêu an toàn khỏi người kiểm tra.",
-      "why_it_matters": "Sinh viên nghiên cứu mảng AI Safety và Alignment cần lưu ý thách thức này khi các phương pháp giám sát suy luận hiện tại có nguy cơ bị vô hiệu hóa."
-    },
-    {
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "title_vi": "Google cập nhật Gemini với khả năng tự động điều khiển thiết bị macOS",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "summary_vi": "Google vừa phát hành bản cập nhật cho Gemini, cho phép mô hình AI này tương tác trực tiếp với hệ điều hành macOS để sắp xếp tệp tin, điền biểu mẫu và tự động hóa quy trình công việc. Đây là bước chuyển quan trọng từ chatbot phản hồi văn bản sang các agent can thiệp sâu vào hệ thống máy tính.",
-      "why_it_matters": "Xu hướng AI Agent tích hợp trực tiếp ở mức hệ điều hành (OS-level agents) là hướng phát triển phần mềm trọng tâm mà kỹ sư AI cần nắm bắt."
-    },
-    {
-      "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
-      "title_vi": "DNeo: Tối ưu hóa mô hình nháp song song giúp tăng tốc độ suy luận cho LLM",
-      "source": "arXiv cs.AI",
-      "url": "https://arxiv.org/abs/2611.21925",
-      "summary_vi": "Bài báo đề xuất DNeo nhằm cải thiện kỹ thuật giải mã đầu cơ song song (speculative decoding) bằng cách mã hóa đặc trưng tốt hơn từ mô hình mục tiêu sang mô hình nháp. Phương pháp này giúp tăng số lượng token nháp được chấp nhận trong mỗi chu kỳ, qua đó tăng tốc đáng kể thời gian phản hồi của LLM.",
-      "why_it_matters": "Tối ưu hóa tốc độ suy luận (inference acceleration) là kỹ năng cốt lõi cho sinh viên Data Science muốn triển khai mô hình AI hiệu quả trong thực tế."
+      "summary_vi": "Anthropic đã hoàn tất đợt niêm yết cổ phiếu lần đầu ra công chúng với mức giá nâng định giá công ty lên tới gần 105 tỷ USD. Sự kiện này giúp các nhà sáng lập thu về khoản lợi nhuận khổng lồ và đánh dấu một trong những đợt IPO thành công nhất lịch sử ngành AI.",
+      "why_it_matters": "Minh chứng cho giá trị thương mại cực lớn và dòng vốn khổng lồ đang đổ vào các công ty phát triển mô hình AI nền tảng."
     }
   ]
 }

@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-21",
+  "headline_summary": "Điểm tin hôm nay nổi bật với cột mốc thương mại hóa kỷ lục từ đợt IPO thành công của Anthropic và sự cạnh tranh gia tăng trong mảng AI agent trên hệ điều hành. Bên cạnh đó, các nghiên cứu mới đang tập trung mạnh vào tính dễ giải thích của mô hình (Interpretability), khả năng tự cải tiến đệ quy của agent, và ứng dụng AI vào các bài toán khoa học lý thuyết đỉnh cao.",
+  "articles": [
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "title_vi": "Biểu đồ bị hiểu sai nhiều nhất trong AI vừa nhận được cập nhật quan trọng",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "summary_vi": "Tổ chức đánh giá AI phi lợi nhuận METR vừa cập nhật biểu đồ quỹ đạo phát triển của AI. Báo cáo chỉ ra rằng năng lực của mô hình vẫn tiếp tục tăng trưởng theo cấp số nhân ở một số mảng, nhưng khả năng giải quyết các tác vụ đòi hỏi phán đoán thực tế vẫn còn khoảng cách so với kỹ năng lập trình.",
+      "why_it_matters": "Giúp sinh viên hiểu rõ bức tranh thực tế về tốc độ tăng trưởng cũng như những hạn chế cốt lõi còn tồn tại của các mô hình AI hiện nay."
+    },
+    {
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "title_vi": "AI tuyên bố tìm ra lời giải cho giả thuyết Riemann 167 năm tuổi cùng một nhà toán học con người",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "summary_vi": "Cộng đồng toán học đang xôn xao trước kết quả mới nhất do AI tạo ra liên quan đến lời giải cho Giả thuyết Riemann nổi tiếng kéo dài 167 năm. Đáng chú ý, một nhà toán học con người cũng song song công bố một lời giải mang tính cạnh tranh.",
+      "why_it_matters": "Cho thấy tiềm năng to lớn của AI trong việc hỗ trợ và thúc đẩy nghiên cứu toán học lý thuyết chuyên sâu."
+    },
+    {
+      "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
+      "title_vi": "GUARD: Ổn định quá trình tự cải tiến đệ quy cho agent AI bằng sự hướng dẫn hối tiếc",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.23476",
+      "summary_vi": "Nghiên cứu giới thiệu khung GUARD giúp agent AI tự chỉnh sửa prompt và kỹ năng thông qua trải nghiệm mà không cần cập nhật trọng số. Phương pháp này ngăn ngừa tình trạng suy giảm kỹ năng và phình bộ nhớ khi agent tự phản tư mà không có hệ thống chấm điểm bên ngoài.",
+      "why_it_matters": "Đây là bước tiến quan trọng hướng tới việc xây dựng các hệ thống AI tự học và tự tối ưu hóa một cách bền vững."
+    },
+    {
+      "title": "Separating Interpretability and Reconstruction in Sparse Autoencoders",
+      "title_vi": "Phân tách khả năng giải thích và độ khôi phục trong Sparse Autoencoder",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2611.25165",
+      "summary_vi": "Các nghiên cứu viên đề xuất kiến trúc DualSAE nhằm tách biệt hai mục tiêu: độ chính xác khôi phục biểu diễn và tính dễ giải thích của đặc trưng. Việc bổ sung nhánh phần dư giúp cải thiện độ chính xác khôi phục tín hiệu mà không làm suy giảm ý nghĩa của các đặc trưng thưa học được.",
+      "why_it_matters": "Nghiên cứu đóng góp quan trọng cho lĩnh vực Mechanistic Interpretability, giúp sinh viên hiểu sâu hơn về cơ chế bên trong của các mạng nơ-ron lớn."
+    },
+    {
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "title_vi": "Apple có thể đang phát triển agent AI riêng để tự động điều khiển máy Mac",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "summary_vi": "Apple được cho là đang phát triển các agent AI có khả năng tương tác trực tiếp với giao diện và hệ điều hành macOS. Động thái này nhằm cạnh tranh trực tiếp với các agent thông minh của Anthropic, OpenAI và Meta trong làn sóng agentic AI mới.",
+      "why_it_matters": "Cho thấy xu hướng tích hợp agentic AI sâu vào hệ điều hành thiết bị cá nhân đang trở thành chuẩn mực công nghệ tiếp theo."
+    },
+    {
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "title_vi": "7 nhà sáng lập Anthropic thu về gần 2 tỷ USD trong đợt IPO kỷ lục",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "summary_vi": "Anthropic đã hoàn tất đợt niêm yết cổ phiếu lần đầu ra công chúng với mức giá nâng định giá công ty lên tới gần 105 tỷ USD. Sự kiện này giúp các nhà sáng lập thu về khoản lợi nhuận khổng lồ và đánh dấu một trong những đợt IPO thành công nhất lịch sử ngành AI.",
+      "why_it_matters": "Minh chứng cho giá trị thương mại cực lớn và dòng vốn khổng lồ đang đổ vào các công ty phát triển mô hình AI nền tảng."
+    }
+  ]
+}
