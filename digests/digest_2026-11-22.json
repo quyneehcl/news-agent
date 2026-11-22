@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-22",
+  "headline_summary": "Các tin tức nổi bật hôm nay tập trung vào sự lan rộng của công nghệ AI vào đời sống thực tế thông qua các tác tử AI tích hợp trong tin nhắn và ứng dụng bản quyền hình ảnh khuôn mặt. Bên cạnh đó, mối lo ngại về an ninh mạng cùng thách thức bảo mật dữ liệu cá nhân trước sự giám sát của AI đang trở thành chủ đề nóng. Ngoài ra, bức tranh kinh doanh phần cứng AI từ Nvidia tiếp tục thu hút sự quan tâm lớn của giới công nghệ.",
+  "articles": [
+    {
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "title_vi": "Signal hạn chế chụp màn hình di động nhằm đối phó mối đe dọa giám sát từ AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "summary_vi": "Ứng dụng nhắn tin bảo mật Signal đang giới hạn khả năng chụp màn hình của người dùng trên cả hệ điều hành Android và iOS. Động thái này nhằm bảo vệ dữ liệu riêng tư trước các mô hình AI có khả năng quét và thu thập thông tin hình ảnh tự động. Signal xem việc giám sát thông qua AI là một mối đe dọa hiện sinh đối với quyền tự do cá nhân.",
+      "why_it_matters": "Giúp sinh viên hiểu rõ tầm quan trọng của bài toán bảo mật dữ liệu riêng tư và các thách thức đạo đức khi phát triển mô hình AI giám sát."
+    },
+    {
+      "title": "A tale of two Nvidias",
+      "title_vi": "Hai bức tranh đối lập về Nvidia",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "summary_vi": "Thị trường đang ghi nhận hai góc nhìn trái ngược về Nvidia giữa tình hình kinh doanh thực tế và kỳ vọng từ ngành công nghệ. Báo cáo tài chính mới nhất thể hiện các con số kinh doanh, trong khi các lãnh đạo công nghệ lại công khai kêu gọi sự trở lại của Jensen Huang. Sự chênh lệch này phản ánh biến động và áp lực lớn lên gã khổng lồ phần cứng AI.",
+      "why_it_matters": "Bài viết cung cấp góc nhìn toàn cảnh về vai trò của hạ tầng phần cứng Nvidia đối với sự phát triển của toàn bộ hệ sinh thái AI."
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "title_vi": "Những tác tử AI hàng đầu tích hợp trực tiếp trong tin nhắn văn bản",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary_vi": "Danh sách tổng hợp các tác tử AI nổi bật có khả năng hoạt động trực tiếp trong ứng dụng tin nhắn của người dùng. Các tác tử này hỗ trợ đa dạng nhiệm vụ từ trợ lý cá nhân, hỗ trợ gia đình, lập kế hoạch du lịch cho đến công việc. Xu hướng đưa AI vào tin nhắn giúp cá nhân hóa và đơn giản hóa trải nghiệm người dùng cuối.",
+      "why_it_matters": "Đây là ví dụ thực tế giúp sinh viên nắm bắt xu hướng ứng dụng tác tử AI trong việc cải thiện trải nghiệm người dùng hằng ngày."
+    },
+    {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "title_vi": "Bán bản sao AI khuôn mặt cho startup phim ngắn có phải là tương lai của Hollywood?",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "summary_vi": "Một diễn viên đã cấp bản quyền khuôn mặt tái tạo bằng AI cho một công ty khởi nghiệp sản xuất phim ngắn, theo xu hướng đang phổ biến tại Trung Quốc. Giới chuyên gia đặt ra nhiều nghi vấn về hậu quả lâu dài nếu mô hình kinh doanh này lan rộng tại Hollywood. Việc thương mại hóa hình ảnh kỹ thuật số đặt ra thách thức về bản quyền và tư cách pháp lý của diễn viên.",
+      "why_it_matters": "Tin tức này giúp sinh viên cập nhật ứng dụng thực tế của Generative AI trong ngành giải trí cùng các vấn đề pháp lý và bản quyền đi kèm."
+    },
+    {
+      "title": "The Outages Are Just Getting Started",
+      "title_vi": "Các sự cố gián đoạn mạng mới chỉ bắt đầu",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "summary_vi": "Sự phát triển của AI đang buộc các doanh nghiệp phải cập nhật và vá lỗi hệ thống nhanh hơn bao giờ hết. Kẻ tấn công liên tục sử dụng AI để tìm kiếm và khai thác các lỗ hổng bảo mật vừa được phát hiện với tốc độ cao. Điều này báo hiệu một giai đoạn hỗn loạn với tần suất gián đoạn dịch vụ internet gia tăng.",
+      "why_it_matters": "Sinh viên ngành Data Science và AI cần chú ý đến khía cạnh an toàn thông tin và tính ổn định của hệ thống khi triển khai các mô hình AI vào thực tế."
+    },
+    {
+      "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+      "title_vi": "Lực lượng cảnh sát dùng hình ảnh nhái 'GTA 6' để tuyển dụng và truyền thông",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+      "summary_vi": "Các cơ quan cảnh sát đang sử dụng nội dung AI tạo hình ảnh ăn theo trò chơi Grand Theft Auto 6 để tuyển dụng và nhắc nhở công chúng. Mặc dù tựa game này nổi tiếng với tinh thần châm biếm lực lượng thực thi pháp luật, các chiến dịch truyền thông vẫn tiếp tục dùng nội dung AI này. Điều này tạo ra phản ứng trái chiều về tính hiệu quả và thẩm mỹ của các sản phẩm truyền thông AI.",
+      "why_it_matters": "Giúp sinh viên thấy được tác động của công cụ tạo ảnh AI trong truyền thông đại chúng và bài toán kiểm soát chất lượng nội dung."
+    }
+  ]
+}
