@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-23",
+  "headline_summary": "Hôm nay, các cuộc thảo luận xung quanh quản trị và an toàn AI đang trở nên sôi nổi, từ đề xuất kiểm soát tốc độ phát triển mô hình của OpenAI cho đến hành động của Signal nhằm chống lại rủi ro bị AI giám sát. Bên cạnh đó, các khía cạnh về hạ tầng trung tâm dữ liệu, thị trường phần cứng Nvidia và việc ngân hàng siết chặt tác vụ của agent AI cũng nhận được nhiều sự quan tâm. Các tin tức cho thấy ngành AI đang bước vào giai đoạn điều chỉnh mạnh mẽ giữa tăng tốc công nghệ và kiểm soát an toàn.",
+  "articles": [
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "title_vi": "Cách các quỹ đầu tư lớn đặt cược vào Anthropic trước đợt IPO",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "summary_vi": "Các nhà đầu tư lớn như Notable Capital, GIC và Baillie Gifford đã chia sẻ góc nhìn về lý do họ quyết định rót hàng tỷ USD vào Anthropic. Họ đánh giá cao tiềm năng thương mại cũng như hướng đi chú trọng vào an toàn AI của công ty trước khi tiến hành IPO. Sự kiện này thể hiện niềm tin rất lớn của giới tài chính vào sự tăng trưởng của các mô hình ngôn ngữ lớn.",
+      "why_it_matters": "Bài viết giúp sinh viên hiểu rõ hơn về định giá thực tế và bối cảnh thương mại hóa của các công ty phát triển mô hình AI hàng đầu."
+    },
+    {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "title_vi": "Giám đốc khoa học của OpenAI chia sẻ quan điểm về cách giới hạn tốc độ phát triển AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "summary_vi": "Nhà khoa học trưởng của OpenAI đưa ra các thảo luận về việc thiết lập giới hạn tốc độ cho sự phát triển của công nghệ AI. Để áp đặt được các quy định này, cộng đồng công nghệ trước tiên cần đạt được sự đồng thuận về tiêu chí cũng như phương pháp đo lường tốc độ tiến hóa của AI. Đây là góc nhìn quan trọng đối với bài toán kiểm soát an toàn AI cấp độ hệ thống.",
+      "why_it_matters": "Sinh viên ngành AI cần nắm bắt được các tiêu chuẩn định lượng và khía cạnh quản trị an toàn khi triển khai các mô hình ngày càng mạnh mẽ."
+    },
+    {
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "title_vi": "Lý do các trung tâm dữ liệu trở thành tâm điểm phản ứng đối với Big Tech",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "summary_vi": "Nhà báo Paris Marx làm rõ những xung đột xung quanh các trung tâm dữ liệu siêu lớn trong cuốn sách mới mang tên Hyperscale. Sự bùng nổ của AI đòi hỏi hạ tầng điện năng và tài nguyên khổng lồ, gây ra nỗi lo ngại lớn về môi trường và tác động xã hội. Bài viết phân tích cái giá về mặt vật lý và sinh thái đằng sau việc huấn luyện các mô hình AI.",
+      "why_it_matters": "Giúp sinh viên nhận thức được thách thức về mặt hạ tầng, năng lượng và trách nhiệm xã hội khi tối ưu hóa việc huấn luyện các mô hình dữ liệu lớn."
+    },
+    {
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "title_vi": "Signal hạn chế chụp ảnh màn hình di động nhằm đối phó nguy cơ giám sát bằng AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "summary_vi": "Ứng dụng nhắn tin bảo mật Signal đã chính thức áp dụng tính năng giới hạn chụp màn hình trên cả Android và iOS. Quyết định này nhằm ngăn chặn các công cụ AI thu thập và phân tích dữ liệu riêng tư của người dùng từ các hình ảnh chụp màn hình. Signal coi việc AI tự động thu thập thông tin là mối đe dọa sinh tồn đối với quyền riêng tư số.",
+      "why_it_matters": "Sinh viên sẽ thấy rõ xung đột thực tế giữa việc phát triển công cụ khai thác dữ liệu bằng AI và các tiêu chuẩn bảo vệ riêng tư người dùng."
+    },
+    {
+      "title": "A tale of two Nvidias",
+      "title_vi": "Câu chuyện về hai góc nhìn trái ngược đối với Nvidia",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "summary_vi": "Bài viết phản ánh hai bức tranh đối lập về Nvidia dựa trên báo cáo tài chính gần đây và phản ứng của giới công nghệ. Một mặt công ty đạt doanh thu ấn tượng nhờ nhu cầu chip AI, mặt khác nhiều lãnh đạo công nghệ lại đưa ra các đòi hỏi khắt khe và kêu gọi sự thay đổi trong định hướng của Jensen Huang. Sự việc cho thấy áp lực cạnh tranh cực lớn trên thị trường phần cứng AI.",
+      "why_it_matters": "Sinh viên Data Science và AI có thêm góc nhìn về sự biến động của thị trường phần cứng tính toán - yếu tố cốt lõi quyết định chi phí và tốc độ huấn luyện mô hình."
+    },
+    {
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "title_vi": "Các ngân hàng bắt đầu siết chặt hoạt động của các agent AI",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "summary_vi": "Các tổ chức tài chính lớn tại Mỹ đang cấm các bot AI bên thứ ba đăng nhập vào tài khoản của khách hàng. Họ đưa ra cảnh báo rằng bất kỳ sai sót hay rủi ro tài chính nào do bot AI gây ra thì người dùng phải tự chịu trách nhiệm. Hành động này thể hiện sự lo ngại về an toàn bảo mật và rủi ro pháp lý khi tích hợp agent tự động vào ngành tài chính.",
+      "why_it_matters": "Giúp sinh viên hiểu được các rào cản thực tế về an ninh mạng và pháp lý khi triển khai các hệ thống agent AI tự hành vào hệ thống doanh nghiệp."
+    }
+  ]
+}
