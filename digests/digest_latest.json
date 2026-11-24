@@ -1,54 +1,62 @@
 {
-  "date": "2026-11-23",
-  "headline_summary": "Hôm nay, các cuộc thảo luận xung quanh quản trị và an toàn AI đang trở nên sôi nổi, từ đề xuất kiểm soát tốc độ phát triển mô hình của OpenAI cho đến hành động của Signal nhằm chống lại rủi ro bị AI giám sát. Bên cạnh đó, các khía cạnh về hạ tầng trung tâm dữ liệu, thị trường phần cứng Nvidia và việc ngân hàng siết chặt tác vụ của agent AI cũng nhận được nhiều sự quan tâm. Các tin tức cho thấy ngành AI đang bước vào giai đoạn điều chỉnh mạnh mẽ giữa tăng tốc công nghệ và kiểm soát an toàn.",
+  "date": "2026-11-24",
+  "headline_summary": "Thị trường AI ghi nhận sự trở lại đáng chú ý của CEO Jensen Huang tại Nvidia cùng thương vụ Amazon mua lại công nghệ tối ưu AI Decart trị giá 7,5 tỷ USD. Bên cạnh đó, các công cụ agent tự động hoá quy trình phát triển phần mềm như Claude Ship và các nghiên cứu mới về tối ưu hóa học tăng cường, gọi công cụ (tool-calling) đang trở thành tâm điểm của ngành.",
   "articles": [
     {
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "title_vi": "Cách các quỹ đầu tư lớn đặt cược vào Anthropic trước đợt IPO",
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "title_vi": "Nvidia đảo ngược quyết định, đưa Jensen Huang trở lại vị trí CEO",
       "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "summary_vi": "Các nhà đầu tư lớn như Notable Capital, GIC và Baillie Gifford đã chia sẻ góc nhìn về lý do họ quyết định rót hàng tỷ USD vào Anthropic. Họ đánh giá cao tiềm năng thương mại cũng như hướng đi chú trọng vào an toàn AI của công ty trước khi tiến hành IPO. Sự kiện này thể hiện niềm tin rất lớn của giới tài chính vào sự tăng trưởng của các mô hình ngôn ngữ lớn.",
-      "why_it_matters": "Bài viết giúp sinh viên hiểu rõ hơn về định giá thực tế và bối cảnh thương mại hóa của các công ty phát triển mô hình AI hàng đầu."
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "summary_vi": "Hội đồng quản trị Nvidia đã chính thức phục chức cho CEO Jensen Huang chỉ hơn một tuần sau khi ông tuyên bố từ chức. Quyết định tái bổ nhiệm này nhận được sự ủng hộ mạnh mẽ từ nội bộ công ty lẫn các quan chức chính phủ Mỹ, giúp cổ phiếu Nvidia lập tức tăng trưởng trở lại.",
+      "why_it_matters": "Sự ổn định ở bộ máy lãnh đạo Nvidia đảm bảo lộ trình phát triển phần cứng GPU và hạ tầng AI toàn cầu không bị gián đoạn."
     },
     {
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "title_vi": "Giám đốc khoa học của OpenAI chia sẻ quan điểm về cách giới hạn tốc độ phát triển AI",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "title_vi": "Amazon chi 7,5 tỷ USD mua công nghệ tối ưu AI của Decart để thúc đẩy chip Trainium",
       "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "summary_vi": "Nhà khoa học trưởng của OpenAI đưa ra các thảo luận về việc thiết lập giới hạn tốc độ cho sự phát triển của công nghệ AI. Để áp đặt được các quy định này, cộng đồng công nghệ trước tiên cần đạt được sự đồng thuận về tiêu chí cũng như phương pháp đo lường tốc độ tiến hóa của AI. Đây là góc nhìn quan trọng đối với bài toán kiểm soát an toàn AI cấp độ hệ thống.",
-      "why_it_matters": "Sinh viên ngành AI cần nắm bắt được các tiêu chuẩn định lượng và khía cạnh quản trị an toàn khi triển khai các mô hình ngày càng mạnh mẽ."
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "summary_vi": "Amazon đã thâu tóm công nghệ tối ưu hóa AI cùng đội ngũ nghiên cứu của Decart trong thương vụ trị giá 7,5 tỷ USD. Động thái này nhằm tăng cường hiệu năng và khả năng cạnh tranh cho dòng chip AI Trainium tự phát triển trước sự thống trị của Nvidia.",
+      "why_it_matters": "Thương vụ này nhấn mạnh tầm quan trọng của việc tối ưu hóa phần mềm - phần cứng kết hợp đối với các hệ thống AI quy mô lớn."
     },
     {
-      "title": "Why data centers are at the center of the Big Tech backlash",
-      "title_vi": "Lý do các trung tâm dữ liệu trở thành tâm điểm phản ứng đối với Big Tech",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "title_vi": "Anthropic ra mắt Claude Ship giúp agent AI tự rà soát, sửa lỗi và duyệt mã nguồn",
       "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-      "summary_vi": "Nhà báo Paris Marx làm rõ những xung đột xung quanh các trung tâm dữ liệu siêu lớn trong cuốn sách mới mang tên Hyperscale. Sự bùng nổ của AI đòi hỏi hạ tầng điện năng và tài nguyên khổng lồ, gây ra nỗi lo ngại lớn về môi trường và tác động xã hội. Bài viết phân tích cái giá về mặt vật lý và sinh thái đằng sau việc huấn luyện các mô hình AI.",
-      "why_it_matters": "Giúp sinh viên nhận thức được thách thức về mặt hạ tầng, năng lượng và trách nhiệm xã hội khi tối ưu hóa việc huấn luyện các mô hình dữ liệu lớn."
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "summary_vi": "Anthropic giới thiệu bộ công cụ Claude Ship, cho phép các đại lý AI đảm nhận quy trình kiểm tra, sửa lỗi và tự động phê duyệt các yêu cầu thay đổi mã nguồn. Sản phẩm hướng tới giải quyết điểm nghẽn kiểm định chất lượng khi lượng mã lập trình do AI tạo ra ngày càng lớn.",
+      "why_it_matters": "Đây là bước tiến quan trọng trong xu hướng tự động hóa toàn diện quy trình phát triển phần mềm mà sinh viên AI cần nắm bắt."
     },
     {
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "title_vi": "Signal hạn chế chụp ảnh màn hình di động nhằm đối phó nguy cơ giám sát bằng AI",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "title_vi": "Chế độ AI của Google Search kết nối Drive và Wallet để cá nhân hóa câu trả lời",
       "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "summary_vi": "Ứng dụng nhắn tin bảo mật Signal đã chính thức áp dụng tính năng giới hạn chụp màn hình trên cả Android và iOS. Quyết định này nhằm ngăn chặn các công cụ AI thu thập và phân tích dữ liệu riêng tư của người dùng từ các hình ảnh chụp màn hình. Signal coi việc AI tự động thu thập thông tin là mối đe dọa sinh tồn đối với quyền riêng tư số.",
-      "why_it_matters": "Sinh viên sẽ thấy rõ xung đột thực tế giữa việc phát triển công cụ khai thác dữ liệu bằng AI và các tiêu chuẩn bảo vệ riêng tư người dùng."
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "summary_vi": "Google nâng cấp chế độ AI Mode trên Google Search, cho phép kết nối trực tiếp với dữ liệu cá nhân từ Google Drive, Wallet, Photos và Calendar. Tính năng này giúp mô hình hiểu ngữ cảnh cá nhân để đưa ra câu trả lời chính xác và hữu ích hơn.",
+      "why_it_matters": "Sản phẩm cho thấy xu hướng khai thác dữ liệu đa nguồn mang tính cá nhân hóa cao trong các ứng dụng tìm kiếm thế hệ mới."
     },
     {
-      "title": "A tale of two Nvidias",
-      "title_vi": "Câu chuyện về hai góc nhìn trái ngược đối với Nvidia",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "summary_vi": "Bài viết phản ánh hai bức tranh đối lập về Nvidia dựa trên báo cáo tài chính gần đây và phản ứng của giới công nghệ. Một mặt công ty đạt doanh thu ấn tượng nhờ nhu cầu chip AI, mặt khác nhiều lãnh đạo công nghệ lại đưa ra các đòi hỏi khắt khe và kêu gọi sự thay đổi trong định hướng của Jensen Huang. Sự việc cho thấy áp lực cạnh tranh cực lớn trên thị trường phần cứng AI.",
-      "why_it_matters": "Sinh viên Data Science và AI có thêm góc nhìn về sự biến động của thị trường phần cứng tính toán - yếu tố cốt lõi quyết định chi phí và tốc độ huấn luyện mô hình."
+      "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+      "title_vi": "TOUMAII: Tập dữ liệu 4,5 triệu cặp ưu tiên cho việc gọi công cụ của AI và bộ tạo dữ liệu",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.26722",
+      "summary_vi": "Nghiên cứu công bố tập dữ liệu TOUMAII gồm 4,5 triệu cặp phản hồi ưu tiên dành cho bài toán tương tác công cụ và API của agent AI. Bằng cách so sánh trực tiếp câu lệnh đúng và sai, tập dữ liệu giúp mô hình hạn chế tối đa các lỗi định dạng và quyết định sai lầm.",
+      "why_it_matters": "Kỹ năng gọi công cụ (tool-calling) chính xác là nền tảng cốt lõi để xây dựng các AI agent ứng dụng trong doanh nghiệp."
     },
     {
-      "title": "Banks Have Had It Up to Here With Your AI Agent",
-      "title_vi": "Các ngân hàng bắt đầu siết chặt hoạt động của các agent AI",
-      "source": "Wired AI",
-      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-      "summary_vi": "Các tổ chức tài chính lớn tại Mỹ đang cấm các bot AI bên thứ ba đăng nhập vào tài khoản của khách hàng. Họ đưa ra cảnh báo rằng bất kỳ sai sót hay rủi ro tài chính nào do bot AI gây ra thì người dùng phải tự chịu trách nhiệm. Hành động này thể hiện sự lo ngại về an toàn bảo mật và rủi ro pháp lý khi tích hợp agent tự động vào ngành tài chính.",
-      "why_it_matters": "Giúp sinh viên hiểu được các rào cản thực tế về an ninh mạng và pháp lý khi triển khai các hệ thống agent AI tự hành vào hệ thống doanh nghiệp."
+      "title": "Don't Discard Your Rollouts: Reusing Teacher RL Traces for Student Distillation",
+      "title_vi": "Tái sử dụng dấu vết học tăng cường của mô hình thầy để chắt lọc kiến thức cho mô hình trò",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2611.26803",
+      "summary_vi": "Các tác giả đề xuất giải pháp tái sử dụng các chuỗi thử nghiệm (rollout traces) từ quá trình học tăng cường của mô hình thầy để chắt lọc kiến thức sang mô hình trò. Phương pháp này giúp tiết kiệm tài nguyên tính toán đắt đỏ so với việc tạo lại dữ liệu từ đầu.",
+      "why_it_matters": "Nghiên cứu mang lại giải pháp tối ưu chi phí huấn luyện mô hình, đặc biệt hữu ích cho sinh viên khi nghiên cứu với tài nguyên hạn chế."
+    },
+    {
+      "title": "AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress",
+      "title_vi": "AstronautBench: Bộ chuẩn đánh giá khả năng tự cải thiện của Agent AI qua các phiên làm việc",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.26910",
+      "summary_vi": "Bài báo giới thiệu AstronautBench, bộ chuẩn đo lường khả năng tự học hỏi và nâng cao hiệu suất của agent AI qua nhiều phiên làm việc mà không cần cập nhật trọng số. Bộ chuẩn này đánh giá toàn diện cả kiến thức môi trường, bộ nhớ sự kiện và tiến trình thực hiện nhiệm vụ.",
+      "why_it_matters": "Khả năng tự cải thiện liên tục (self-improvement) là hướng đi quan trọng để tạo ra các agent thông minh và độc lập hơn trong tương lai."
     }
   ]
 }

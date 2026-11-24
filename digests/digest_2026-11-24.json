@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-24",
+  "headline_summary": "Thị trường AI ghi nhận sự trở lại đáng chú ý của CEO Jensen Huang tại Nvidia cùng thương vụ Amazon mua lại công nghệ tối ưu AI Decart trị giá 7,5 tỷ USD. Bên cạnh đó, các công cụ agent tự động hoá quy trình phát triển phần mềm như Claude Ship và các nghiên cứu mới về tối ưu hóa học tăng cường, gọi công cụ (tool-calling) đang trở thành tâm điểm của ngành.",
+  "articles": [
+    {
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "title_vi": "Nvidia đảo ngược quyết định, đưa Jensen Huang trở lại vị trí CEO",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "summary_vi": "Hội đồng quản trị Nvidia đã chính thức phục chức cho CEO Jensen Huang chỉ hơn một tuần sau khi ông tuyên bố từ chức. Quyết định tái bổ nhiệm này nhận được sự ủng hộ mạnh mẽ từ nội bộ công ty lẫn các quan chức chính phủ Mỹ, giúp cổ phiếu Nvidia lập tức tăng trưởng trở lại.",
+      "why_it_matters": "Sự ổn định ở bộ máy lãnh đạo Nvidia đảm bảo lộ trình phát triển phần cứng GPU và hạ tầng AI toàn cầu không bị gián đoạn."
+    },
+    {
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "title_vi": "Amazon chi 7,5 tỷ USD mua công nghệ tối ưu AI của Decart để thúc đẩy chip Trainium",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "summary_vi": "Amazon đã thâu tóm công nghệ tối ưu hóa AI cùng đội ngũ nghiên cứu của Decart trong thương vụ trị giá 7,5 tỷ USD. Động thái này nhằm tăng cường hiệu năng và khả năng cạnh tranh cho dòng chip AI Trainium tự phát triển trước sự thống trị của Nvidia.",
+      "why_it_matters": "Thương vụ này nhấn mạnh tầm quan trọng của việc tối ưu hóa phần mềm - phần cứng kết hợp đối với các hệ thống AI quy mô lớn."
+    },
+    {
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "title_vi": "Anthropic ra mắt Claude Ship giúp agent AI tự rà soát, sửa lỗi và duyệt mã nguồn",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "summary_vi": "Anthropic giới thiệu bộ công cụ Claude Ship, cho phép các đại lý AI đảm nhận quy trình kiểm tra, sửa lỗi và tự động phê duyệt các yêu cầu thay đổi mã nguồn. Sản phẩm hướng tới giải quyết điểm nghẽn kiểm định chất lượng khi lượng mã lập trình do AI tạo ra ngày càng lớn.",
+      "why_it_matters": "Đây là bước tiến quan trọng trong xu hướng tự động hóa toàn diện quy trình phát triển phần mềm mà sinh viên AI cần nắm bắt."
+    },
+    {
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "title_vi": "Chế độ AI của Google Search kết nối Drive và Wallet để cá nhân hóa câu trả lời",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "summary_vi": "Google nâng cấp chế độ AI Mode trên Google Search, cho phép kết nối trực tiếp với dữ liệu cá nhân từ Google Drive, Wallet, Photos và Calendar. Tính năng này giúp mô hình hiểu ngữ cảnh cá nhân để đưa ra câu trả lời chính xác và hữu ích hơn.",
+      "why_it_matters": "Sản phẩm cho thấy xu hướng khai thác dữ liệu đa nguồn mang tính cá nhân hóa cao trong các ứng dụng tìm kiếm thế hệ mới."
+    },
+    {
+      "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+      "title_vi": "TOUMAII: Tập dữ liệu 4,5 triệu cặp ưu tiên cho việc gọi công cụ của AI và bộ tạo dữ liệu",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.26722",
+      "summary_vi": "Nghiên cứu công bố tập dữ liệu TOUMAII gồm 4,5 triệu cặp phản hồi ưu tiên dành cho bài toán tương tác công cụ và API của agent AI. Bằng cách so sánh trực tiếp câu lệnh đúng và sai, tập dữ liệu giúp mô hình hạn chế tối đa các lỗi định dạng và quyết định sai lầm.",
+      "why_it_matters": "Kỹ năng gọi công cụ (tool-calling) chính xác là nền tảng cốt lõi để xây dựng các AI agent ứng dụng trong doanh nghiệp."
+    },
+    {
+      "title": "Don't Discard Your Rollouts: Reusing Teacher RL Traces for Student Distillation",
+      "title_vi": "Tái sử dụng dấu vết học tăng cường của mô hình thầy để chắt lọc kiến thức cho mô hình trò",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2611.26803",
+      "summary_vi": "Các tác giả đề xuất giải pháp tái sử dụng các chuỗi thử nghiệm (rollout traces) từ quá trình học tăng cường của mô hình thầy để chắt lọc kiến thức sang mô hình trò. Phương pháp này giúp tiết kiệm tài nguyên tính toán đắt đỏ so với việc tạo lại dữ liệu từ đầu.",
+      "why_it_matters": "Nghiên cứu mang lại giải pháp tối ưu chi phí huấn luyện mô hình, đặc biệt hữu ích cho sinh viên khi nghiên cứu với tài nguyên hạn chế."
+    },
+    {
+      "title": "AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress",
+      "title_vi": "AstronautBench: Bộ chuẩn đánh giá khả năng tự cải thiện của Agent AI qua các phiên làm việc",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.26910",
+      "summary_vi": "Bài báo giới thiệu AstronautBench, bộ chuẩn đo lường khả năng tự học hỏi và nâng cao hiệu suất của agent AI qua nhiều phiên làm việc mà không cần cập nhật trọng số. Bộ chuẩn này đánh giá toàn diện cả kiến thức môi trường, bộ nhớ sự kiện và tiến trình thực hiện nhiệm vụ.",
+      "why_it_matters": "Khả năng tự cải thiện liên tục (self-improvement) là hướng đi quan trọng để tạo ra các agent thông minh và độc lập hơn trong tương lai."
+    }
+  ]
+}
