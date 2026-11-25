@@ -1,62 +1,62 @@
 {
-  "date": "2026-11-24",
-  "headline_summary": "Thị trường AI ghi nhận sự trở lại đáng chú ý của CEO Jensen Huang tại Nvidia cùng thương vụ Amazon mua lại công nghệ tối ưu AI Decart trị giá 7,5 tỷ USD. Bên cạnh đó, các công cụ agent tự động hoá quy trình phát triển phần mềm như Claude Ship và các nghiên cứu mới về tối ưu hóa học tăng cường, gọi công cụ (tool-calling) đang trở thành tâm điểm của ngành.",
+  "date": "2026-11-25",
+  "headline_summary": "Hôm nay ghi nhận bước tiến chấn động khi AI được cho là đã giải thành công Giả thuyết Riemann, tạo ra lời giải phức tạp đến mức các nhà toán học cần nhiều tháng để thấu hiểu. Bên cạnh đó, sự bùng nổ của các tác vụ AI Agent đang đặt ra những thách thức lớn về hạ tầng mạng, an toàn thông tin và khả năng ứng dụng thực tế trong đời sống. Đồng thời, các tập đoàn công nghệ tiếp tục đẩy mạnh đầu tư vào hạ tầng chip và công cụ phát triển phần mềm tự động.",
   "articles": [
     {
-      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-      "title_vi": "Nvidia đảo ngược quyết định, đưa Jensen Huang trở lại vị trí CEO",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-      "summary_vi": "Hội đồng quản trị Nvidia đã chính thức phục chức cho CEO Jensen Huang chỉ hơn một tuần sau khi ông tuyên bố từ chức. Quyết định tái bổ nhiệm này nhận được sự ủng hộ mạnh mẽ từ nội bộ công ty lẫn các quan chức chính phủ Mỹ, giúp cổ phiếu Nvidia lập tức tăng trưởng trở lại.",
-      "why_it_matters": "Sự ổn định ở bộ máy lãnh đạo Nvidia đảm bảo lộ trình phát triển phần cứng GPU và hạ tầng AI toàn cầu không bị gián đoạn."
-    },
-    {
-      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-      "title_vi": "Amazon chi 7,5 tỷ USD mua công nghệ tối ưu AI của Decart để thúc đẩy chip Trainium",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-      "summary_vi": "Amazon đã thâu tóm công nghệ tối ưu hóa AI cùng đội ngũ nghiên cứu của Decart trong thương vụ trị giá 7,5 tỷ USD. Động thái này nhằm tăng cường hiệu năng và khả năng cạnh tranh cho dòng chip AI Trainium tự phát triển trước sự thống trị của Nvidia.",
-      "why_it_matters": "Thương vụ này nhấn mạnh tầm quan trọng của việc tối ưu hóa phần mềm - phần cứng kết hợp đối với các hệ thống AI quy mô lớn."
+      "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+      "title_vi": "AI giải thành công bài toán nổi tiếng nhất lịch sử toán học, khiến các nhà khoa học quay cuồng tìm hiểu",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+      "summary_vi": "Một nhà nghiên cứu tại Anthropic đã sử dụng AI để tạo ra lời giải dài 17 triệu dòng cho Giả thuyết Riemann, bài toán mở nổi tiếng nhất trong toán học. Lời giải được đánh giá là vô cùng kỳ lạ và vượt xa cách tư duy thông thường của con người, khiến các nhà toán học dự kiến phải mất nhiều tháng mới có thể thẩm định và hiểu hết. Sự kiện này đánh dấu bước ngoặt lớn khi AI không chỉ hỗ trợ tính toán mà đã bắt đầu tự khám phá ra tri thức khoa học mới.",
+      "why_it_matters": "Đây là minh chứng cho thấy AI đang dịch chuyển từ công cụ hỗ trợ lập trình sang khả năng suy luận chuyên sâu và phát minh khoa học tự động."
     },
     {
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "title_vi": "Anthropic ra mắt Claude Ship giúp agent AI tự rà soát, sửa lỗi và duyệt mã nguồn",
+      "title_vi": "Anthropic ra mắt Claude Ship, cho phép các AI agent tự kiểm tra, sửa lỗi và duyệt mã nguồn",
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "summary_vi": "Anthropic giới thiệu bộ công cụ Claude Ship, cho phép các đại lý AI đảm nhận quy trình kiểm tra, sửa lỗi và tự động phê duyệt các yêu cầu thay đổi mã nguồn. Sản phẩm hướng tới giải quyết điểm nghẽn kiểm định chất lượng khi lượng mã lập trình do AI tạo ra ngày càng lớn.",
-      "why_it_matters": "Đây là bước tiến quan trọng trong xu hướng tự động hóa toàn diện quy trình phát triển phần mềm mà sinh viên AI cần nắm bắt."
+      "summary_vi": "Anthropic vừa giới thiệu bộ công cụ Claude Ship dành cho các nhà phát triển, cho phép các AI agent tự động hóa quy trình duyệt và chấp thuận mã nguồn. Công cụ này giúp giải quyết điểm nghẽn trong phát triển phần mềm khi lượng mã do AI tạo ra đang tăng lên quá nhanh. Giờ đây, các tác vụ kiểm tra lỗi và sửa mã nguồn định kỳ có thể được giao trọn vẹn cho Agent thực hiện.",
+      "why_it_matters": "Lập trình viên tương lai cần học cách quản lý và giám sát quy trình làm việc tự động hóa thay vì chỉ tập trung viết mã thủ công."
     },
     {
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "title_vi": "Chế độ AI của Google Search kết nối Drive và Wallet để cá nhân hóa câu trả lời",
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "title_vi": "Amazon thâu tóm Decart để rút ngắn khoảng cách phần cứng với Nvidia nhờ tối ưu phần mềm",
       "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "summary_vi": "Google nâng cấp chế độ AI Mode trên Google Search, cho phép kết nối trực tiếp với dữ liệu cá nhân từ Google Drive, Wallet, Photos và Calendar. Tính năng này giúp mô hình hiểu ngữ cảnh cá nhân để đưa ra câu trả lời chính xác và hữu ích hơn.",
-      "why_it_matters": "Sản phẩm cho thấy xu hướng khai thác dữ liệu đa nguồn mang tính cá nhân hóa cao trong các ứng dụng tìm kiếm thế hệ mới."
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "summary_vi": "Amazon được cho là đã chi 7,5 tỷ USD để thâu tóm startup Decart nhằm nâng cao hiệu suất cho dòng chip Trainium tự phát triển. Thương vụ này thể hiện chiến lược dùng phần mềm tối ưu để bù đắp khoảng cách về sức mạnh phần cứng so với các dòng chip hàng đầu của Nvidia. Điều này cho thấy tầm quan trọng ngày càng lớn của việc tối ưu hóa mức biên dịch và phần mềm trong hạ tầng AI.",
+      "why_it_matters": "Sinh viên theo đuổi mảng kỹ thuật AI cần chú trọng cả kiến thức tối ưu hóa phần mềm cấp thấp lẫn kiến trúc phần cứng."
     },
     {
-      "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
-      "title_vi": "TOUMAII: Tập dữ liệu 4,5 triệu cặp ưu tiên cho việc gọi công cụ của AI và bộ tạo dữ liệu",
-      "source": "arXiv cs.AI",
-      "url": "https://arxiv.org/abs/2611.26722",
-      "summary_vi": "Nghiên cứu công bố tập dữ liệu TOUMAII gồm 4,5 triệu cặp phản hồi ưu tiên dành cho bài toán tương tác công cụ và API của agent AI. Bằng cách so sánh trực tiếp câu lệnh đúng và sai, tập dữ liệu giúp mô hình hạn chế tối đa các lỗi định dạng và quyết định sai lầm.",
-      "why_it_matters": "Kỹ năng gọi công cụ (tool-calling) chính xác là nền tảng cốt lõi để xây dựng các AI agent ứng dụng trong doanh nghiệp."
+      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+      "title_vi": "Anthropic tạo hệ thống bẫy để kiểm tra khả năng vi phạm an toàn của các AI agent",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+      "summary_vi": "Anthropic đã thiết kế một hệ thống bẫy an ninh (honeypot) nhằm đánh giá xem các AI agent có bị cám dỗ thực hiện các hành vi sai trái hay không. Nghiên cứu này xuất phát từ giả định rằng các mô hình Agent tự chủ có thể bị thao túng hoặc tự đưa ra quyết định gây hại khi hoạt động độc lập. Kết quả thử nghiệm giúp các nhà nghiên cứu xây dựng cơ chế kiểm soát an toàn hiệu quả hơn cho mô hình tự chủ.",
+      "why_it_matters": "An toàn AI và bảo mật cho các hệ thống Agent tự chủ đang trở thành một trong những mảng nghiên cứu cấp thiết nhất hiện nay."
     },
     {
-      "title": "Don't Discard Your Rollouts: Reusing Teacher RL Traces for Student Distillation",
-      "title_vi": "Tái sử dụng dấu vết học tăng cường của mô hình thầy để chắt lọc kiến thức cho mô hình trò",
-      "source": "arXiv cs.LG",
-      "url": "https://arxiv.org/abs/2611.26803",
-      "summary_vi": "Các tác giả đề xuất giải pháp tái sử dụng các chuỗi thử nghiệm (rollout traces) từ quá trình học tăng cường của mô hình thầy để chắt lọc kiến thức sang mô hình trò. Phương pháp này giúp tiết kiệm tài nguyên tính toán đắt đỏ so với việc tạo lại dữ liệu từ đầu.",
-      "why_it_matters": "Nghiên cứu mang lại giải pháp tối ưu chi phí huấn luyện mô hình, đặc biệt hữu ích cho sinh viên khi nghiên cứu với tài nguyên hạn chế."
+      "title": "Even the best AI agents struggle with everyday life",
+      "title_vi": "Ngay cả những AI agent xuất sắc nhất vẫn gặp khó khăn với các tác vụ đời sống thường ngày",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "summary_vi": "Một bộ đánh giá chuẩn (benchmark) mới cho thấy những mô hình AI tiên tiến nhất hiện nay vẫn chưa thể hoàn thành các công việc hằng ngày một cách tin cậy và an toàn. Các AI agent thường gặp lỗi bất ngờ hoặc phát sinh vấn đề mới khi xử lý các tình huống thực tế đòi hỏi sự linh hoạt. Điều này cho thấy khoảng cách lớn giữa khả năng giải toán hay viết code với năng lực hành động thực tế của AI.",
+      "why_it_matters": "Kết quả này giúp sinh viên có cái nhìn thực tế về giới hạn hiện tại của AI agent và định hướng cải thiện bài toán đánh giá mô hình."
     },
     {
-      "title": "AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress",
-      "title_vi": "AstronautBench: Bộ chuẩn đánh giá khả năng tự cải thiện của Agent AI qua các phiên làm việc",
-      "source": "arXiv cs.AI",
-      "url": "https://arxiv.org/abs/2611.26910",
-      "summary_vi": "Bài báo giới thiệu AstronautBench, bộ chuẩn đo lường khả năng tự học hỏi và nâng cao hiệu suất của agent AI qua nhiều phiên làm việc mà không cần cập nhật trọng số. Bộ chuẩn này đánh giá toàn diện cả kiến thức môi trường, bộ nhớ sự kiện và tiến trình thực hiện nhiệm vụ.",
-      "why_it_matters": "Khả năng tự cải thiện liên tục (self-improvement) là hướng đi quan trọng để tạo ra các agent thông minh và độc lập hơn trong tương lai."
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "title_vi": "Nền tảng Tidal thông báo cấm và xóa hàng triệu bài hát do AI tự tạo hoàn toàn",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "summary_vi": "Nền tảng phát nhạc trực tuyến Tidal vừa quyết định loại bỏ hàng triệu bản nhạc được tạo ra hoàn toàn bằng AI do tình trạng rác âm thanh gia tăng nhanh chóng. Tuy nhiên, dịch vụ này vẫn chấp nhận các tác phẩm âm nhạc có sự hỗ trợ của AI trong quá trình sáng tác của nghệ sĩ. Đây là bước đi cứng rắn nhằm bảo vệ chất lượng nội dung và bản quyền cho cộng đồng nghệ sĩ.",
+      "why_it_matters": "Hiểu rõ ranh giới pháp lý và chính sách nội dung do AI tạo ra là yếu tố quan trọng khi phát triển các ứng dụng AI sáng tạo."
+    },
+    {
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "title_vi": "Tải trọng mạng doanh nghiệp tăng vọt do làn sóng hiện đại hóa và triển khai AI agent",
+      "source": "MIT Technology Review - AI",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "summary_vi": "Việc các doanh nghiệp ồ ạt triển khai AI đang gây áp lực nặng nề lên hạ tầng mạng nội bộ. Báo cáo cho biết các tác vụ do AI agent thực hiện tạo ra lưu lượng mạng nhiều hơn khoảng 450% so với cùng tác vụ do con người xử lý. Điều này đòi hỏi các doanh nghiệp phải nâng cấp toàn bộ hệ thống hạ tầng để đáp ứng kỷ nguyên AI Agent.",
+      "why_it_matters": "Sinh viên Data Science và AI cần chú trọng khía cạnh tối ưu hóa băng thông và hạ tầng triển khai mô hình trong môi trường doanh nghiệp thực tế."
     }
   ]
 }
