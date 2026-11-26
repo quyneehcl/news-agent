@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-26",
+  "headline_summary": "Xu hướng nổi bật hôm nay tập trung vào những thách thức thực tế và độ tin cậy của các hệ thống tác vụ tự động (AI Agent), từ việc phân tách năng lực giao diện và kiến thức đến nguy cơ tấn công qua lịch sử hội thoại. Bên cạnh đó, các ứng dụng Học máy trong dự báo thời tiết hàng không và giải pháp AI bảo mật dữ liệu riêng tư tiếp tục thu hút sự chú ý lớn từ cộng đồng nghiên cứu và công nghiệp.",
+  "articles": [
+    {
+      "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
+      "title_vi": "Đánh giá khả năng tạo mã cho biểu đồ tương tác ở các mô hình ngôn ngữ lớn đa thức",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.31345",
+      "summary_vi": "Các đánh giá hiện tại chủ yếu tập trung vào biểu đồ tĩnh mà bỏ qua biểu đồ tương tác vốn cho phép khám phá dữ liệu phong phú hơn. Nghiên cứu này đề xuất phương pháp đánh giá tính nhất quán về mặt hành vi của các mô hình đa thức khi sinh mã cho biểu đồ tương tác. Kết quả giúp nâng cao năng lực trực quan hóa dữ liệu động của mô hình AI.",
+      "why_it_matters": "Nghiên cứu này gợi mở phương pháp mới giúp sinh viên phát triển các công cụ trực quan hóa dữ liệu thông minh và tương tác tự động."
+    },
+    {
+      "title": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
+      "title_vi": "ContextLure: Khai thác lịch sử trò chuyện lành tính để tấn công tiêm nhắc gián tiếp",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.31424",
+      "summary_vi": "Nghiên cứu phát hiện ra nguy cơ bảo mật mới đối với các Agent AI khi kẻ tấn công có thể lợi dụng dữ liệu hội thoại hợp lệ trước đó để thực hiện tiêm nhắc gián tiếp. Phương pháp này cho phép cuộc tấn công đạt hiệu quả cao hơn mà không cần gia tăng quyền kiểm soát đối với các lượt tương tác. Điều này đặt ra bài toán cấp thiết về an toàn thông tin trong thiết kế Agent.",
+      "why_it_matters": "Sinh viên học về AI Agent cần nắm rõ các lỗ hổng bảo mật tiềm ẩn từ ngữ cảnh hội thoại để xây dựng hệ thống an toàn hơn."
+    },
+    {
+      "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
+      "title_vi": "Học Cái gì và Học Như thế nào: Phân tách năng lực nhiệm vụ và năng lực giao diện trong huấn luyện Agent",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.31427",
+      "summary_vi": "Bài báo phân tích nguyên nhân khiến các Agent dựa trên LLM thất bại, do thiếu kiến thức chuyên môn hay do thiếu kỹ năng tương tác với giao diện hệ thống. Nghiên cứu đề xuất tách biệt hai yếu tố này để hiểu rõ hơn quá trình huấn luyện và tối ưu hóa Agent. Việc phân tách giúp nâng cao hiệu quả đào tạo mô hình thực thi nhiệm vụ phức tạp.",
+      "why_it_matters": "Giúp sinh viên hiểu sâu cấu trúc năng lực của AI Agent để thiết kế quy trình huấn luyện và đánh giá hiệu quả hơn."
+    },
+    {
+      "title": "One Step, Four Clocks: How GUI Agents Fall Out of Step",
+      "title_vi": "Một bước đi, bốn đồng hồ: Nguyên nhân khiến Agent đồ họa mất đồng bộ",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.31522",
+      "summary_vi": "Nghiên cứu chỉ ra rằng các Agent giao diện người dùng đồ họa (GUI) thường thất bại do sự lệch pha thời gian giữa thay đổi môi trường, quan sát, đưa ra quyết định và thực thi hành động. Tác giả giới thiệu khung ChronotopeGym để mô phỏng và phân tích hành vi của Agent dưới các điều kiện thực thi khác nhau. Đóng góp này giúp cải thiện độ ổn định của Agent trong môi trường thực tế.",
+      "why_it_matters": "Đây là kiến thức quan trọng cho sinh viên khi xây dựng các ứng dụng tự động hóa giao diện có độ trễ và tính biến động cao."
+    },
+    {
+      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "title_vi": "Nhiễu động không khí rất khó dự đoán, nhưng điều đó có thể sớm thay đổi nhờ AI",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "summary_vi": "Bài báo thảo luận về việc ứng dụng Học máy và hàng terabyte dữ liệu đám đông để giải bài toán dự đoán nhiễu động không khí trong hàng không. Đây từng được xem là một trong những bài toán vật lý cổ điển khó nhất hiện nay. Công nghệ mới hứa hẹn giúp các chuyến bay an toàn và mượt mà hơn.",
+      "why_it_matters": "Cho sinh viên thấy sức mạnh của Data Science và Machine Learning trong việc giải quyết các bài toán vật lý thực tế phức tạp."
+    },
+    {
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "title_vi": "Dario Amodei của Anthropic bác bỏ cáo buộc trao quyền kiểm soát của con người cho AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "summary_vi": "Giám đốc điều hành Anthropic, Dario Amodei, đã phản bác lại những chỉ trích cho rằng công ty của ông ủng hộ việc giao quyền tự quyết của con người cho AI. Mặc dù các công ty AI hàng đầu đang tăng cường tự động hóa quá trình nghiên cứu, ông khẳng định sự giám sát của con người vẫn là cốt lõi. Tranh luận này phản ánh sự cân bằng giữa tự động hóa và đạo đức AI.",
+      "why_it_matters": "Sinh viên ngành AI cần quan tâm đến các khía cạnh đạo đức và định hướng quản trị AI từ lãnh đạo các tập đoàn hàng đầu."
+    },
+    {
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "title_vi": "Maple gọi vốn 5,3 triệu USD để phát triển sản phẩm AI mã hóa bảo vệ dữ liệu người dùng",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "summary_vi": "Startup Maple vừa gọi vốn thành công 5,3 triệu USD nhằm xây dựng kiến trúc AI mã hóa đặc biệt. Thiết kế này ngăn chặn chính công ty truy cập vào dữ liệu riêng tư của người dùng trong quá trình xử lý. Xu hướng này mở ra hướng đi mới cho việc ứng dụng AI đảm bảo tính riêng tư cao.",
+      "why_it_matters": "Bài viết cập nhật xu hướng AI bảo mật dữ liệu, một lĩnh vực nghiên cứu và ứng dụng rất tiềm năng."
+    },
+    {
+      "title": "Even the best AI agents struggle with everyday life",
+      "title_vi": "Ngay cả những Agent AI tốt nhất vẫn gặp khó khăn với các nhiệm vụ hàng ngày",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "summary_vi": "Một bộ kiểm thử chuẩn mới công bố cho thấy các mô hình AI tiên tiến nhất hiện nay vẫn gặp nhiều rào cản khi thực hiện những tác vụ đời sống hàng ngày một cách an toàn và tin cậy. Dù trợ lý cá nhân AI đang trở nên phổ biến, rủi ro phát sinh sự cố bất ngờ vẫn còn rất lớn. Điều này đòi hỏi các nhà nghiên cứu phải hoàn thiện hơn nữa khả năng lập luận của Agent.",
+      "why_it_matters": "Giúp sinh viên có cái nhìn thực tế về giới hạn hiện tại của AI Agent thay vì những kỳ vọng quá mức từ truyền thông."
+    }
+  ]
+}
