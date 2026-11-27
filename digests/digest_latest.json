@@ -1,70 +1,62 @@
 {
-  "date": "2026-11-26",
-  "headline_summary": "Xu hướng nổi bật hôm nay tập trung vào những thách thức thực tế và độ tin cậy của các hệ thống tác vụ tự động (AI Agent), từ việc phân tách năng lực giao diện và kiến thức đến nguy cơ tấn công qua lịch sử hội thoại. Bên cạnh đó, các ứng dụng Học máy trong dự báo thời tiết hàng không và giải pháp AI bảo mật dữ liệu riêng tư tiếp tục thu hút sự chú ý lớn từ cộng đồng nghiên cứu và công nghiệp.",
+  "date": "2026-11-27",
+  "headline_summary": "Xu hướng nổi bật hôm nay tập trung vào tính an toàn, bảo mật và khả năng đánh giá thực chất của các hệ thống AI agent cũng như mô hình ngôn ngữ lớn. Bên cạnh đó, ngành công nghiệp phần cứng AI đang đối mặt với những biến động địa chính trị mới ảnh hưởng đến chuỗi cung ứng tại Đông Nam Á. Ngoài ra, việc phát hiện sai sót lâu năm trong bộ dữ liệu huấn luyện kinh điển UCI nhắc nhở cộng đồng nghiên cứu về tầm quan trọng của việc kiểm định dữ liệu nguồn.",
   "articles": [
     {
-      "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
-      "title_vi": "Đánh giá khả năng tạo mã cho biểu đồ tương tác ở các mô hình ngôn ngữ lớn đa thức",
+      "title": "Typical Angina, Reversed: A Long-Standing Documentation Error in the UCI Heart Disease Data",
+      "title_vi": "Đảo ngược thông số ngực đau: Lỗi tài liệu kéo dài nhiều năm trong bộ dữ liệu bệnh tim UCI",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2611.33248",
+      "summary_vi": "Nghiên cứu phát hiện ra một sai sót nghiêm trọng trong bộ dữ liệu bệnh tim UCI nổi tiếng, nơi biến số đau ngực bị lưu ngược so với tài liệu hướng dẫn. Cụ thể, mã đánh dấu bệnh nhân đau ngực điển hình lại bị gán ngược với nhóm hầu như không có triệu chứng và ngược lại trên cả 4 cơ sở dữ liệu. Phát hiện này ảnh hưởng trực tiếp đến hàng ngàn mô hình máy học đã được đánh giá trên bộ dữ liệu chuẩn này trong nhiều thập kỷ qua.",
+      "why_it_matters": "Bài viết là lời nhắc nhở quan trọng cho sinh viên về việc luôn phải kiểm tra kĩ chất lượng và tính chính xác của dữ liệu thực tế trước khi xây dựng mô hình."
+    },
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "title_vi": "Nvidia tạm ngưng vận chuyển chip AI sang khu vực Đông Nam Á",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "summary_vi": "Nvidia đã yêu cầu các đối tác sản xuất tạm dừng giao máy chủ AI đến Malaysia, Singapore, Thái Lan và Indonesia. Quyết định này diễn ra trong bối cảnh chính phủ Mỹ thắt chặt các chính sách ngăn chặn chip AI tiên tiến bị tuồn sang thị trường Trung Quốc. Việc gián đoạn nguồn cung có thể làm chậm tốc độ phát triển hạ tầng trung tâm dữ liệu AI tại khu vực Đông Nam Á.",
+      "why_it_matters": "Giúp sinh viên nắm bắt được sự ảnh hưởng của địa chính trị và chuỗi cung ứng phần cứng đến sự phát triển của ngành AI toàn cầu."
+    },
+    {
+      "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
+      "title_vi": "MOZAIC: Bộ dữ liệu chuẩn đánh giá deepfake hình ảnh và âm thanh đa phương thức",
       "source": "arXiv cs.AI",
-      "url": "https://arxiv.org/abs/2611.31345",
-      "summary_vi": "Các đánh giá hiện tại chủ yếu tập trung vào biểu đồ tĩnh mà bỏ qua biểu đồ tương tác vốn cho phép khám phá dữ liệu phong phú hơn. Nghiên cứu này đề xuất phương pháp đánh giá tính nhất quán về mặt hành vi của các mô hình đa thức khi sinh mã cho biểu đồ tương tác. Kết quả giúp nâng cao năng lực trực quan hóa dữ liệu động của mô hình AI.",
-      "why_it_matters": "Nghiên cứu này gợi mở phương pháp mới giúp sinh viên phát triển các công cụ trực quan hóa dữ liệu thông minh và tương tác tự động."
+      "url": "https://arxiv.org/abs/2611.31301",
+      "summary_vi": "MOZAIC cung cấp một bộ dữ liệu chuẩn mới cho phép kiểm tra chính xác công cụ phát hiện deepfake dựa trên hình ảnh, giọng nói hay cả hai. Nhờ thiết kế ghép cặp 4 chiều phân loại chi tiết giữa video thật/giả và âm thanh thật/giả, bộ dữ liệu giúp đo lường đóng góp riêng biệt của từng phương thức đa phương tiện. Điều này khắc phục hạn chế của các bộ benchmark cũ vốn chỉ dán nhãn nhị phân thật hoặc giả cho toàn bộ clip.",
+      "why_it_matters": "Cung cấp phương pháp luận và dữ liệu chuẩn mới cho sinh viên đang làm nghiên cứu trong lĩnh vực thị giác máy tính và bảo mật AI."
     },
     {
       "title": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
-      "title_vi": "ContextLure: Khai thác lịch sử trò chuyện lành tính để tấn công tiêm nhắc gián tiếp",
+      "title_vi": "ContextLure: Khai thác lịch sử trò chuyện lành mạnh để tấn công tiêm prompt gián tiếp",
       "source": "arXiv cs.AI",
       "url": "https://arxiv.org/abs/2611.31424",
-      "summary_vi": "Nghiên cứu phát hiện ra nguy cơ bảo mật mới đối với các Agent AI khi kẻ tấn công có thể lợi dụng dữ liệu hội thoại hợp lệ trước đó để thực hiện tiêm nhắc gián tiếp. Phương pháp này cho phép cuộc tấn công đạt hiệu quả cao hơn mà không cần gia tăng quyền kiểm soát đối với các lượt tương tác. Điều này đặt ra bài toán cấp thiết về an toàn thông tin trong thiết kế Agent.",
-      "why_it_matters": "Sinh viên học về AI Agent cần nắm rõ các lỗ hổng bảo mật tiềm ẩn từ ngữ cảnh hội thoại để xây dựng hệ thống an toàn hơn."
+      "summary_vi": "Nghiên cứu giới thiệu kỹ thuật tấn công ContextLure, cho thấy kẻ tấn công có thể lợi dụng ngữ cảnh trò chuyện lành mạnh có sẵn của người dùng để chế tạo các cuộc tấn công tiêm prompt gián tiếp mạnh hơn. Nhờ phân tích các ràng buộc vận hành và dữ liệu trong ngữ cảnh cũ, đòn tấn công có thể qua mặt các cơ chế bảo mật mà không cần tăng quyền kiểm soát hệ thống. Đột phá này đặt ra thách thức lớn cho việc bảo vệ các agent LLM hoạt động dài hạn.",
+      "why_it_matters": "Giúp sinh viên nhận thức được các lỗ hổng bảo mật tiềm ẩn khi thiết kế và triển khai các ứng dụng agent dựa trên LLM."
+    },
+    {
+      "title": "Neighbor Crowding Predicts Feature Stability in Sparse Autoencoders",
+      "title_vi": "Mật độ lân cận giúp dự đoán độ ổn định đặc trưng trong Sparse Autoencoder",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2611.33182",
+      "summary_vi": "Sparse Autoencoders (SAE) giúp giải mã các đại diện ẩn của mô hình ngôn ngữ thành các đặc trưng đơn nghĩa dễ giải thích, nhưng việc xác định đặc trưng nào thực sự ổn định rất tốn kém chi phí tính toán. Bài báo đề xuất phương pháp dự đoán độ ổn định của đặc trưng dựa trên mật độ lân cận trong không gian biểu diễn mà không cần huấn luyện lại nhiều lần. Kết quả giúp giảm đáng kể chi phí khi nghiên cứu khả năng giải thích được của LLM.",
+      "why_it_matters": "Đây là kỹ thuật hữu ích cho sinh viên nghiên cứu sâu về cơ chế hoạt động nội tại và tính giải thích được của các mô hình học sâu."
     },
     {
       "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
-      "title_vi": "Học Cái gì và Học Như thế nào: Phân tách năng lực nhiệm vụ và năng lực giao diện trong huấn luyện Agent",
+      "title_vi": "Học 'Cái gì' đối đầu Học 'Như thế nào': Phân tách năng lực nhiệm vụ và năng lực giao diện trong huấn luyện Agent",
       "source": "arXiv cs.AI",
       "url": "https://arxiv.org/abs/2611.31427",
-      "summary_vi": "Bài báo phân tích nguyên nhân khiến các Agent dựa trên LLM thất bại, do thiếu kiến thức chuyên môn hay do thiếu kỹ năng tương tác với giao diện hệ thống. Nghiên cứu đề xuất tách biệt hai yếu tố này để hiểu rõ hơn quá trình huấn luyện và tối ưu hóa Agent. Việc phân tách giúp nâng cao hiệu quả đào tạo mô hình thực thi nhiệm vụ phức tạp.",
-      "why_it_matters": "Giúp sinh viên hiểu sâu cấu trúc năng lực của AI Agent để thiết kế quy trình huấn luyện và đánh giá hiệu quả hơn."
+      "summary_vi": "Nghiên cứu chỉ ra rằng khi một LLM agent thất bại, nguyên nhân có thể do thiếu kiến thức nhiệm vụ hoặc do không biết cách thao tác trên giao diện công cụ. Việc phân tách hai loại năng lực này giúp các nhà nghiên cứu xác định chính xác điểm nghẽn của mô hình để có phương án huấn luyện phù hợp. Phương pháp phân tích này đem lại cái nhìn toàn diện hơn trong việc tối ưu hóa hiệu suất cho các agent thông minh.",
+      "why_it_matters": "Hỗ trợ sinh viên định hình rõ phương pháp luận trong việc đánh giá và tinh chỉnh các hệ thống AI agent phức tạp."
     },
     {
-      "title": "One Step, Four Clocks: How GUI Agents Fall Out of Step",
-      "title_vi": "Một bước đi, bốn đồng hồ: Nguyên nhân khiến Agent đồ họa mất đồng bộ",
-      "source": "arXiv cs.AI",
-      "url": "https://arxiv.org/abs/2611.31522",
-      "summary_vi": "Nghiên cứu chỉ ra rằng các Agent giao diện người dùng đồ họa (GUI) thường thất bại do sự lệch pha thời gian giữa thay đổi môi trường, quan sát, đưa ra quyết định và thực thi hành động. Tác giả giới thiệu khung ChronotopeGym để mô phỏng và phân tích hành vi của Agent dưới các điều kiện thực thi khác nhau. Đóng góp này giúp cải thiện độ ổn định của Agent trong môi trường thực tế.",
-      "why_it_matters": "Đây là kiến thức quan trọng cho sinh viên khi xây dựng các ứng dụng tự động hóa giao diện có độ trễ và tính biến động cao."
-    },
-    {
-      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
-      "title_vi": "Nhiễu động không khí rất khó dự đoán, nhưng điều đó có thể sớm thay đổi nhờ AI",
-      "source": "Wired AI",
-      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
-      "summary_vi": "Bài báo thảo luận về việc ứng dụng Học máy và hàng terabyte dữ liệu đám đông để giải bài toán dự đoán nhiễu động không khí trong hàng không. Đây từng được xem là một trong những bài toán vật lý cổ điển khó nhất hiện nay. Công nghệ mới hứa hẹn giúp các chuyến bay an toàn và mượt mà hơn.",
-      "why_it_matters": "Cho sinh viên thấy sức mạnh của Data Science và Machine Learning trong việc giải quyết các bài toán vật lý thực tế phức tạp."
-    },
-    {
-      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "title_vi": "Dario Amodei của Anthropic bác bỏ cáo buộc trao quyền kiểm soát của con người cho AI",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "title_vi": "OpenAI hợp nhất trải nghiệm Chat và Work, người dùng tần suất cao có thể sớm chạm giới hạn",
       "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "summary_vi": "Giám đốc điều hành Anthropic, Dario Amodei, đã phản bác lại những chỉ trích cho rằng công ty của ông ủng hộ việc giao quyền tự quyết của con người cho AI. Mặc dù các công ty AI hàng đầu đang tăng cường tự động hóa quá trình nghiên cứu, ông khẳng định sự giám sát của con người vẫn là cốt lõi. Tranh luận này phản ánh sự cân bằng giữa tự động hóa và đạo đức AI.",
-      "why_it_matters": "Sinh viên ngành AI cần quan tâm đến các khía cạnh đạo đức và định hướng quản trị AI từ lãnh đạo các tập đoàn hàng đầu."
-    },
-    {
-      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-      "title_vi": "Maple gọi vốn 5,3 triệu USD để phát triển sản phẩm AI mã hóa bảo vệ dữ liệu người dùng",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-      "summary_vi": "Startup Maple vừa gọi vốn thành công 5,3 triệu USD nhằm xây dựng kiến trúc AI mã hóa đặc biệt. Thiết kế này ngăn chặn chính công ty truy cập vào dữ liệu riêng tư của người dùng trong quá trình xử lý. Xu hướng này mở ra hướng đi mới cho việc ứng dụng AI đảm bảo tính riêng tư cao.",
-      "why_it_matters": "Bài viết cập nhật xu hướng AI bảo mật dữ liệu, một lĩnh vực nghiên cứu và ứng dụng rất tiềm năng."
-    },
-    {
-      "title": "Even the best AI agents struggle with everyday life",
-      "title_vi": "Ngay cả những Agent AI tốt nhất vẫn gặp khó khăn với các nhiệm vụ hàng ngày",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "summary_vi": "Một bộ kiểm thử chuẩn mới công bố cho thấy các mô hình AI tiên tiến nhất hiện nay vẫn gặp nhiều rào cản khi thực hiện những tác vụ đời sống hàng ngày một cách an toàn và tin cậy. Dù trợ lý cá nhân AI đang trở nên phổ biến, rủi ro phát sinh sự cố bất ngờ vẫn còn rất lớn. Điều này đòi hỏi các nhà nghiên cứu phải hoàn thiện hơn nữa khả năng lập luận của Agent.",
-      "why_it_matters": "Giúp sinh viên có cái nhìn thực tế về giới hạn hiện tại của AI Agent thay vì những kỳ vọng quá mức từ truyền thông."
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "summary_vi": "OpenAI thông báo sẽ áp dụng một bộ đo dung lượng sử dụng chung khi hợp nhất hai trải nghiệm ChatGPT Chat và ChatGPT Work. Sự thay đổi này có thể khiến những người dùng tần suất cao chạm giới hạn tin nhắn nhanh hơn trước. Đây là một bước đi trong chiến lược chuẩn hóa và đơn giản hóa hệ sinh thái sản phẩm của OpenAI.",
+      "why_it_matters": "Sinh viên và nhà phát triển cần lưu ý sự thay đổi chính sách sử dụng API và dịch vụ của OpenAI để điều chỉnh quy trình làm việc phù hợp."
     }
   ]
 }
