@@ -1,62 +1,62 @@
 {
-  "date": "2026-11-27",
-  "headline_summary": "Xu hướng nổi bật hôm nay tập trung vào tính an toàn, bảo mật và khả năng đánh giá thực chất của các hệ thống AI agent cũng như mô hình ngôn ngữ lớn. Bên cạnh đó, ngành công nghiệp phần cứng AI đang đối mặt với những biến động địa chính trị mới ảnh hưởng đến chuỗi cung ứng tại Đông Nam Á. Ngoài ra, việc phát hiện sai sót lâu năm trong bộ dữ liệu huấn luyện kinh điển UCI nhắc nhở cộng đồng nghiên cứu về tầm quan trọng của việc kiểm định dữ liệu nguồn.",
+  "date": "2026-11-28",
+  "headline_summary": "Các nghiên cứu nổi bật hôm nay tập trung vào việc tối ưu hóa khả năng suy luận thời gian thực và phân luồng tác vụ hiệu quả cho các hệ thống agent AI. Bên cạnh đó, mảng phần cứng AI ghi nhận sự xuất hiện của công nghệ chip quang học mới giúp tiết kiệm năng lượng cùng những biến động địa chính trị tại khu vực Đông Nam Á.",
   "articles": [
     {
-      "title": "Typical Angina, Reversed: A Long-Standing Documentation Error in the UCI Heart Disease Data",
-      "title_vi": "Đảo ngược thông số ngực đau: Lỗi tài liệu kéo dài nhiều năm trong bộ dữ liệu bệnh tim UCI",
-      "source": "arXiv cs.LG",
-      "url": "https://arxiv.org/abs/2611.33248",
-      "summary_vi": "Nghiên cứu phát hiện ra một sai sót nghiêm trọng trong bộ dữ liệu bệnh tim UCI nổi tiếng, nơi biến số đau ngực bị lưu ngược so với tài liệu hướng dẫn. Cụ thể, mã đánh dấu bệnh nhân đau ngực điển hình lại bị gán ngược với nhóm hầu như không có triệu chứng và ngược lại trên cả 4 cơ sở dữ liệu. Phát hiện này ảnh hưởng trực tiếp đến hàng ngàn mô hình máy học đã được đánh giá trên bộ dữ liệu chuẩn này trong nhiều thập kỷ qua.",
-      "why_it_matters": "Bài viết là lời nhắc nhở quan trọng cho sinh viên về việc luôn phải kiểm tra kĩ chất lượng và tính chính xác của dữ liệu thực tế trước khi xây dựng mô hình."
-    },
-    {
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-      "title_vi": "Nvidia tạm ngưng vận chuyển chip AI sang khu vực Đông Nam Á",
+      "title_vi": "Nvidia tạm dừng giao hàng chip AI tới Đông Nam Á",
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-      "summary_vi": "Nvidia đã yêu cầu các đối tác sản xuất tạm dừng giao máy chủ AI đến Malaysia, Singapore, Thái Lan và Indonesia. Quyết định này diễn ra trong bối cảnh chính phủ Mỹ thắt chặt các chính sách ngăn chặn chip AI tiên tiến bị tuồn sang thị trường Trung Quốc. Việc gián đoạn nguồn cung có thể làm chậm tốc độ phát triển hạ tầng trung tâm dữ liệu AI tại khu vực Đông Nam Á.",
-      "why_it_matters": "Giúp sinh viên nắm bắt được sự ảnh hưởng của địa chính trị và chuỗi cung ứng phần cứng đến sự phát triển của ngành AI toàn cầu."
+      "summary_vi": "Nvidia đã yêu cầu các đối tác sản xuất tạm dừng giao máy chủ AI đến Malaysia, Singapore, Thái Lan và Indonesia. Động thái này diễn ra trong bối cảnh Mỹ thắt chặt các quy định xuất khẩu nhằm ngăn chặn chip AI tiên tiến chuyển sang Trung Quốc.",
+      "why_it_matters": "Sinh viên cần nắm bắt các biến động địa chính trị ảnh hưởng trực tiếp đến chuỗi cung ứng phần cứng và hạ tầng tính toán AI toàn cầu."
     },
     {
-      "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
-      "title_vi": "MOZAIC: Bộ dữ liệu chuẩn đánh giá deepfake hình ảnh và âm thanh đa phương thức",
+      "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+      "title_vi": "Thế hệ chip mới vận hành mô hình AI bằng sóng ánh sáng",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "summary_vi": "Công ty Q.ANT của Đức đang phát triển dòng chip quang học mới sử dụng ánh sáng để thực hiện các phép tính phức tạp. Giải pháp này hứa hẹn cắt giảm đáng kể lượng điện năng tiêu thụ khổng lồ khi vận hành các mô hình AI hiện nay.",
+      "why_it_matters": "Đây là xu hướng công nghệ phần cứng đột phá mà sinh viên AI và Data Science nên theo dõi để hiểu về tương lai của hạ tầng tính toán xanh."
+    },
+    {
+      "title": "Learning to Reason in Real-Time",
+      "title_vi": "Học cách suy luận trong thời gian thực",
       "source": "arXiv cs.AI",
-      "url": "https://arxiv.org/abs/2611.31301",
-      "summary_vi": "MOZAIC cung cấp một bộ dữ liệu chuẩn mới cho phép kiểm tra chính xác công cụ phát hiện deepfake dựa trên hình ảnh, giọng nói hay cả hai. Nhờ thiết kế ghép cặp 4 chiều phân loại chi tiết giữa video thật/giả và âm thanh thật/giả, bộ dữ liệu giúp đo lường đóng góp riêng biệt của từng phương thức đa phương tiện. Điều này khắc phục hạn chế của các bộ benchmark cũ vốn chỉ dán nhãn nhị phân thật hoặc giả cho toàn bộ clip.",
-      "why_it_matters": "Cung cấp phương pháp luận và dữ liệu chuẩn mới cho sinh viên đang làm nghiên cứu trong lĩnh vực thị giác máy tính và bảo mật AI."
+      "url": "https://arxiv.org/abs/2611.33513",
+      "summary_vi": "Nghiên cứu tập trung vào cách các agent AI đưa ra quyết định trong môi trường thời gian thực, nơi thế giới liên tục biến đổi độc lập với hành động của mô hình. Tác giả đề xuất phương pháp giúp agent cân bằng giữa thời gian suy nghĩ và hành động để đưa ra phản hồi chính xác đúng lúc.",
+      "why_it_matters": "Nghiên cứu này giúp sinh viên hiểu rõ thách thức cốt lõi khi triển khai các hệ thống agent AI vào môi trường ứng dụng thực tế động."
     },
     {
-      "title": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
-      "title_vi": "ContextLure: Khai thác lịch sử trò chuyện lành mạnh để tấn công tiêm prompt gián tiếp",
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "title_vi": "Mở rộng ngữ cảnh: Ranh giới mới của việc mở rộng quy mô AI",
       "source": "arXiv cs.AI",
-      "url": "https://arxiv.org/abs/2611.31424",
-      "summary_vi": "Nghiên cứu giới thiệu kỹ thuật tấn công ContextLure, cho thấy kẻ tấn công có thể lợi dụng ngữ cảnh trò chuyện lành mạnh có sẵn của người dùng để chế tạo các cuộc tấn công tiêm prompt gián tiếp mạnh hơn. Nhờ phân tích các ràng buộc vận hành và dữ liệu trong ngữ cảnh cũ, đòn tấn công có thể qua mặt các cơ chế bảo mật mà không cần tăng quyền kiểm soát hệ thống. Đột phá này đặt ra thách thức lớn cho việc bảo vệ các agent LLM hoạt động dài hạn.",
-      "why_it_matters": "Giúp sinh viên nhận thức được các lỗ hổng bảo mật tiềm ẩn khi thiết kế và triển khai các ứng dụng agent dựa trên LLM."
+      "url": "https://arxiv.org/abs/2611.33160",
+      "summary_vi": "Bài báo chỉ ra rằng nhiều thất bại của AI không phải do khả năng suy luận yếu mà do sự sai lệch giữa ngữ cảnh sẵn có và trạng thái thực tế của tác vụ. Nghiên cứu đề xuất khái niệm mở rộng ngữ cảnh (context scaling) để quản lý và trích xuất ngữ cảnh đầu vào một cách chính xác nhất.",
+      "why_it_matters": "Bài báo cung cấp góc nhìn mới cho sinh viên về việc tối ưu hóa ngữ cảnh đầu vào thay vì chỉ tập trung tăng kích thước mô hình."
     },
     {
-      "title": "Neighbor Crowding Predicts Feature Stability in Sparse Autoencoders",
-      "title_vi": "Mật độ lân cận giúp dự đoán độ ổn định đặc trưng trong Sparse Autoencoder",
-      "source": "arXiv cs.LG",
-      "url": "https://arxiv.org/abs/2611.33182",
-      "summary_vi": "Sparse Autoencoders (SAE) giúp giải mã các đại diện ẩn của mô hình ngôn ngữ thành các đặc trưng đơn nghĩa dễ giải thích, nhưng việc xác định đặc trưng nào thực sự ổn định rất tốn kém chi phí tính toán. Bài báo đề xuất phương pháp dự đoán độ ổn định của đặc trưng dựa trên mật độ lân cận trong không gian biểu diễn mà không cần huấn luyện lại nhiều lần. Kết quả giúp giảm đáng kể chi phí khi nghiên cứu khả năng giải thích được của LLM.",
-      "why_it_matters": "Đây là kỹ thuật hữu ích cho sinh viên nghiên cứu sâu về cơ chế hoạt động nội tại và tính giải thích được của các mô hình học sâu."
-    },
-    {
-      "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
-      "title_vi": "Học 'Cái gì' đối đầu Học 'Như thế nào': Phân tách năng lực nhiệm vụ và năng lực giao diện trong huấn luyện Agent",
+      "title": "Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows",
+      "title_vi": "Phân luồng một phần: Uỷ quyền tác vụ tối ưu chi phí cho quy trình Agent",
       "source": "arXiv cs.AI",
-      "url": "https://arxiv.org/abs/2611.31427",
-      "summary_vi": "Nghiên cứu chỉ ra rằng khi một LLM agent thất bại, nguyên nhân có thể do thiếu kiến thức nhiệm vụ hoặc do không biết cách thao tác trên giao diện công cụ. Việc phân tách hai loại năng lực này giúp các nhà nghiên cứu xác định chính xác điểm nghẽn của mô hình để có phương án huấn luyện phù hợp. Phương pháp phân tích này đem lại cái nhìn toàn diện hơn trong việc tối ưu hóa hiệu suất cho các agent thông minh.",
-      "why_it_matters": "Hỗ trợ sinh viên định hình rõ phương pháp luận trong việc đánh giá và tinh chỉnh các hệ thống AI agent phức tạp."
+      "url": "https://arxiv.org/abs/2611.33402",
+      "summary_vi": "Các tác vụ của agent thường gồm cả bước dễ lẫn bước khó, làm việc dùng mô hình lớn cho toàn bộ quy trình gây lãng phí chi phí. Phương pháp Partial Routing cho phép mô hình dẫn dắt giao các subtask đơn giản cho các mô hình nhỏ hơn xử lý, giúp tiết kiệm đáng kể chi phí mà vẫn đảm bảo hiệu năng.",
+      "why_it_matters": "Kiến thức này rất hữu ích cho sinh viên khi thiết kế các hệ thống AI thương mại cần tối ưu hóa ngân sách gọi API."
     },
     {
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "title_vi": "OpenAI hợp nhất trải nghiệm Chat và Work, người dùng tần suất cao có thể sớm chạm giới hạn",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "summary_vi": "OpenAI thông báo sẽ áp dụng một bộ đo dung lượng sử dụng chung khi hợp nhất hai trải nghiệm ChatGPT Chat và ChatGPT Work. Sự thay đổi này có thể khiến những người dùng tần suất cao chạm giới hạn tin nhắn nhanh hơn trước. Đây là một bước đi trong chiến lược chuẩn hóa và đơn giản hóa hệ sinh thái sản phẩm của OpenAI.",
-      "why_it_matters": "Sinh viên và nhà phát triển cần lưu ý sự thay đổi chính sách sử dụng API và dịch vụ của OpenAI để điều chỉnh quy trình làm việc phù hợp."
+      "title": "CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation",
+      "title_vi": "CA-RAG: Truy xuất căn chỉnh theo ràng buộc cho tạo văn bản dài đúng cấu trúc",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33497",
+      "summary_vi": "Các kỹ thuật RAG thông thường tập trung vào độ tương đồng ngữ nghĩa nên dễ bỏ qua các ràng buộc cấu trúc bắt buộc trong văn bản pháp lý hoặc báo cáo. CA-RAG bổ sung thông tin ràng buộc vào truy vấn để đảm bảo tài liệu trích xuất vừa đúng nội dung vừa đáp ứng chính xác cấu trúc đầu ra.",
+      "why_it_matters": "Giúp sinh viên nắm vững kỹ thuật nâng cao để cải thiện hệ thống RAG khi giải quyết các bài toán thực tế có yêu cầu định dạng khắt khe."
+    },
+    {
+      "title": "The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation",
+      "title_vi": "Giả thuyết biểu diễn Platonic trong không gian Jacobian",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33304",
+      "summary_vi": "Bài báo kiểm chứng Giả thuyết Biểu diễn Platonic (PRH), cho rằng các mô hình AI khác nhau đều hội tụ về một cách biểu diễn thế giới chung. Nghiên cứu chứng minh rằng mô hình ngôn ngữ và thị giác không chỉ tương đồng về không gian kích hoạt mà còn hội tụ về cách thức tác động lên đầu ra.",
+      "why_it_matters": "Đây là nền tảng lý thuyết quan trọng giúp sinh viên hiểu sâu hơn về bản chất hội tụ biểu diễn trong các mô hình đa thức."
     }
   ]
 }

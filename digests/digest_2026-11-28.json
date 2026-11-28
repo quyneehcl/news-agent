@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-28",
+  "headline_summary": "Các nghiên cứu nổi bật hôm nay tập trung vào việc tối ưu hóa khả năng suy luận thời gian thực và phân luồng tác vụ hiệu quả cho các hệ thống agent AI. Bên cạnh đó, mảng phần cứng AI ghi nhận sự xuất hiện của công nghệ chip quang học mới giúp tiết kiệm năng lượng cùng những biến động địa chính trị tại khu vực Đông Nam Á.",
+  "articles": [
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "title_vi": "Nvidia tạm dừng giao hàng chip AI tới Đông Nam Á",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "summary_vi": "Nvidia đã yêu cầu các đối tác sản xuất tạm dừng giao máy chủ AI đến Malaysia, Singapore, Thái Lan và Indonesia. Động thái này diễn ra trong bối cảnh Mỹ thắt chặt các quy định xuất khẩu nhằm ngăn chặn chip AI tiên tiến chuyển sang Trung Quốc.",
+      "why_it_matters": "Sinh viên cần nắm bắt các biến động địa chính trị ảnh hưởng trực tiếp đến chuỗi cung ứng phần cứng và hạ tầng tính toán AI toàn cầu."
+    },
+    {
+      "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+      "title_vi": "Thế hệ chip mới vận hành mô hình AI bằng sóng ánh sáng",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "summary_vi": "Công ty Q.ANT của Đức đang phát triển dòng chip quang học mới sử dụng ánh sáng để thực hiện các phép tính phức tạp. Giải pháp này hứa hẹn cắt giảm đáng kể lượng điện năng tiêu thụ khổng lồ khi vận hành các mô hình AI hiện nay.",
+      "why_it_matters": "Đây là xu hướng công nghệ phần cứng đột phá mà sinh viên AI và Data Science nên theo dõi để hiểu về tương lai của hạ tầng tính toán xanh."
+    },
+    {
+      "title": "Learning to Reason in Real-Time",
+      "title_vi": "Học cách suy luận trong thời gian thực",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33513",
+      "summary_vi": "Nghiên cứu tập trung vào cách các agent AI đưa ra quyết định trong môi trường thời gian thực, nơi thế giới liên tục biến đổi độc lập với hành động của mô hình. Tác giả đề xuất phương pháp giúp agent cân bằng giữa thời gian suy nghĩ và hành động để đưa ra phản hồi chính xác đúng lúc.",
+      "why_it_matters": "Nghiên cứu này giúp sinh viên hiểu rõ thách thức cốt lõi khi triển khai các hệ thống agent AI vào môi trường ứng dụng thực tế động."
+    },
+    {
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "title_vi": "Mở rộng ngữ cảnh: Ranh giới mới của việc mở rộng quy mô AI",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33160",
+      "summary_vi": "Bài báo chỉ ra rằng nhiều thất bại của AI không phải do khả năng suy luận yếu mà do sự sai lệch giữa ngữ cảnh sẵn có và trạng thái thực tế của tác vụ. Nghiên cứu đề xuất khái niệm mở rộng ngữ cảnh (context scaling) để quản lý và trích xuất ngữ cảnh đầu vào một cách chính xác nhất.",
+      "why_it_matters": "Bài báo cung cấp góc nhìn mới cho sinh viên về việc tối ưu hóa ngữ cảnh đầu vào thay vì chỉ tập trung tăng kích thước mô hình."
+    },
+    {
+      "title": "Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows",
+      "title_vi": "Phân luồng một phần: Uỷ quyền tác vụ tối ưu chi phí cho quy trình Agent",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33402",
+      "summary_vi": "Các tác vụ của agent thường gồm cả bước dễ lẫn bước khó, làm việc dùng mô hình lớn cho toàn bộ quy trình gây lãng phí chi phí. Phương pháp Partial Routing cho phép mô hình dẫn dắt giao các subtask đơn giản cho các mô hình nhỏ hơn xử lý, giúp tiết kiệm đáng kể chi phí mà vẫn đảm bảo hiệu năng.",
+      "why_it_matters": "Kiến thức này rất hữu ích cho sinh viên khi thiết kế các hệ thống AI thương mại cần tối ưu hóa ngân sách gọi API."
+    },
+    {
+      "title": "CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation",
+      "title_vi": "CA-RAG: Truy xuất căn chỉnh theo ràng buộc cho tạo văn bản dài đúng cấu trúc",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33497",
+      "summary_vi": "Các kỹ thuật RAG thông thường tập trung vào độ tương đồng ngữ nghĩa nên dễ bỏ qua các ràng buộc cấu trúc bắt buộc trong văn bản pháp lý hoặc báo cáo. CA-RAG bổ sung thông tin ràng buộc vào truy vấn để đảm bảo tài liệu trích xuất vừa đúng nội dung vừa đáp ứng chính xác cấu trúc đầu ra.",
+      "why_it_matters": "Giúp sinh viên nắm vững kỹ thuật nâng cao để cải thiện hệ thống RAG khi giải quyết các bài toán thực tế có yêu cầu định dạng khắt khe."
+    },
+    {
+      "title": "The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation",
+      "title_vi": "Giả thuyết biểu diễn Platonic trong không gian Jacobian",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33304",
+      "summary_vi": "Bài báo kiểm chứng Giả thuyết Biểu diễn Platonic (PRH), cho rằng các mô hình AI khác nhau đều hội tụ về một cách biểu diễn thế giới chung. Nghiên cứu chứng minh rằng mô hình ngôn ngữ và thị giác không chỉ tương đồng về không gian kích hoạt mà còn hội tụ về cách thức tác động lên đầu ra.",
+      "why_it_matters": "Đây là nền tảng lý thuyết quan trọng giúp sinh viên hiểu sâu hơn về bản chất hội tụ biểu diễn trong các mô hình đa thức."
+    }
+  ]
+}
